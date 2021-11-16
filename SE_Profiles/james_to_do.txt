@@ -1,0 +1,10 @@
+Hey can you help recreate the charts on these pages in Tableau?
+ 
+https://www.mrcog-nm.gov/206/Population-Housing - don’t need the race/ethnicity chart on this one.
+https://www.mrcog-nm.gov/204/Employment
+https://www.mrcog-nm.gov/205/Income
+https://www.mrcog-nm.gov/203/Commuting
+ 
+I don’t think it’s very high priority so if you’re busy with other stuff don’t worry about it.
+ 
+-James

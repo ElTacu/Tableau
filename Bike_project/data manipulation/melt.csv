@@ -1,0 +1,1345 @@
+,Location,Date,Value
+0,Jerry Cline Park Pedestrians IN West,2017-01,0.0
+1,Jerry Cline Park Pedestrians OUT East,2017-01,0.0
+2,Jerry Cline Park Bicyclists OUT East,2017-01,0.0
+3,Erna Fergusson Library Bicycle Eastbound,2017-01,952.0
+4,Erna Fergusson Library Bicycle Westbound,2017-01,898.0
+5,Erna Fergusson Library PED Eastbound,2017-01,2550.0
+6,Erna Fergusson Library PED Westbound,2017-01,1964.0
+7,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2017-01,0.0
+8,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2017-01,0.0
+9,North Diversion Channel Trail & Indian School Pedestrians NORTH,2017-01,0.0
+10,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2017-01,0.0
+11,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2017-01,0.0
+12,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2017-01,0.0
+13,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2017-01,0.0
+14,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2017-01,0.0
+15,Jerry Cline Park Cyclists IN West,2017-01,0.0
+16,Paseo del Bosque & Montano Rd Cyclists North,2017-01,0.0
+17,Paseo del Bosque & Montano Rd Cyclists South,2017-01,0.0
+18,Paseo del Bosque & Montano Rd Pedestrians North,2017-01,0.0
+19,Paseo del Bosque & Montano Rd Pedestrians South,2017-01,0.0
+20,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2017-01,0.0
+21,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2017-01,0.0
+22,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2017-01,0.0
+23,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2017-01,0.0
+24,Paseo del Norte & Rail Runner Bicycle Eastbound,2017-01,1319.0
+25,Paseo del Norte & Rail Runner Bicycle Westbound,2017-01,1363.0
+26,Paseo del Norte & Rail Runner PED Eastbound,2017-01,334.0
+27,Paseo del Norte & Rail Runer PED Westbound,2017-01,303.0
+28,Jerry Cline Park Pedestrians IN West,2017-02,0.0
+29,Jerry Cline Park Pedestrians OUT East,2017-02,0.0
+30,Jerry Cline Park Bicyclists OUT East,2017-02,0.0
+31,Erna Fergusson Library Bicycle Eastbound,2017-02,1152.0
+32,Erna Fergusson Library Bicycle Westbound,2017-02,1109.0
+33,Erna Fergusson Library PED Eastbound,2017-02,2862.0
+34,Erna Fergusson Library PED Westbound,2017-02,2201.0
+35,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2017-02,0.0
+36,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2017-02,0.0
+37,North Diversion Channel Trail & Indian School Pedestrians NORTH,2017-02,0.0
+38,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2017-02,0.0
+39,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2017-02,0.0
+40,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2017-02,0.0
+41,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2017-02,0.0
+42,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2017-02,0.0
+43,Jerry Cline Park Cyclists IN West,2017-02,0.0
+44,Paseo del Bosque & Montano Rd Cyclists North,2017-02,0.0
+45,Paseo del Bosque & Montano Rd Cyclists South,2017-02,0.0
+46,Paseo del Bosque & Montano Rd Pedestrians North,2017-02,0.0
+47,Paseo del Bosque & Montano Rd Pedestrians South,2017-02,0.0
+48,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2017-02,0.0
+49,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2017-02,0.0
+50,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2017-02,0.0
+51,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2017-02,0.0
+52,Paseo del Norte & Rail Runner Bicycle Eastbound,2017-02,1745.0
+53,Paseo del Norte & Rail Runner Bicycle Westbound,2017-02,1673.0
+54,Paseo del Norte & Rail Runner PED Eastbound,2017-02,365.0
+55,Paseo del Norte & Rail Runer PED Westbound,2017-02,350.0
+56,Jerry Cline Park Pedestrians IN West,2017-03,0.0
+57,Jerry Cline Park Pedestrians OUT East,2017-03,0.0
+58,Jerry Cline Park Bicyclists OUT East,2017-03,0.0
+59,Erna Fergusson Library Bicycle Eastbound,2017-03,1752.0
+60,Erna Fergusson Library Bicycle Westbound,2017-03,1527.0
+61,Erna Fergusson Library PED Eastbound,2017-03,3888.0
+62,Erna Fergusson Library PED Westbound,2017-03,2951.0
+63,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2017-03,0.0
+64,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2017-03,0.0
+65,North Diversion Channel Trail & Indian School Pedestrians NORTH,2017-03,0.0
+66,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2017-03,0.0
+67,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2017-03,0.0
+68,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2017-03,0.0
+69,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2017-03,0.0
+70,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2017-03,0.0
+71,Jerry Cline Park Cyclists IN West,2017-03,0.0
+72,Paseo del Bosque & Montano Rd Cyclists North,2017-03,0.0
+73,Paseo del Bosque & Montano Rd Cyclists South,2017-03,0.0
+74,Paseo del Bosque & Montano Rd Pedestrians North,2017-03,0.0
+75,Paseo del Bosque & Montano Rd Pedestrians South,2017-03,0.0
+76,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2017-03,0.0
+77,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2017-03,0.0
+78,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2017-03,0.0
+79,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2017-03,0.0
+80,Paseo del Norte & Rail Runner Bicycle Eastbound,2017-03,2461.0
+81,Paseo del Norte & Rail Runner Bicycle Westbound,2017-03,2523.0
+82,Paseo del Norte & Rail Runner PED Eastbound,2017-03,503.0
+83,Paseo del Norte & Rail Runer PED Westbound,2017-03,640.0
+84,Jerry Cline Park Pedestrians IN West,2017-04,0.0
+85,Jerry Cline Park Pedestrians OUT East,2017-04,0.0
+86,Jerry Cline Park Bicyclists OUT East,2017-04,0.0
+87,Erna Fergusson Library Bicycle Eastbound,2017-04,1688.0
+88,Erna Fergusson Library Bicycle Westbound,2017-04,1423.0
+89,Erna Fergusson Library PED Eastbound,2017-04,2837.0
+90,Erna Fergusson Library PED Westbound,2017-04,2458.0
+91,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2017-04,0.0
+92,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2017-04,0.0
+93,North Diversion Channel Trail & Indian School Pedestrians NORTH,2017-04,0.0
+94,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2017-04,0.0
+95,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2017-04,0.0
+96,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2017-04,0.0
+97,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2017-04,0.0
+98,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2017-04,0.0
+99,Jerry Cline Park Cyclists IN West,2017-04,0.0
+100,Paseo del Bosque & Montano Rd Cyclists North,2017-04,0.0
+101,Paseo del Bosque & Montano Rd Cyclists South,2017-04,0.0
+102,Paseo del Bosque & Montano Rd Pedestrians North,2017-04,0.0
+103,Paseo del Bosque & Montano Rd Pedestrians South,2017-04,0.0
+104,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2017-04,0.0
+105,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2017-04,0.0
+106,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2017-04,0.0
+107,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2017-04,0.0
+108,Paseo del Norte & Rail Runner Bicycle Eastbound,2017-04,2386.0
+109,Paseo del Norte & Rail Runner Bicycle Westbound,2017-04,2488.0
+110,Paseo del Norte & Rail Runner PED Eastbound,2017-04,31621.0
+111,Paseo del Norte & Rail Runer PED Westbound,2017-04,42730.0
+112,Jerry Cline Park Pedestrians IN West,2017-05,0.0
+113,Jerry Cline Park Pedestrians OUT East,2017-05,0.0
+114,Jerry Cline Park Bicyclists OUT East,2017-05,0.0
+115,Erna Fergusson Library Bicycle Eastbound,2017-05,2248.0
+116,Erna Fergusson Library Bicycle Westbound,2017-05,1847.0
+117,Erna Fergusson Library PED Eastbound,2017-05,3001.0
+118,Erna Fergusson Library PED Westbound,2017-05,2683.0
+119,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2017-05,0.0
+120,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2017-05,0.0
+121,North Diversion Channel Trail & Indian School Pedestrians NORTH,2017-05,0.0
+122,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2017-05,0.0
+123,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2017-05,0.0
+124,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2017-05,0.0
+125,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2017-05,0.0
+126,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2017-05,0.0
+127,Jerry Cline Park Cyclists IN West,2017-05,0.0
+128,Paseo del Bosque & Montano Rd Cyclists North,2017-05,0.0
+129,Paseo del Bosque & Montano Rd Cyclists South,2017-05,0.0
+130,Paseo del Bosque & Montano Rd Pedestrians North,2017-05,0.0
+131,Paseo del Bosque & Montano Rd Pedestrians South,2017-05,0.0
+132,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2017-05,0.0
+133,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2017-05,0.0
+134,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2017-05,0.0
+135,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2017-05,0.0
+136,Paseo del Norte & Rail Runner Bicycle Eastbound,2017-05,3074.0
+137,Paseo del Norte & Rail Runner Bicycle Westbound,2017-05,3157.0
+138,Paseo del Norte & Rail Runner PED Eastbound,2017-05,486.0
+139,Paseo del Norte & Rail Runer PED Westbound,2017-05,619.0
+140,Jerry Cline Park Pedestrians IN West,2017-06,0.0
+141,Jerry Cline Park Pedestrians OUT East,2017-06,0.0
+142,Jerry Cline Park Bicyclists OUT East,2017-06,0.0
+143,Erna Fergusson Library Bicycle Eastbound,2017-06,2039.0
+144,Erna Fergusson Library Bicycle Westbound,2017-06,1832.0
+145,Erna Fergusson Library PED Eastbound,2017-06,3058.0
+146,Erna Fergusson Library PED Westbound,2017-06,2326.0
+147,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2017-06,0.0
+148,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2017-06,0.0
+149,North Diversion Channel Trail & Indian School Pedestrians NORTH,2017-06,0.0
+150,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2017-06,0.0
+151,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2017-06,0.0
+152,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2017-06,0.0
+153,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2017-06,0.0
+154,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2017-06,0.0
+155,Jerry Cline Park Cyclists IN West,2017-06,0.0
+156,Paseo del Bosque & Montano Rd Cyclists North,2017-06,0.0
+157,Paseo del Bosque & Montano Rd Cyclists South,2017-06,0.0
+158,Paseo del Bosque & Montano Rd Pedestrians North,2017-06,0.0
+159,Paseo del Bosque & Montano Rd Pedestrians South,2017-06,0.0
+160,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2017-06,0.0
+161,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2017-06,0.0
+162,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2017-06,0.0
+163,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2017-06,0.0
+164,Paseo del Norte & Rail Runner Bicycle Eastbound,2017-06,3046.0
+165,Paseo del Norte & Rail Runner Bicycle Westbound,2017-06,3102.0
+166,Paseo del Norte & Rail Runner PED Eastbound,2017-06,456.0
+167,Paseo del Norte & Rail Runer PED Westbound,2017-06,595.0
+168,Jerry Cline Park Pedestrians IN West,2017-07,0.0
+169,Jerry Cline Park Pedestrians OUT East,2017-07,0.0
+170,Jerry Cline Park Bicyclists OUT East,2017-07,0.0
+171,Erna Fergusson Library Bicycle Eastbound,2017-07,2263.0
+172,Erna Fergusson Library Bicycle Westbound,2017-07,1896.0
+173,Erna Fergusson Library PED Eastbound,2017-07,3133.0
+174,Erna Fergusson Library PED Westbound,2017-07,1777.0
+175,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2017-07,0.0
+176,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2017-07,0.0
+177,North Diversion Channel Trail & Indian School Pedestrians NORTH,2017-07,0.0
+178,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2017-07,0.0
+179,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2017-07,0.0
+180,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2017-07,0.0
+181,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2017-07,0.0
+182,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2017-07,0.0
+183,Jerry Cline Park Cyclists IN West,2017-07,0.0
+184,Paseo del Bosque & Montano Rd Cyclists North,2017-07,0.0
+185,Paseo del Bosque & Montano Rd Cyclists South,2017-07,0.0
+186,Paseo del Bosque & Montano Rd Pedestrians North,2017-07,0.0
+187,Paseo del Bosque & Montano Rd Pedestrians South,2017-07,0.0
+188,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2017-07,0.0
+189,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2017-07,0.0
+190,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2017-07,0.0
+191,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2017-07,0.0
+192,Paseo del Norte & Rail Runner Bicycle Eastbound,2017-07,3287.0
+193,Paseo del Norte & Rail Runner Bicycle Westbound,2017-07,3270.0
+194,Paseo del Norte & Rail Runner PED Eastbound,2017-07,495.0
+195,Paseo del Norte & Rail Runer PED Westbound,2017-07,566.0
+196,Jerry Cline Park Pedestrians IN West,2017-08,0.0
+197,Jerry Cline Park Pedestrians OUT East,2017-08,0.0
+198,Jerry Cline Park Bicyclists OUT East,2017-08,0.0
+199,Erna Fergusson Library Bicycle Eastbound,2017-08,2071.0
+200,Erna Fergusson Library Bicycle Westbound,2017-08,1809.0
+201,Erna Fergusson Library PED Eastbound,2017-08,3136.0
+202,Erna Fergusson Library PED Westbound,2017-08,2452.0
+203,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2017-08,0.0
+204,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2017-08,0.0
+205,North Diversion Channel Trail & Indian School Pedestrians NORTH,2017-08,0.0
+206,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2017-08,0.0
+207,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2017-08,0.0
+208,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2017-08,0.0
+209,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2017-08,0.0
+210,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2017-08,0.0
+211,Jerry Cline Park Cyclists IN West,2017-08,0.0
+212,Paseo del Bosque & Montano Rd Cyclists North,2017-08,0.0
+213,Paseo del Bosque & Montano Rd Cyclists South,2017-08,0.0
+214,Paseo del Bosque & Montano Rd Pedestrians North,2017-08,0.0
+215,Paseo del Bosque & Montano Rd Pedestrians South,2017-08,0.0
+216,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2017-08,0.0
+217,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2017-08,0.0
+218,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2017-08,0.0
+219,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2017-08,0.0
+220,Paseo del Norte & Rail Runner Bicycle Eastbound,2017-08,3240.0
+221,Paseo del Norte & Rail Runner Bicycle Westbound,2017-08,3334.0
+222,Paseo del Norte & Rail Runner PED Eastbound,2017-08,468.0
+223,Paseo del Norte & Rail Runer PED Westbound,2017-08,523.0
+224,Jerry Cline Park Pedestrians IN West,2017-09,0.0
+225,Jerry Cline Park Pedestrians OUT East,2017-09,0.0
+226,Jerry Cline Park Bicyclists OUT East,2017-09,0.0
+227,Erna Fergusson Library Bicycle Eastbound,2017-09,1755.0
+228,Erna Fergusson Library Bicycle Westbound,2017-09,1470.0
+229,Erna Fergusson Library PED Eastbound,2017-09,2990.0
+230,Erna Fergusson Library PED Westbound,2017-09,2277.0
+231,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2017-09,0.0
+232,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2017-09,0.0
+233,North Diversion Channel Trail & Indian School Pedestrians NORTH,2017-09,0.0
+234,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2017-09,0.0
+235,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2017-09,0.0
+236,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2017-09,0.0
+237,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2017-09,0.0
+238,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2017-09,0.0
+239,Jerry Cline Park Cyclists IN West,2017-09,0.0
+240,Paseo del Bosque & Montano Rd Cyclists North,2017-09,0.0
+241,Paseo del Bosque & Montano Rd Cyclists South,2017-09,0.0
+242,Paseo del Bosque & Montano Rd Pedestrians North,2017-09,0.0
+243,Paseo del Bosque & Montano Rd Pedestrians South,2017-09,0.0
+244,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2017-09,0.0
+245,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2017-09,0.0
+246,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2017-09,0.0
+247,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2017-09,0.0
+248,Paseo del Norte & Rail Runner Bicycle Eastbound,2017-09,2774.0
+249,Paseo del Norte & Rail Runner Bicycle Westbound,2017-09,2768.0
+250,Paseo del Norte & Rail Runner PED Eastbound,2017-09,492.0
+251,Paseo del Norte & Rail Runer PED Westbound,2017-09,565.0
+252,Jerry Cline Park Pedestrians IN West,2017-10,2222.0
+253,Jerry Cline Park Pedestrians OUT East,2017-10,2012.0
+254,Jerry Cline Park Bicyclists OUT East,2017-10,1287.0
+255,Erna Fergusson Library Bicycle Eastbound,2017-10,1875.0
+256,Erna Fergusson Library Bicycle Westbound,2017-10,1615.0
+257,Erna Fergusson Library PED Eastbound,2017-10,4224.0
+258,Erna Fergusson Library PED Westbound,2017-10,2416.0
+259,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2017-10,4088.0
+260,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2017-10,3849.0
+261,North Diversion Channel Trail & Indian School Pedestrians NORTH,2017-10,1466.0
+262,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2017-10,1662.0
+263,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2017-10,1652.0
+264,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2017-10,1649.0
+265,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2017-10,670.0
+266,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2017-10,667.0
+267,Jerry Cline Park Cyclists IN West,2017-10,1445.0
+268,Paseo del Bosque & Montano Rd Cyclists North,2017-10,7806.0
+269,Paseo del Bosque & Montano Rd Cyclists South,2017-10,7643.0
+270,Paseo del Bosque & Montano Rd Pedestrians North,2017-10,2671.0
+271,Paseo del Bosque & Montano Rd Pedestrians South,2017-10,2892.0
+272,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2017-10,6619.0
+273,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2017-10,6717.0
+274,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2017-10,4176.0
+275,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2017-10,4642.0
+276,Paseo del Norte & Rail Runner Bicycle Eastbound,2017-10,3117.0
+277,Paseo del Norte & Rail Runner Bicycle Westbound,2017-10,3482.0
+278,Paseo del Norte & Rail Runner PED Eastbound,2017-10,1253.0
+279,Paseo del Norte & Rail Runer PED Westbound,2017-10,1848.0
+280,Jerry Cline Park Pedestrians IN West,2017-11,2066.0
+281,Jerry Cline Park Pedestrians OUT East,2017-11,2041.0
+282,Jerry Cline Park Bicyclists OUT East,2017-11,1191.0
+283,Erna Fergusson Library Bicycle Eastbound,2017-11,1369.0
+284,Erna Fergusson Library Bicycle Westbound,2017-11,1338.0
+285,Erna Fergusson Library PED Eastbound,2017-11,3888.0
+286,Erna Fergusson Library PED Westbound,2017-11,2177.0
+287,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2017-11,3605.0
+288,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2017-11,3436.0
+289,North Diversion Channel Trail & Indian School Pedestrians NORTH,2017-11,1320.0
+290,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2017-11,1403.0
+291,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2017-11,3266.0
+292,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2017-11,3160.0
+293,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2017-11,1432.0
+294,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2017-11,1389.0
+295,Jerry Cline Park Cyclists IN West,2017-11,1433.0
+296,Paseo del Bosque & Montano Rd Cyclists North,2017-11,6250.0
+297,Paseo del Bosque & Montano Rd Cyclists South,2017-11,6402.0
+298,Paseo del Bosque & Montano Rd Pedestrians North,2017-11,1774.0
+299,Paseo del Bosque & Montano Rd Pedestrians South,2017-11,1928.0
+300,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2017-11,5860.0
+301,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2017-11,5933.0
+302,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2017-11,2385.0
+303,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2017-11,3203.0
+304,Paseo del Norte & Rail Runner Bicycle Eastbound,2017-11,1861.0
+305,Paseo del Norte & Rail Runner Bicycle Westbound,2017-11,2466.0
+306,Paseo del Norte & Rail Runner PED Eastbound,2017-11,147.0
+307,Paseo del Norte & Rail Runer PED Westbound,2017-11,3296.0
+308,Jerry Cline Park Pedestrians IN West,2017-12,1756.0
+309,Jerry Cline Park Pedestrians OUT East,2017-12,1715.0
+310,Jerry Cline Park Bicyclists OUT East,2017-12,986.0
+311,Erna Fergusson Library Bicycle Eastbound,2017-12,935.0
+312,Erna Fergusson Library Bicycle Westbound,2017-12,895.0
+313,Erna Fergusson Library PED Eastbound,2017-12,3700.0
+314,Erna Fergusson Library PED Westbound,2017-12,1787.0
+315,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2017-12,2354.0
+316,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2017-12,2166.0
+317,North Diversion Channel Trail & Indian School Pedestrians NORTH,2017-12,881.0
+318,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2017-12,973.0
+319,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2017-12,2333.0
+320,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2017-12,2294.0
+321,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2017-12,1011.0
+322,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2017-12,1008.0
+323,Jerry Cline Park Cyclists IN West,2017-12,1132.0
+324,Paseo del Bosque & Montano Rd Cyclists North,2017-12,4170.0
+325,Paseo del Bosque & Montano Rd Cyclists South,2017-12,4148.0
+326,Paseo del Bosque & Montano Rd Pedestrians North,2017-12,1657.0
+327,Paseo del Bosque & Montano Rd Pedestrians South,2017-12,1752.0
+328,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2017-12,3878.0
+329,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2017-12,3856.0
+330,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2017-12,1962.0
+331,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2017-12,2171.0
+332,Paseo del Norte & Rail Runner Bicycle Eastbound,2017-12,553.0
+333,Paseo del Norte & Rail Runner Bicycle Westbound,2017-12,591.0
+334,Paseo del Norte & Rail Runner PED Eastbound,2017-12,119.0
+335,Paseo del Norte & Rail Runer PED Westbound,2017-12,3618.0
+336,Jerry Cline Park Pedestrians IN West,2018-01,2024.0
+337,Jerry Cline Park Pedestrians OUT East,2018-01,1970.0
+338,Jerry Cline Park Bicyclists OUT East,2018-01,963.0
+339,Erna Fergusson Library Bicycle Eastbound,2018-01,851.0
+340,Erna Fergusson Library Bicycle Westbound,2018-01,875.0
+341,Erna Fergusson Library PED Eastbound,2018-01,2822.0
+342,Erna Fergusson Library PED Westbound,2018-01,1928.0
+343,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2018-01,2781.0
+344,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2018-01,2507.0
+345,North Diversion Channel Trail & Indian School Pedestrians NORTH,2018-01,1093.0
+346,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2018-01,1217.0
+347,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2018-01,2367.0
+348,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2018-01,2223.0
+349,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2018-01,1282.0
+350,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2018-01,1248.0
+351,Jerry Cline Park Cyclists IN West,2018-01,1166.0
+352,Paseo del Bosque & Montano Rd Cyclists North,2018-01,3946.0
+353,Paseo del Bosque & Montano Rd Cyclists South,2018-01,4058.0
+354,Paseo del Bosque & Montano Rd Pedestrians North,2018-01,1579.0
+355,Paseo del Bosque & Montano Rd Pedestrians South,2018-01,1727.0
+356,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2018-01,3726.0
+357,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2018-01,3826.0
+358,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2018-01,2230.0
+359,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2018-01,2412.0
+360,Paseo del Norte & Rail Runner Bicycle Eastbound,2018-01,1071.0
+361,Paseo del Norte & Rail Runner Bicycle Westbound,2018-01,1155.0
+362,Paseo del Norte & Rail Runner PED Eastbound,2018-01,291.0
+363,Paseo del Norte & Rail Runer PED Westbound,2018-01,297.0
+364,Jerry Cline Park Pedestrians IN West,2018-02,1924.0
+365,Jerry Cline Park Pedestrians OUT East,2018-02,1906.0
+366,Jerry Cline Park Bicyclists OUT East,2018-02,1004.0
+367,Erna Fergusson Library Bicycle Eastbound,2018-02,863.0
+368,Erna Fergusson Library Bicycle Westbound,2018-02,925.0
+369,Erna Fergusson Library PED Eastbound,2018-02,2382.0
+370,Erna Fergusson Library PED Westbound,2018-02,1702.0
+371,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2018-02,2653.0
+372,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2018-02,2416.0
+373,North Diversion Channel Trail & Indian School Pedestrians NORTH,2018-02,1264.0
+374,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2018-02,1335.0
+375,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2018-02,2177.0
+376,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2018-02,2145.0
+377,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2018-02,1197.0
+378,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2018-02,1207.0
+379,Jerry Cline Park Cyclists IN West,2018-02,1251.0
+380,Paseo del Bosque & Montano Rd Cyclists North,2018-02,3913.0
+381,Paseo del Bosque & Montano Rd Cyclists South,2018-02,3822.0
+382,Paseo del Bosque & Montano Rd Pedestrians North,2018-02,1650.0
+383,Paseo del Bosque & Montano Rd Pedestrians South,2018-02,1748.0
+384,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2018-02,3837.0
+385,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2018-02,3608.0
+386,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2018-02,2027.0
+387,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2018-02,2151.0
+388,Paseo del Norte & Rail Runner Bicycle Eastbound,2018-02,1341.0
+389,Paseo del Norte & Rail Runner Bicycle Westbound,2018-02,1405.0
+390,Paseo del Norte & Rail Runner PED Eastbound,2018-02,305.0
+391,Paseo del Norte & Rail Runer PED Westbound,2018-02,312.0
+392,Jerry Cline Park Pedestrians IN West,2018-03,2709.0
+393,Jerry Cline Park Pedestrians OUT East,2018-03,2606.0
+394,Jerry Cline Park Bicyclists OUT East,2018-03,1335.0
+395,Erna Fergusson Library Bicycle Eastbound,2018-03,1277.0
+396,Erna Fergusson Library Bicycle Westbound,2018-03,1174.0
+397,Erna Fergusson Library PED Eastbound,2018-03,3297.0
+398,Erna Fergusson Library PED Westbound,2018-03,2189.0
+399,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2018-03,3513.0
+400,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2018-03,3203.0
+401,North Diversion Channel Trail & Indian School Pedestrians NORTH,2018-03,1326.0
+402,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2018-03,1376.0
+403,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2018-03,3248.0
+404,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2018-03,3025.0
+405,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2018-03,1932.0
+406,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2018-03,1562.0
+407,Jerry Cline Park Cyclists IN West,2018-03,1591.0
+408,Paseo del Bosque & Montano Rd Cyclists North,2018-03,6220.0
+409,Paseo del Bosque & Montano Rd Cyclists South,2018-03,6249.0
+410,Paseo del Bosque & Montano Rd Pedestrians North,2018-03,2009.0
+411,Paseo del Bosque & Montano Rd Pedestrians South,2018-03,2318.0
+412,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2018-03,6070.0
+413,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2018-03,6022.0
+414,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2018-03,3165.0
+415,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2018-03,3280.0
+416,Paseo del Norte & Rail Runner Bicycle Eastbound,2018-03,2055.0
+417,Paseo del Norte & Rail Runner Bicycle Westbound,2018-03,2196.0
+418,Paseo del Norte & Rail Runner PED Eastbound,2018-03,375.0
+419,Paseo del Norte & Rail Runer PED Westbound,2018-03,385.0
+420,Jerry Cline Park Pedestrians IN West,2018-04,2884.0
+421,Jerry Cline Park Pedestrians OUT East,2018-04,2741.0
+422,Jerry Cline Park Bicyclists OUT East,2018-04,1671.0
+423,Erna Fergusson Library Bicycle Eastbound,2018-04,1556.0
+424,Erna Fergusson Library Bicycle Westbound,2018-04,1450.0
+425,Erna Fergusson Library PED Eastbound,2018-04,2709.0
+426,Erna Fergusson Library PED Westbound,2018-04,2189.0
+427,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2018-04,3675.0
+428,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2018-04,3930.0
+429,North Diversion Channel Trail & Indian School Pedestrians NORTH,2018-04,1479.0
+430,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2018-04,1614.0
+431,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2018-04,3510.0
+432,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2018-04,3389.0
+433,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2018-04,2607.0
+434,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2018-04,1659.0
+435,Jerry Cline Park Cyclists IN West,2018-04,1933.0
+436,Paseo del Bosque & Montano Rd Cyclists North,2018-04,7280.0
+437,Paseo del Bosque & Montano Rd Cyclists South,2018-04,7325.0
+438,Paseo del Bosque & Montano Rd Pedestrians North,2018-04,2099.0
+439,Paseo del Bosque & Montano Rd Pedestrians South,2018-04,2708.0
+440,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2018-04,7437.0
+441,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2018-04,7234.0
+442,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2018-04,3324.0
+443,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2018-04,3188.0
+444,Paseo del Norte & Rail Runner Bicycle Eastbound,2018-04,2285.0
+445,Paseo del Norte & Rail Runner Bicycle Westbound,2018-04,2370.0
+446,Paseo del Norte & Rail Runner PED Eastbound,2018-04,433.0
+447,Paseo del Norte & Rail Runer PED Westbound,2018-04,438.0
+448,Jerry Cline Park Pedestrians IN West,2018-05,2829.0
+449,Jerry Cline Park Pedestrians OUT East,2018-05,2693.0
+450,Jerry Cline Park Bicyclists OUT East,2018-05,2067.0
+451,Erna Fergusson Library Bicycle Eastbound,2018-05,1973.0
+452,Erna Fergusson Library Bicycle Westbound,2018-05,1851.0
+453,Erna Fergusson Library PED Eastbound,2018-05,2916.0
+454,Erna Fergusson Library PED Westbound,2018-05,2460.0
+455,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2018-05,3580.0
+456,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2018-05,4938.0
+457,North Diversion Channel Trail & Indian School Pedestrians NORTH,2018-05,966.0
+458,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2018-05,1326.0
+459,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2018-05,4387.0
+460,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2018-05,4132.0
+461,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2018-05,4209.0
+462,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2018-05,1987.0
+463,Jerry Cline Park Cyclists IN West,2018-05,2389.0
+464,Paseo del Bosque & Montano Rd Cyclists North,2018-05,9019.0
+465,Paseo del Bosque & Montano Rd Cyclists South,2018-05,9191.0
+466,Paseo del Bosque & Montano Rd Pedestrians North,2018-05,2052.0
+467,Paseo del Bosque & Montano Rd Pedestrians South,2018-05,2880.0
+468,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2018-05,9080.0
+469,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2018-05,8678.0
+470,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2018-05,3959.0
+471,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2018-05,3273.0
+472,Paseo del Norte & Rail Runner Bicycle Eastbound,2018-05,2845.0
+473,Paseo del Norte & Rail Runner Bicycle Westbound,2018-05,2922.0
+474,Paseo del Norte & Rail Runner PED Eastbound,2018-05,498.0
+475,Paseo del Norte & Rail Runer PED Westbound,2018-05,532.0
+476,Jerry Cline Park Pedestrians IN West,2018-06,2608.0
+477,Jerry Cline Park Pedestrians OUT East,2018-06,2427.0
+478,Jerry Cline Park Bicyclists OUT East,2018-06,1985.0
+479,Erna Fergusson Library Bicycle Eastbound,2018-06,1920.0
+480,Erna Fergusson Library Bicycle Westbound,2018-06,1797.0
+481,Erna Fergusson Library PED Eastbound,2018-06,2942.0
+482,Erna Fergusson Library PED Westbound,2018-06,2341.0
+483,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2018-06,3230.0
+484,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2018-06,4718.0
+485,North Diversion Channel Trail & Indian School Pedestrians NORTH,2018-06,804.0
+486,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2018-06,1200.0
+487,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2018-06,4109.0
+488,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2018-06,4142.0
+489,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2018-06,7477.0
+490,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2018-06,2114.0
+491,Jerry Cline Park Cyclists IN West,2018-06,2294.0
+492,Paseo del Bosque & Montano Rd Cyclists North,2018-06,6843.0
+493,Paseo del Bosque & Montano Rd Cyclists South,2018-06,7212.0
+494,Paseo del Bosque & Montano Rd Pedestrians North,2018-06,1729.0
+495,Paseo del Bosque & Montano Rd Pedestrians South,2018-06,3593.0
+496,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2018-06,9905.0
+497,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2018-06,8726.0
+498,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2018-06,3453.0
+499,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2018-06,2937.0
+500,Paseo del Norte & Rail Runner Bicycle Eastbound,2018-06,2796.0
+501,Paseo del Norte & Rail Runner Bicycle Westbound,2018-06,2792.0
+502,Paseo del Norte & Rail Runner PED Eastbound,2018-06,410.0
+503,Paseo del Norte & Rail Runer PED Westbound,2018-06,441.0
+504,Jerry Cline Park Pedestrians IN West,2018-07,2815.0
+505,Jerry Cline Park Pedestrians OUT East,2018-07,2359.0
+506,Jerry Cline Park Bicyclists OUT East,2018-07,1709.0
+507,Erna Fergusson Library Bicycle Eastbound,2018-07,2006.0
+508,Erna Fergusson Library Bicycle Westbound,2018-07,1722.0
+509,Erna Fergusson Library PED Eastbound,2018-07,2468.0
+510,Erna Fergusson Library PED Westbound,2018-07,1879.0
+511,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2018-07,3404.0
+512,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2018-07,4907.0
+513,North Diversion Channel Trail & Indian School Pedestrians NORTH,2018-07,2566.0
+514,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2018-07,5334.0
+515,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2018-07,4580.0
+516,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2018-07,4344.0
+517,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2018-07,5007.0
+518,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2018-07,1531.0
+519,Jerry Cline Park Cyclists IN West,2018-07,1891.0
+520,Paseo del Bosque & Montano Rd Cyclists North,2018-07,0.0
+521,Paseo del Bosque & Montano Rd Cyclists South,2018-07,0.0
+522,Paseo del Bosque & Montano Rd Pedestrians North,2018-07,0.0
+523,Paseo del Bosque & Montano Rd Pedestrians South,2018-07,0.0
+524,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2018-07,10339.0
+525,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2018-07,9980.0
+526,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2018-07,3295.0
+527,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2018-07,3043.0
+528,Paseo del Norte & Rail Runner Bicycle Eastbound,2018-07,2914.0
+529,Paseo del Norte & Rail Runner Bicycle Westbound,2018-07,2844.0
+530,Paseo del Norte & Rail Runner PED Eastbound,2018-07,396.0
+531,Paseo del Norte & Rail Runer PED Westbound,2018-07,540.0
+532,Jerry Cline Park Pedestrians IN West,2018-08,1667.0
+533,Jerry Cline Park Pedestrians OUT East,2018-08,1210.0
+534,Jerry Cline Park Bicyclists OUT East,2018-08,1090.0
+535,Erna Fergusson Library Bicycle Eastbound,2018-08,1886.0
+536,Erna Fergusson Library Bicycle Westbound,2018-08,1630.0
+537,Erna Fergusson Library PED Eastbound,2018-08,2625.0
+538,Erna Fergusson Library PED Westbound,2018-08,1898.0
+539,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2018-08,3502.0
+540,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2018-08,5419.0
+541,North Diversion Channel Trail & Indian School Pedestrians NORTH,2018-08,1053.0
+542,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2018-08,1802.0
+543,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2018-08,4631.0
+544,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2018-08,4529.0
+545,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2018-08,7056.0
+546,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2018-08,1866.0
+547,Jerry Cline Park Cyclists IN West,2018-08,800.0
+548,Paseo del Bosque & Montano Rd Cyclists North,2018-08,4951.0
+549,Paseo del Bosque & Montano Rd Cyclists South,2018-08,4908.0
+550,Paseo del Bosque & Montano Rd Pedestrians North,2018-08,1254.0
+551,Paseo del Bosque & Montano Rd Pedestrians South,2018-08,1577.0
+552,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2018-08,9429.0
+553,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2018-08,9370.0
+554,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2018-08,3421.0
+555,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2018-08,2908.0
+556,Paseo del Norte & Rail Runner Bicycle Eastbound,2018-08,3006.0
+557,Paseo del Norte & Rail Runner Bicycle Westbound,2018-08,3123.0
+558,Paseo del Norte & Rail Runner PED Eastbound,2018-08,487.0
+559,Paseo del Norte & Rail Runer PED Westbound,2018-08,495.0
+560,Jerry Cline Park Pedestrians IN West,2018-09,2949.0
+561,Jerry Cline Park Pedestrians OUT East,2018-09,2198.0
+562,Jerry Cline Park Bicyclists OUT East,2018-09,1853.0
+563,Erna Fergusson Library Bicycle Eastbound,2018-09,1762.0
+564,Erna Fergusson Library Bicycle Westbound,2018-09,1612.0
+565,Erna Fergusson Library PED Eastbound,2018-09,3044.0
+566,Erna Fergusson Library PED Westbound,2018-09,2080.0
+567,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2018-09,3837.0
+568,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2018-09,4994.0
+569,North Diversion Channel Trail & Indian School Pedestrians NORTH,2018-09,1432.0
+570,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2018-09,1860.0
+571,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2018-09,4264.0
+572,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2018-09,4229.0
+573,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2018-09,1804.0
+574,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2018-09,1465.0
+575,Jerry Cline Park Cyclists IN West,2018-09,1438.0
+576,Paseo del Bosque & Montano Rd Cyclists North,2018-09,9168.0
+577,Paseo del Bosque & Montano Rd Cyclists South,2018-09,9334.0
+578,Paseo del Bosque & Montano Rd Pedestrians North,2018-09,2532.0
+579,Paseo del Bosque & Montano Rd Pedestrians South,2018-09,2989.0
+580,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2018-09,9203.0
+581,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2018-09,9024.0
+582,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2018-09,3292.0
+583,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2018-09,3153.0
+584,Paseo del Norte & Rail Runner Bicycle Eastbound,2018-09,2967.0
+585,Paseo del Norte & Rail Runner Bicycle Westbound,2018-09,3025.0
+586,Paseo del Norte & Rail Runner PED Eastbound,2018-09,471.0
+587,Paseo del Norte & Rail Runer PED Westbound,2018-09,472.0
+588,Jerry Cline Park Pedestrians IN West,2018-10,2817.0
+589,Jerry Cline Park Pedestrians OUT East,2018-10,1882.0
+590,Jerry Cline Park Bicyclists OUT East,2018-10,1263.0
+591,Erna Fergusson Library Bicycle Eastbound,2018-10,1354.0
+592,Erna Fergusson Library Bicycle Westbound,2018-10,1320.0
+593,Erna Fergusson Library PED Eastbound,2018-10,2580.0
+594,Erna Fergusson Library PED Westbound,2018-10,1926.0
+595,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2018-10,4002.0
+596,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2018-10,3795.0
+597,North Diversion Channel Trail & Indian School Pedestrians NORTH,2018-10,1535.0
+598,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2018-10,1611.0
+599,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2018-10,6424.0
+600,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2018-10,6069.0
+601,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2018-10,2177.0
+602,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2018-10,2137.0
+603,Jerry Cline Park Cyclists IN West,2018-10,639.0
+604,Paseo del Bosque & Montano Rd Cyclists North,2018-10,7577.0
+605,Paseo del Bosque & Montano Rd Cyclists South,2018-10,7475.0
+606,Paseo del Bosque & Montano Rd Pedestrians North,2018-10,2611.0
+607,Paseo del Bosque & Montano Rd Pedestrians South,2018-10,3096.0
+608,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2018-10,6234.0
+609,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2018-10,6244.0
+610,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2018-10,4199.0
+611,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2018-10,4355.0
+612,Paseo del Norte & Rail Runner Bicycle Eastbound,2018-10,2742.0
+613,Paseo del Norte & Rail Runner Bicycle Westbound,2018-10,2835.0
+614,Paseo del Norte & Rail Runner PED Eastbound,2018-10,1431.0
+615,Paseo del Norte & Rail Runer PED Westbound,2018-10,1778.0
+616,Jerry Cline Park Pedestrians IN West,2018-11,2530.0
+617,Jerry Cline Park Pedestrians OUT East,2018-11,1689.0
+618,Jerry Cline Park Bicyclists OUT East,2018-11,1130.0
+619,Erna Fergusson Library Bicycle Eastbound,2018-11,876.0
+620,Erna Fergusson Library Bicycle Westbound,2018-11,895.0
+621,Erna Fergusson Library PED Eastbound,2018-11,3595.0
+622,Erna Fergusson Library PED Westbound,2018-11,1840.0
+623,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2018-11,2777.0
+624,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2018-11,2655.0
+625,North Diversion Channel Trail & Indian School Pedestrians NORTH,2018-11,1086.0
+626,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2018-11,1190.0
+627,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2018-11,2568.0
+628,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2018-11,2538.0
+629,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2018-11,1116.0
+630,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2018-11,1145.0
+631,Jerry Cline Park Cyclists IN West,2018-11,427.0
+632,Paseo del Bosque & Montano Rd Cyclists North,2018-11,4577.0
+633,Paseo del Bosque & Montano Rd Cyclists South,2018-11,4573.0
+634,Paseo del Bosque & Montano Rd Pedestrians North,2018-11,1624.0
+635,Paseo del Bosque & Montano Rd Pedestrians South,2018-11,1837.0
+636,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2018-11,4341.0
+637,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2018-11,4338.0
+638,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2018-11,2238.0
+639,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2018-11,2937.0
+640,Paseo del Norte & Rail Runner Bicycle Eastbound,2018-11,1703.0
+641,Paseo del Norte & Rail Runner Bicycle Westbound,2018-11,1813.0
+642,Paseo del Norte & Rail Runner PED Eastbound,2018-11,382.0
+643,Paseo del Norte & Rail Runer PED Westbound,2018-11,975.0
+644,Jerry Cline Park Pedestrians IN West,2018-12,1888.0
+645,Jerry Cline Park Pedestrians OUT East,2018-12,1405.0
+646,Jerry Cline Park Bicyclists OUT East,2018-12,745.0
+647,Erna Fergusson Library Bicycle Eastbound,2018-12,622.0
+648,Erna Fergusson Library Bicycle Westbound,2018-12,570.0
+649,Erna Fergusson Library PED Eastbound,2018-12,2315.0
+650,Erna Fergusson Library PED Westbound,2018-12,1343.0
+651,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2018-12,1782.0
+652,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2018-12,1700.0
+653,North Diversion Channel Trail & Indian School Pedestrians NORTH,2018-12,785.0
+654,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2018-12,906.0
+655,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2018-12,1645.0
+656,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2018-12,1661.0
+657,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2018-12,902.0
+658,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2018-12,874.0
+659,Jerry Cline Park Cyclists IN West,2018-12,366.0
+660,Paseo del Bosque & Montano Rd Cyclists North,2018-12,2524.0
+661,Paseo del Bosque & Montano Rd Cyclists South,2018-12,2649.0
+662,Paseo del Bosque & Montano Rd Pedestrians North,2018-12,1512.0
+663,Paseo del Bosque & Montano Rd Pedestrians South,2018-12,1556.0
+664,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2018-12,2502.0
+665,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2018-12,2562.0
+666,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2018-12,1579.0
+667,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2018-12,1741.0
+668,Paseo del Norte & Rail Runner Bicycle Eastbound,2018-12,1046.0
+669,Paseo del Norte & Rail Runner Bicycle Westbound,2018-12,1103.0
+670,Paseo del Norte & Rail Runner PED Eastbound,2018-12,329.0
+671,Paseo del Norte & Rail Runer PED Westbound,2018-12,444.0
+672,Jerry Cline Park Pedestrians IN West,2019-01,2003.0
+673,Jerry Cline Park Pedestrians OUT East,2019-01,1575.0
+674,Jerry Cline Park Bicyclists OUT East,2019-01,681.0
+675,Erna Fergusson Library Bicycle Eastbound,2019-01,694.0
+676,Erna Fergusson Library Bicycle Westbound,2019-01,626.0
+677,Erna Fergusson Library PED Eastbound,2019-01,2790.0
+678,Erna Fergusson Library PED Westbound,2019-01,1647.0
+679,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2019-01,2007.0
+680,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2019-01,1950.0
+681,North Diversion Channel Trail & Indian School Pedestrians NORTH,2019-01,1077.0
+682,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2019-01,1174.0
+683,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2019-01,1674.0
+684,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2019-01,1673.0
+685,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2019-01,946.0
+686,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2019-01,930.0
+687,Jerry Cline Park Cyclists IN West,2019-01,306.0
+688,Paseo del Bosque & Montano Rd Cyclists North,2019-01,2580.0
+689,Paseo del Bosque & Montano Rd Cyclists South,2019-01,2810.0
+690,Paseo del Bosque & Montano Rd Pedestrians North,2019-01,1439.0
+691,Paseo del Bosque & Montano Rd Pedestrians South,2019-01,1430.0
+692,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2019-01,2398.0
+693,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2019-01,2461.0
+694,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2019-01,1772.0
+695,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2019-01,1831.0
+696,Paseo del Norte & Rail Runner Bicycle Eastbound,2019-01,1045.0
+697,Paseo del Norte & Rail Runner Bicycle Westbound,2019-01,
+698,Paseo del Norte & Rail Runner PED Eastbound,2019-01,284.0
+699,Paseo del Norte & Rail Runer PED Westbound,2019-01,752.0
+700,Jerry Cline Park Pedestrians IN West,2019-02,2055.0
+701,Jerry Cline Park Pedestrians OUT East,2019-02,1407.0
+702,Jerry Cline Park Bicyclists OUT East,2019-02,785.0
+703,Erna Fergusson Library Bicycle Eastbound,2019-02,695.0
+704,Erna Fergusson Library Bicycle Westbound,2019-02,658.0
+705,Erna Fergusson Library PED Eastbound,2019-02,2394.0
+706,Erna Fergusson Library PED Westbound,2019-02,1320.0
+707,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2019-02,2154.0
+708,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2019-02,2071.0
+709,North Diversion Channel Trail & Indian School Pedestrians NORTH,2019-02,958.0
+710,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2019-02,1043.0
+711,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2019-02,1897.0
+712,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2019-02,1778.0
+713,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2019-02,921.0
+714,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2019-02,882.0
+715,Jerry Cline Park Cyclists IN West,2019-02,297.0
+716,Paseo del Bosque & Montano Rd Cyclists North,2019-02,2965.0
+717,Paseo del Bosque & Montano Rd Cyclists South,2019-02,3033.0
+718,Paseo del Bosque & Montano Rd Pedestrians North,2019-02,1353.0
+719,Paseo del Bosque & Montano Rd Pedestrians South,2019-02,1453.0
+720,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2019-02,2606.0
+721,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2019-02,2413.0
+722,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2019-02,2084.0
+723,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2019-02,1736.0
+724,Paseo del Norte & Rail Runner Bicycle Eastbound,2019-02,1099.0
+725,Paseo del Norte & Rail Runner Bicycle Westbound,2019-02,
+726,Paseo del Norte & Rail Runner PED Eastbound,2019-02,263.0
+727,Paseo del Norte & Rail Runer PED Westbound,2019-02,283.0
+728,Jerry Cline Park Pedestrians IN West,2019-03,3415.0
+729,Jerry Cline Park Pedestrians OUT East,2019-03,2305.0
+730,Jerry Cline Park Bicyclists OUT East,2019-03,1224.0
+731,Erna Fergusson Library Bicycle Eastbound,2019-03,1033.0
+732,Erna Fergusson Library Bicycle Westbound,2019-03,978.0
+733,Erna Fergusson Library PED Eastbound,2019-03,3097.0
+734,Erna Fergusson Library PED Westbound,2019-03,1834.0
+735,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2019-03,2801.0
+736,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2019-03,2755.0
+737,North Diversion Channel Trail & Indian School Pedestrians NORTH,2019-03,1307.0
+738,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2019-03,1464.0
+739,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2019-03,2993.0
+740,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2019-03,2819.0
+741,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2019-03,1511.0
+742,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2019-03,1253.0
+743,Jerry Cline Park Cyclists IN West,2019-03,492.0
+744,Paseo del Bosque & Montano Rd Cyclists North,2019-03,5538.0
+745,Paseo del Bosque & Montano Rd Cyclists South,2019-03,5619.0
+746,Paseo del Bosque & Montano Rd Pedestrians North,2019-03,2246.0
+747,Paseo del Bosque & Montano Rd Pedestrians South,2019-03,3089.0
+748,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2019-03,3181.0
+749,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2019-03,3113.0
+750,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2019-03,2423.0
+751,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2019-03,2470.0
+752,Paseo del Norte & Rail Runner Bicycle Eastbound,2019-03,1877.0
+753,Paseo del Norte & Rail Runner Bicycle Westbound,2019-03,
+754,Paseo del Norte & Rail Runner PED Eastbound,2019-03,390.0
+755,Paseo del Norte & Rail Runer PED Westbound,2019-03,422.0
+756,Jerry Cline Park Pedestrians IN West,2019-04,3488.0
+757,Jerry Cline Park Pedestrians OUT East,2019-04,2427.0
+758,Jerry Cline Park Bicyclists OUT East,2019-04,1478.0
+759,Erna Fergusson Library Bicycle Eastbound,2019-04,1359.0
+760,Erna Fergusson Library Bicycle Westbound,2019-04,1301.0
+761,Erna Fergusson Library PED Eastbound,2019-04,2676.0
+762,Erna Fergusson Library PED Westbound,2019-04,2054.0
+763,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2019-04,3044.0
+764,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2019-04,3184.0
+765,North Diversion Channel Trail & Indian School Pedestrians NORTH,2019-04,1318.0
+766,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2019-04,1569.0
+767,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2019-04,3469.0
+768,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2019-04,3203.0
+769,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2019-04,1958.0
+770,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2019-04,1498.0
+771,Jerry Cline Park Cyclists IN West,2019-04,793.0
+772,Paseo del Bosque & Montano Rd Cyclists North,2019-04,7250.0
+773,Paseo del Bosque & Montano Rd Cyclists South,2019-04,7281.0
+774,Paseo del Bosque & Montano Rd Pedestrians North,2019-04,2216.0
+775,Paseo del Bosque & Montano Rd Pedestrians South,2019-04,2716.0
+776,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2019-04,7195.0
+777,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2019-04,7222.0
+778,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2019-04,3676.0
+779,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2019-04,3647.0
+780,Paseo del Norte & Rail Runner Bicycle Eastbound,2019-04,2109.0
+781,Paseo del Norte & Rail Runner Bicycle Westbound,2019-04,
+782,Paseo del Norte & Rail Runner PED Eastbound,2019-04,426.0
+783,Paseo del Norte & Rail Runer PED Westbound,2019-04,455.0
+784,Jerry Cline Park Pedestrians IN West,2019-05,3410.0
+785,Jerry Cline Park Pedestrians OUT East,2019-05,2525.0
+786,Jerry Cline Park Bicyclists OUT East,2019-05,1516.0
+787,Erna Fergusson Library Bicycle Eastbound,2019-05,1571.0
+788,Erna Fergusson Library Bicycle Westbound,2019-05,1527.0
+789,Erna Fergusson Library PED Eastbound,2019-05,2386.0
+790,Erna Fergusson Library PED Westbound,2019-05,1999.0
+791,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2019-05,3144.0
+792,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2019-05,3451.0
+793,North Diversion Channel Trail & Indian School Pedestrians NORTH,2019-05,972.0
+794,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2019-05,1246.0
+795,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2019-05,3566.0
+796,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2019-05,3468.0
+797,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2019-05,2405.0
+798,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2019-05,1517.0
+799,Jerry Cline Park Cyclists IN West,2019-05,993.0
+800,Paseo del Bosque & Montano Rd Cyclists North,2019-05,7803.0
+801,Paseo del Bosque & Montano Rd Cyclists South,2019-05,7836.0
+802,Paseo del Bosque & Montano Rd Pedestrians North,2019-05,2100.0
+803,Paseo del Bosque & Montano Rd Pedestrians South,2019-05,2527.0
+804,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2019-05,8527.0
+805,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2019-05,8394.0
+806,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2019-05,4706.0
+807,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2019-05,4162.0
+808,Paseo del Norte & Rail Runner Bicycle Eastbound,2019-05,2327.0
+809,Paseo del Norte & Rail Runner Bicycle Westbound,2019-05,
+810,Paseo del Norte & Rail Runner PED Eastbound,2019-05,433.0
+811,Paseo del Norte & Rail Runer PED Westbound,2019-05,471.0
+812,Jerry Cline Park Pedestrians IN West,2019-06,2651.0
+813,Jerry Cline Park Pedestrians OUT East,2019-06,2444.0
+814,Jerry Cline Park Bicyclists OUT East,2019-06,1835.0
+815,Erna Fergusson Library Bicycle Eastbound,2019-06,1752.0
+816,Erna Fergusson Library Bicycle Westbound,2019-06,1673.0
+817,Erna Fergusson Library PED Eastbound,2019-06,2272.0
+818,Erna Fergusson Library PED Westbound,2019-06,1913.0
+819,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2019-06,2885.0
+820,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2019-06,4093.0
+821,North Diversion Channel Trail & Indian School Pedestrians NORTH,2019-06,1489.0
+822,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2019-06,2394.0
+823,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2019-06,4121.0
+824,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2019-06,4082.0
+825,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2019-06,7048.0
+826,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2019-06,1999.0
+827,Jerry Cline Park Cyclists IN West,2019-06,2059.0
+828,Paseo del Bosque & Montano Rd Cyclists North,2019-06,9432.0
+829,Paseo del Bosque & Montano Rd Cyclists South,2019-06,9641.0
+830,Paseo del Bosque & Montano Rd Pedestrians North,2019-06,2154.0
+831,Paseo del Bosque & Montano Rd Pedestrians South,2019-06,2800.0
+832,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2019-06,9692.0
+833,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2019-06,9211.0
+834,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2019-06,4835.0
+835,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2019-06,4521.0
+836,Paseo del Norte & Rail Runner Bicycle Eastbound,2019-06,2820.0
+837,Paseo del Norte & Rail Runner Bicycle Westbound,2019-06,
+838,Paseo del Norte & Rail Runner PED Eastbound,2019-06,410.0
+839,Paseo del Norte & Rail Runer PED Westbound,2019-06,590.0
+840,Jerry Cline Park Pedestrians IN West,2019-07,2227.0
+841,Jerry Cline Park Pedestrians OUT East,2019-07,2097.0
+842,Jerry Cline Park Bicyclists OUT East,2019-07,1846.0
+843,Erna Fergusson Library Bicycle Eastbound,2019-07,1817.0
+844,Erna Fergusson Library Bicycle Westbound,2019-07,1631.0
+845,Erna Fergusson Library PED Eastbound,2019-07,2315.0
+846,Erna Fergusson Library PED Westbound,2019-07,1871.0
+847,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2019-07,967.0
+848,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2019-07,1502.0
+849,North Diversion Channel Trail & Indian School Pedestrians NORTH,2019-07,2330.0
+850,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2019-07,2886.0
+851,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2019-07,4503.0
+852,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2019-07,4238.0
+853,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2019-07,5416.0
+854,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2019-07,1415.0
+855,Jerry Cline Park Cyclists IN West,2019-07,2107.0
+856,Paseo del Bosque & Montano Rd Cyclists North,2019-07,9546.0
+857,Paseo del Bosque & Montano Rd Cyclists South,2019-07,9886.0
+858,Paseo del Bosque & Montano Rd Pedestrians North,2019-07,2017.0
+859,Paseo del Bosque & Montano Rd Pedestrians South,2019-07,3085.0
+860,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2019-07,9729.0
+861,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2019-07,9224.0
+862,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2019-07,3640.0
+863,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2019-07,3319.0
+864,Paseo del Norte & Rail Runner Bicycle Eastbound,2019-07,2805.0
+865,Paseo del Norte & Rail Runner Bicycle Westbound,2019-07,
+866,Paseo del Norte & Rail Runner PED Eastbound,2019-07,397.0
+867,Paseo del Norte & Rail Runer PED Westbound,2019-07,3924.0
+868,Jerry Cline Park Pedestrians IN West,2019-08,2188.0
+869,Jerry Cline Park Pedestrians OUT East,2019-08,2081.0
+870,Jerry Cline Park Bicyclists OUT East,2019-08,1874.0
+871,Erna Fergusson Library Bicycle Eastbound,2019-08,1869.0
+872,Erna Fergusson Library Bicycle Westbound,2019-08,1623.0
+873,Erna Fergusson Library PED Eastbound,2019-08,2223.0
+874,Erna Fergusson Library PED Westbound,2019-08,1712.0
+875,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2019-08,0.0
+876,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2019-08,0.0
+877,North Diversion Channel Trail & Indian School Pedestrians NORTH,2019-08,0.0
+878,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2019-08,0.0
+879,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2019-08,4241.0
+880,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2019-08,3961.0
+881,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2019-08,5152.0
+882,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2019-08,1663.0
+883,Jerry Cline Park Cyclists IN West,2019-08,2162.0
+884,Paseo del Bosque & Montano Rd Cyclists North,2019-08,9369.0
+885,Paseo del Bosque & Montano Rd Cyclists South,2019-08,9524.0
+886,Paseo del Bosque & Montano Rd Pedestrians North,2019-08,2090.0
+887,Paseo del Bosque & Montano Rd Pedestrians South,2019-08,3401.0
+888,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2019-08,7750.0
+889,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2019-08,7544.0
+890,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2019-08,2755.0
+891,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2019-08,2588.0
+892,Paseo del Norte & Rail Runner Bicycle Eastbound,2019-08,2688.0
+893,Paseo del Norte & Rail Runner Bicycle Westbound,2019-08,
+894,Paseo del Norte & Rail Runner PED Eastbound,2019-08,414.0
+895,Paseo del Norte & Rail Runer PED Westbound,2019-08,3444.0
+896,Jerry Cline Park Pedestrians IN West,2019-09,2220.0
+897,Jerry Cline Park Pedestrians OUT East,2019-09,1990.0
+898,Jerry Cline Park Bicyclists OUT East,2019-09,2359.0
+899,Erna Fergusson Library Bicycle Eastbound,2019-09,1797.0
+900,Erna Fergusson Library Bicycle Westbound,2019-09,1612.0
+901,Erna Fergusson Library PED Eastbound,2019-09,2371.0
+902,Erna Fergusson Library PED Westbound,2019-09,1975.0
+903,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2019-09,0.0
+904,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2019-09,0.0
+905,North Diversion Channel Trail & Indian School Pedestrians NORTH,2019-09,0.0
+906,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2019-09,0.0
+907,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2019-09,3948.0
+908,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2019-09,3869.0
+909,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2019-09,3986.0
+910,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2019-09,1551.0
+911,Jerry Cline Park Cyclists IN West,2019-09,2429.0
+912,Paseo del Bosque & Montano Rd Cyclists North,2019-09,8813.0
+913,Paseo del Bosque & Montano Rd Cyclists South,2019-09,8978.0
+914,Paseo del Bosque & Montano Rd Pedestrians North,2019-09,2354.0
+915,Paseo del Bosque & Montano Rd Pedestrians South,2019-09,3456.0
+916,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2019-09,8881.0
+917,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2019-09,8870.0
+918,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2019-09,3186.0
+919,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2019-09,3259.0
+920,Paseo del Norte & Rail Runner Bicycle Eastbound,2019-09,2579.0
+921,Paseo del Norte & Rail Runner Bicycle Westbound,2019-09,
+922,Paseo del Norte & Rail Runner PED Eastbound,2019-09,416.0
+923,Paseo del Norte & Rail Runer PED Westbound,2019-09,3686.0
+924,Jerry Cline Park Pedestrians IN West,2019-10,2062.0
+925,Jerry Cline Park Pedestrians OUT East,2019-10,1611.0
+926,Jerry Cline Park Bicyclists OUT East,2019-10,1383.0
+927,Erna Fergusson Library Bicycle Eastbound,2019-10,1375.0
+928,Erna Fergusson Library Bicycle Westbound,2019-10,1345.0
+929,Erna Fergusson Library PED Eastbound,2019-10,2461.0
+930,Erna Fergusson Library PED Westbound,2019-10,2058.0
+931,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2019-10,0.0
+932,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2019-10,0.0
+933,North Diversion Channel Trail & Indian School Pedestrians NORTH,2019-10,0.0
+934,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2019-10,0.0
+935,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2019-10,6536.0
+936,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2019-10,6199.0
+937,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2019-10,3354.0
+938,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2019-10,2374.0
+939,Jerry Cline Park Cyclists IN West,2019-10,1459.0
+940,Paseo del Bosque & Montano Rd Cyclists North,2019-10,8087.0
+941,Paseo del Bosque & Montano Rd Cyclists South,2019-10,8089.0
+942,Paseo del Bosque & Montano Rd Pedestrians North,2019-10,2710.0
+943,Paseo del Bosque & Montano Rd Pedestrians South,2019-10,3462.0
+944,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2019-10,6678.0
+945,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2019-10,6660.0
+946,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2019-10,3759.0
+947,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2019-10,3988.0
+948,Paseo del Norte & Rail Runner Bicycle Eastbound,2019-10,2780.0
+949,Paseo del Norte & Rail Runner Bicycle Westbound,2019-10,
+950,Paseo del Norte & Rail Runner PED Eastbound,2019-10,1202.0
+951,Paseo del Norte & Rail Runer PED Westbound,2019-10,1429.0
+952,Jerry Cline Park Pedestrians IN West,2019-11,2260.0
+953,Jerry Cline Park Pedestrians OUT East,2019-11,1490.0
+954,Jerry Cline Park Bicyclists OUT East,2019-11,978.0
+955,Erna Fergusson Library Bicycle Eastbound,2019-11,896.0
+956,Erna Fergusson Library Bicycle Westbound,2019-11,781.0
+957,Erna Fergusson Library PED Eastbound,2019-11,1835.0
+958,Erna Fergusson Library PED Westbound,2019-11,1529.0
+959,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2019-11,0.0
+960,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2019-11,0.0
+961,North Diversion Channel Trail & Indian School Pedestrians NORTH,2019-11,0.0
+962,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2019-11,0.0
+963,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2019-11,2223.0
+964,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2019-11,2216.0
+965,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2019-11,1099.0
+966,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2019-11,1047.0
+967,Jerry Cline Park Cyclists IN West,2019-11,516.0
+968,Paseo del Bosque & Montano Rd Cyclists North,2019-11,4426.0
+969,Paseo del Bosque & Montano Rd Cyclists South,2019-11,4573.0
+970,Paseo del Bosque & Montano Rd Pedestrians North,2019-11,1587.0
+971,Paseo del Bosque & Montano Rd Pedestrians South,2019-11,1938.0
+972,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2019-11,4392.0
+973,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2019-11,4254.0
+974,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2019-11,2436.0
+975,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2019-11,2367.0
+976,Paseo del Norte & Rail Runner Bicycle Eastbound,2019-11,1455.0
+977,Paseo del Norte & Rail Runner Bicycle Westbound,2019-11,
+978,Paseo del Norte & Rail Runner PED Eastbound,2019-11,315.0
+979,Paseo del Norte & Rail Runer PED Westbound,2019-11,819.0
+980,Jerry Cline Park Pedestrians IN West,2019-12,1838.0
+981,Jerry Cline Park Pedestrians OUT East,2019-12,1399.0
+982,Jerry Cline Park Bicyclists OUT East,2019-12,712.0
+983,Erna Fergusson Library Bicycle Eastbound,2019-12,662.0
+984,Erna Fergusson Library Bicycle Westbound,2019-12,633.0
+985,Erna Fergusson Library PED Eastbound,2019-12,1709.0
+986,Erna Fergusson Library PED Westbound,2019-12,1324.0
+987,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2019-12,845.0
+988,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2019-12,825.0
+989,North Diversion Channel Trail & Indian School Pedestrians NORTH,2019-12,662.0
+990,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2019-12,888.0
+991,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2019-12,1532.0
+992,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2019-12,1501.0
+993,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2019-12,953.0
+994,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2019-12,936.0
+995,Jerry Cline Park Cyclists IN West,2019-12,446.0
+996,Paseo del Bosque & Montano Rd Cyclists North,2019-12,2460.0
+997,Paseo del Bosque & Montano Rd Cyclists South,2019-12,2579.0
+998,Paseo del Bosque & Montano Rd Pedestrians North,2019-12,1390.0
+999,Paseo del Bosque & Montano Rd Pedestrians South,2019-12,1495.0
+1000,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2019-12,2285.0
+1001,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2019-12,2042.0
+1002,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2019-12,11764.0
+1003,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2019-12,2104.0
+1004,Paseo del Norte & Rail Runner Bicycle Eastbound,2019-12,873.0
+1005,Paseo del Norte & Rail Runner Bicycle Westbound,2019-12,
+1006,Paseo del Norte & Rail Runner PED Eastbound,2019-12,401.0
+1007,Paseo del Norte & Rail Runer PED Westbound,2019-12,788.0
+1008,Jerry Cline Park Pedestrians IN West,2020-01,2295.0
+1009,Jerry Cline Park Pedestrians OUT East,2020-01,1682.0
+1010,Jerry Cline Park Bicyclists OUT East,2020-01,759.0
+1011,Erna Fergusson Library Bicycle Eastbound,2020-01,791.0
+1012,Erna Fergusson Library Bicycle Westbound,2020-01,696.0
+1013,Erna Fergusson Library PED Eastbound,2020-01,1969.0
+1014,Erna Fergusson Library PED Westbound,2020-01,1358.0
+1015,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2020-01,1791.0
+1016,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2020-01,1825.0
+1017,North Diversion Channel Trail & Indian School Pedestrians NORTH,2020-01,1038.0
+1018,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2020-01,1193.0
+1019,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2020-01,1832.0
+1020,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2020-01,1859.0
+1021,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2020-01,1166.0
+1022,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2020-01,1143.0
+1023,Jerry Cline Park Cyclists IN West,2020-01,358.0
+1024,Paseo del Bosque & Montano Rd Cyclists North,2020-01,3157.0
+1025,Paseo del Bosque & Montano Rd Cyclists South,2020-01,3102.0
+1026,Paseo del Bosque & Montano Rd Pedestrians North,2020-01,1446.0
+1027,Paseo del Bosque & Montano Rd Pedestrians South,2020-01,1536.0
+1028,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2020-01,2409.0
+1029,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2020-01,1903.0
+1030,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2020-01,
+1031,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2020-01,1406.0
+1032,Paseo del Norte & Rail Runner Bicycle Eastbound,2020-01,1075.0
+1033,Paseo del Norte & Rail Runner Bicycle Westbound,2020-01,1082.0
+1034,Paseo del Norte & Rail Runner PED Eastbound,2020-01,269.0
+1035,Paseo del Norte & Rail Runer PED Westbound,2020-01,703.0
+1036,Jerry Cline Park Pedestrians IN West,2020-02,823.0
+1037,Jerry Cline Park Pedestrians OUT East,2020-02,618.0
+1038,Jerry Cline Park Bicyclists OUT East,2020-02,267.0
+1039,Erna Fergusson Library Bicycle Eastbound,2020-02,867.0
+1040,Erna Fergusson Library Bicycle Westbound,2020-02,806.0
+1041,Erna Fergusson Library PED Eastbound,2020-02,1910.0
+1042,Erna Fergusson Library PED Westbound,2020-02,1394.0
+1043,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2020-02,2019.0
+1044,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2020-02,1986.0
+1045,North Diversion Channel Trail & Indian School Pedestrians NORTH,2020-02,1081.0
+1046,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2020-02,1191.0
+1047,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2020-02,2025.0
+1048,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2020-02,2067.0
+1049,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2020-02,1061.0
+1050,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2020-02,1099.0
+1051,Jerry Cline Park Cyclists IN West,2020-02,127.0
+1052,Paseo del Bosque & Montano Rd Cyclists North,2020-02,4038.0
+1053,Paseo del Bosque & Montano Rd Cyclists South,2020-02,4050.0
+1054,Paseo del Bosque & Montano Rd Pedestrians North,2020-02,1686.0
+1055,Paseo del Bosque & Montano Rd Pedestrians South,2020-02,1813.0
+1056,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2020-02,3908.0
+1057,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2020-02,3945.0
+1058,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2020-02,
+1059,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2020-02,2514.0
+1060,Paseo del Norte & Rail Runner Bicycle Eastbound,2020-02,1309.0
+1061,Paseo del Norte & Rail Runner Bicycle Westbound,2020-02,1285.0
+1062,Paseo del Norte & Rail Runner PED Eastbound,2020-02,343.0
+1063,Paseo del Norte & Rail Runer PED Westbound,2020-02,474.0
+1064,Jerry Cline Park Pedestrians IN West,2020-03,3180.0
+1065,Jerry Cline Park Pedestrians OUT East,2020-03,2148.0
+1066,Jerry Cline Park Bicyclists OUT East,2020-03,1142.0
+1067,Erna Fergusson Library Bicycle Eastbound,2020-03,1494.0
+1068,Erna Fergusson Library Bicycle Westbound,2020-03,1462.0
+1069,Erna Fergusson Library PED Eastbound,2020-03,2635.0
+1070,Erna Fergusson Library PED Westbound,2020-03,2350.0
+1071,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2020-03,2941.0
+1072,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2020-03,2830.0
+1073,North Diversion Channel Trail & Indian School Pedestrians NORTH,2020-03,1435.0
+1074,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2020-03,1644.0
+1075,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2020-03,3590.0
+1076,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2020-03,3417.0
+1077,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2020-03,1868.0
+1078,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2020-03,1513.0
+1079,Jerry Cline Park Cyclists IN West,2020-03,472.0
+1080,Paseo del Bosque & Montano Rd Cyclists North,2020-03,8149.0
+1081,Paseo del Bosque & Montano Rd Cyclists South,2020-03,8112.0
+1082,Paseo del Bosque & Montano Rd Pedestrians North,2020-03,2630.0
+1083,Paseo del Bosque & Montano Rd Pedestrians South,2020-03,3032.0
+1084,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2020-03,7919.0
+1085,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2020-03,7791.0
+1086,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2020-03,
+1087,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2020-03,3615.0
+1088,Paseo del Norte & Rail Runner Bicycle Eastbound,2020-03,2132.0
+1089,Paseo del Norte & Rail Runner Bicycle Westbound,2020-03,2347.0
+1090,Paseo del Norte & Rail Runner PED Eastbound,2020-03,545.0
+1091,Paseo del Norte & Rail Runer PED Westbound,2020-03,641.0
+1092,Jerry Cline Park Pedestrians IN West,2020-04,6038.0
+1093,Jerry Cline Park Pedestrians OUT East,2020-04,4162.0
+1094,Jerry Cline Park Bicyclists OUT East,2020-04,2350.0
+1095,Erna Fergusson Library Bicycle Eastbound,2020-04,2312.0
+1096,Erna Fergusson Library Bicycle Westbound,2020-04,2188.0
+1097,Erna Fergusson Library PED Eastbound,2020-04,3588.0
+1098,Erna Fergusson Library PED Westbound,2020-04,3379.0
+1099,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2020-04,3921.0
+1100,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2020-04,3926.0
+1101,North Diversion Channel Trail & Indian School Pedestrians NORTH,2020-04,1739.0
+1102,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2020-04,2166.0
+1103,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2020-04,5119.0
+1104,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2020-04,4987.0
+1105,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2020-04,4280.0
+1106,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2020-04,2125.0
+1107,Jerry Cline Park Cyclists IN West,2020-04,889.0
+1108,Paseo del Bosque & Montano Rd Cyclists North,2020-04,12646.0
+1109,Paseo del Bosque & Montano Rd Cyclists South,2020-04,12641.0
+1110,Paseo del Bosque & Montano Rd Pedestrians North,2020-04,3084.0
+1111,Paseo del Bosque & Montano Rd Pedestrians South,2020-04,3688.0
+1112,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2020-04,7486.0
+1113,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2020-04,7257.0
+1114,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2020-04,
+1115,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2020-04,2851.0
+1116,Paseo del Norte & Rail Runner Bicycle Eastbound,2020-04,3391.0
+1117,Paseo del Norte & Rail Runner Bicycle Westbound,2020-04,3462.0
+1118,Paseo del Norte & Rail Runner PED Eastbound,2020-04,659.0
+1119,Paseo del Norte & Rail Runer PED Westbound,2020-04,875.0
+1120,Jerry Cline Park Pedestrians IN West,2020-05,6837.0
+1121,Jerry Cline Park Pedestrians OUT East,2020-05,4676.0
+1122,Jerry Cline Park Bicyclists OUT East,2020-05,2817.0
+1123,Erna Fergusson Library Bicycle Eastbound,2020-05,2759.0
+1124,Erna Fergusson Library Bicycle Westbound,2020-05,2500.0
+1125,Erna Fergusson Library PED Eastbound,2020-05,4230.0
+1126,Erna Fergusson Library PED Westbound,2020-05,3895.0
+1127,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2020-05,3960.0
+1128,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2020-05,4892.0
+1129,North Diversion Channel Trail & Indian School Pedestrians NORTH,2020-05,1474.0
+1130,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2020-05,1912.0
+1131,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2020-05,6104.0
+1132,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2020-05,5940.0
+1133,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2020-05,4591.0
+1134,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2020-05,2136.0
+1135,Jerry Cline Park Cyclists IN West,2020-05,1364.0
+1136,Paseo del Bosque & Montano Rd Cyclists North,2020-05,16848.0
+1137,Paseo del Bosque & Montano Rd Cyclists South,2020-05,17145.0
+1138,Paseo del Bosque & Montano Rd Pedestrians North,2020-05,3493.0
+1139,Paseo del Bosque & Montano Rd Pedestrians South,2020-05,4214.0
+1140,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2020-05,15039.0
+1141,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2020-05,14377.0
+1142,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2020-05,
+1143,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2020-05,3942.0
+1144,Paseo del Norte & Rail Runner Bicycle Eastbound,2020-05,4156.0
+1145,Paseo del Norte & Rail Runner Bicycle Westbound,2020-05,4309.0
+1146,Paseo del Norte & Rail Runner PED Eastbound,2020-05,760.0
+1147,Paseo del Norte & Rail Runer PED Westbound,2020-05,870.0
+1148,Jerry Cline Park Pedestrians IN West,2020-06,4549.0
+1149,Jerry Cline Park Pedestrians OUT East,2020-06,3364.0
+1150,Jerry Cline Park Bicyclists OUT East,2020-06,2468.0
+1151,Erna Fergusson Library Bicycle Eastbound,2020-06,2096.0
+1152,Erna Fergusson Library Bicycle Westbound,2020-06,1676.0
+1153,Erna Fergusson Library PED Eastbound,2020-06,2881.0
+1154,Erna Fergusson Library PED Westbound,2020-06,2463.0
+1155,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2020-06,3542.0
+1156,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2020-06,4600.0
+1157,North Diversion Channel Trail & Indian School Pedestrians NORTH,2020-06,1060.0
+1158,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2020-06,1632.0
+1159,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2020-06,4935.0
+1160,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2020-06,4999.0
+1161,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2020-06,5307.0
+1162,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2020-06,1969.0
+1163,Jerry Cline Park Cyclists IN West,2020-06,2159.0
+1164,Paseo del Bosque & Montano Rd Cyclists North,2020-06,13465.0
+1165,Paseo del Bosque & Montano Rd Cyclists South,2020-06,13877.0
+1166,Paseo del Bosque & Montano Rd Pedestrians North,2020-06,2825.0
+1167,Paseo del Bosque & Montano Rd Pedestrians South,2020-06,3433.0
+1168,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2020-06,13140.0
+1169,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2020-06,12295.0
+1170,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2020-06,
+1171,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2020-06,3525.0
+1172,Paseo del Norte & Rail Runner Bicycle Eastbound,2020-06,3347.0
+1173,Paseo del Norte & Rail Runner Bicycle Westbound,2020-06,3432.0
+1174,Paseo del Norte & Rail Runner PED Eastbound,2020-06,557.0
+1175,Paseo del Norte & Rail Runer PED Westbound,2020-06,717.0
+1176,Jerry Cline Park Pedestrians IN West,2020-07,3944.0
+1177,Jerry Cline Park Pedestrians OUT East,2020-07,3181.0
+1178,Jerry Cline Park Bicyclists OUT East,2020-07,2363.0
+1179,Erna Fergusson Library Bicycle Eastbound,2020-07,0.0
+1180,Erna Fergusson Library Bicycle Westbound,2020-07,0.0
+1181,Erna Fergusson Library PED Eastbound,2020-07,0.0
+1182,Erna Fergusson Library PED Westbound,2020-07,0.0
+1183,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2020-07,3420.0
+1184,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2020-07,4562.0
+1185,North Diversion Channel Trail & Indian School Pedestrians NORTH,2020-07,937.0
+1186,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2020-07,1750.0
+1187,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2020-07,5210.0
+1188,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2020-07,4884.0
+1189,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2020-07,3424.0
+1190,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2020-07,1475.0
+1191,Jerry Cline Park Cyclists IN West,2020-07,2244.0
+1192,Paseo del Bosque & Montano Rd Cyclists North,2020-07,13260.0
+1193,Paseo del Bosque & Montano Rd Cyclists South,2020-07,13649.0
+1194,Paseo del Bosque & Montano Rd Pedestrians North,2020-07,2573.0
+1195,Paseo del Bosque & Montano Rd Pedestrians South,2020-07,3327.0
+1196,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2020-07,13199.0
+1197,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2020-07,12144.0
+1198,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2020-07,
+1199,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2020-07,3247.0
+1200,Paseo del Norte & Rail Runner Bicycle Eastbound,2020-07,3290.0
+1201,Paseo del Norte & Rail Runner Bicycle Westbound,2020-07,3573.0
+1202,Paseo del Norte & Rail Runner PED Eastbound,2020-07,521.0
+1203,Paseo del Norte & Rail Runer PED Westbound,2020-07,646.0
+1204,Jerry Cline Park Pedestrians IN West,2020-08,3949.0
+1205,Jerry Cline Park Pedestrians OUT East,2020-08,3102.0
+1206,Jerry Cline Park Bicyclists OUT East,2020-08,2447.0
+1207,Erna Fergusson Library Bicycle Eastbound,2020-08,0.0
+1208,Erna Fergusson Library Bicycle Westbound,2020-08,0.0
+1209,Erna Fergusson Library PED Eastbound,2020-08,0.0
+1210,Erna Fergusson Library PED Westbound,2020-08,0.0
+1211,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2020-08,3330.0
+1212,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2020-08,4684.0
+1213,North Diversion Channel Trail & Indian School Pedestrians NORTH,2020-08,1012.0
+1214,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2020-08,1457.0
+1215,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2020-08,5161.0
+1216,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2020-08,4852.0
+1217,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2020-08,1841.0
+1218,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2020-08,1165.0
+1219,Jerry Cline Park Cyclists IN West,2020-08,2164.0
+1220,Paseo del Bosque & Montano Rd Cyclists North,2020-08,12906.0
+1221,Paseo del Bosque & Montano Rd Cyclists South,2020-08,13231.0
+1222,Paseo del Bosque & Montano Rd Pedestrians North,2020-08,3108.0
+1223,Paseo del Bosque & Montano Rd Pedestrians South,2020-08,5345.0
+1224,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2020-08,13018.0
+1225,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2020-08,12745.0
+1226,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2020-08,
+1227,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2020-08,3645.0
+1228,Paseo del Norte & Rail Runner Bicycle Eastbound,2020-08,3364.0
+1229,Paseo del Norte & Rail Runner Bicycle Westbound,2020-08,3503.0
+1230,Paseo del Norte & Rail Runner PED Eastbound,2020-08,549.0
+1231,Paseo del Norte & Rail Runer PED Westbound,2020-08,706.0
+1232,Jerry Cline Park Pedestrians IN West,2020-09,3823.0
+1233,Jerry Cline Park Pedestrians OUT East,2020-09,2923.0
+1234,Jerry Cline Park Bicyclists OUT East,2020-09,2253.0
+1235,Erna Fergusson Library Bicycle Eastbound,2020-09,4.0
+1236,Erna Fergusson Library Bicycle Westbound,2020-09,4.0
+1237,Erna Fergusson Library PED Eastbound,2020-09,11.0
+1238,Erna Fergusson Library PED Westbound,2020-09,2.0
+1239,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2020-09,3355.0
+1240,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2020-09,3921.0
+1241,North Diversion Channel Trail & Indian School Pedestrians NORTH,2020-09,1381.0
+1242,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2020-09,1702.0
+1243,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2020-09,4329.0
+1244,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2020-09,4420.0
+1245,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2020-09,1613.0
+1246,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2020-09,1369.0
+1247,Jerry Cline Park Cyclists IN West,2020-09,1864.0
+1248,Paseo del Bosque & Montano Rd Cyclists North,2020-09,11410.0
+1249,Paseo del Bosque & Montano Rd Cyclists South,2020-09,11550.0
+1250,Paseo del Bosque & Montano Rd Pedestrians North,2020-09,2748.0
+1251,Paseo del Bosque & Montano Rd Pedestrians South,2020-09,4572.0
+1252,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2020-09,11397.0
+1253,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2020-09,11191.0
+1254,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2020-09,
+1255,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2020-09,3243.0
+1256,Paseo del Norte & Rail Runner Bicycle Eastbound,2020-09,2893.0
+1257,Paseo del Norte & Rail Runner Bicycle Westbound,2020-09,3053.0
+1258,Paseo del Norte & Rail Runner PED Eastbound,2020-09,473.0
+1259,Paseo del Norte & Rail Runer PED Westbound,2020-09,610.0
+1260,Jerry Cline Park Pedestrians IN West,2020-10,3502.0
+1261,Jerry Cline Park Pedestrians OUT East,2020-10,2967.0
+1262,Jerry Cline Park Bicyclists OUT East,2020-10,2139.0
+1263,Erna Fergusson Library Bicycle Eastbound,2020-10,531.0
+1264,Erna Fergusson Library Bicycle Westbound,2020-10,489.0
+1265,Erna Fergusson Library PED Eastbound,2020-10,2177.0
+1266,Erna Fergusson Library PED Westbound,2020-10,1044.0
+1267,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2020-10,3245.0
+1268,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2020-10,3149.0
+1269,North Diversion Channel Trail & Indian School Pedestrians NORTH,2020-10,1548.0
+1270,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2020-10,1584.0
+1271,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2020-10,4159.0
+1272,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2020-10,4106.0
+1273,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2020-10,1456.0
+1274,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2020-10,1264.0
+1275,Jerry Cline Park Cyclists IN West,2020-10,2015.0
+1276,Paseo del Bosque & Montano Rd Cyclists North,2020-10,10425.0
+1277,Paseo del Bosque & Montano Rd Cyclists South,2020-10,10619.0
+1278,Paseo del Bosque & Montano Rd Pedestrians North,2020-10,2647.0
+1279,Paseo del Bosque & Montano Rd Pedestrians South,2020-10,3436.0
+1280,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2020-10,10002.0
+1281,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2020-10,9800.0
+1282,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2020-10,
+1283,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2020-10,3426.0
+1284,Paseo del Norte & Rail Runner Bicycle Eastbound,2020-10,2639.0
+1285,Paseo del Norte & Rail Runner Bicycle Westbound,2020-10,2766.0
+1286,Paseo del Norte & Rail Runner PED Eastbound,2020-10,473.0
+1287,Paseo del Norte & Rail Runer PED Westbound,2020-10,569.0
+1288,Jerry Cline Park Pedestrians IN West,2020-11,3793.0
+1289,Jerry Cline Park Pedestrians OUT East,2020-11,2809.0
+1290,Jerry Cline Park Bicyclists OUT East,2020-11,1443.0
+1291,Erna Fergusson Library Bicycle Eastbound,2020-11,1206.0
+1292,Erna Fergusson Library Bicycle Westbound,2020-11,1253.0
+1293,Erna Fergusson Library PED Eastbound,2020-11,4886.0
+1294,Erna Fergusson Library PED Westbound,2020-11,2497.0
+1295,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2020-11,2592.0
+1296,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2020-11,2458.0
+1297,North Diversion Channel Trail & Indian School Pedestrians NORTH,2020-11,2150.0
+1298,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2020-11,2176.0
+1299,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2020-11,2892.0
+1300,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2020-11,2906.0
+1301,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2020-11,1199.0
+1302,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2020-11,1118.0
+1303,Jerry Cline Park Cyclists IN West,2020-11,633.0
+1304,Paseo del Bosque & Montano Rd Cyclists North,2020-11,7544.0
+1305,Paseo del Bosque & Montano Rd Cyclists South,2020-11,7523.0
+1306,Paseo del Bosque & Montano Rd Pedestrians North,2020-11,1963.0
+1307,Paseo del Bosque & Montano Rd Pedestrians South,2020-11,2472.0
+1308,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2020-11,7030.0
+1309,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2020-11,6767.0
+1310,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2020-11,
+1311,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2020-11,2733.0
+1312,Paseo del Norte & Rail Runner Bicycle Eastbound,2020-11,2020.0
+1313,Paseo del Norte & Rail Runner Bicycle Westbound,2020-11,2101.0
+1314,Paseo del Norte & Rail Runner PED Eastbound,2020-11,379.0
+1315,Paseo del Norte & Rail Runer PED Westbound,2020-11,623.0
+1316,Jerry Cline Park Pedestrians IN West,2020-12,2976.0
+1317,Jerry Cline Park Pedestrians OUT East,2020-12,2233.0
+1318,Jerry Cline Park Bicyclists OUT East,2020-12,1033.0
+1319,Erna Fergusson Library Bicycle Eastbound,2020-12,839.0
+1320,Erna Fergusson Library Bicycle Westbound,2020-12,733.0
+1321,Erna Fergusson Library PED Eastbound,2020-12,5530.0
+1322,Erna Fergusson Library PED Westbound,2020-12,2193.0
+1323,North Diversion Channel Trail & Indian School Rd Cyclists NORTH,2020-12,1814.0
+1324,North Diversion Channel Trail & Indian School Rd  Cyclists SOUTH,2020-12,1708.0
+1325,North Diversion Channel Trail & Indian School Pedestrians NORTH,2020-12,1811.0
+1326,North Diversion Channel Trail & Indian School Pedestrians SOUTH,2020-12,1946.0
+1327,North Diversion Channel Trail & Journal Center Cyclists IN NORTH,2020-12,1967.0
+1328,North Diversion Channel Trail & Journal Center Cyclists OUT SOUTH,2020-12,2045.0
+1329,North Diversion Channel Trail & Journal Center Pedestrians IN NORTH,2020-12,855.0
+1330,North Diversion Channel Trail & Journal Center Pedestrians OUT SOUTH,2020-12,772.0
+1331,Jerry Cline Park Cyclists IN West,2020-12,389.0
+1332,Paseo del Bosque & Montano Rd Cyclists North,2020-12,4313.0
+1333,Paseo del Bosque & Montano Rd Cyclists South,2020-12,4523.0
+1334,Paseo del Bosque & Montano Rd Pedestrians North,2020-12,1590.0
+1335,Paseo del Bosque & Montano Rd Pedestrians South,2020-12,1787.0
+1336,Paseo del Bosque & Tingley Beach Cyclists IN NORTH,2020-12,4074.0
+1337,Paseo del Bosque & Tingley Beach Cyclists OUT SOUTH,2020-12,4092.0
+1338,Paseo del Bosque & Tingley Beach Pedestrians IN NORTH,2020-12,
+1339,Paseo del Bosque &Tingley Beach Pedestrians OUT SOUTH,2020-12,2294.0
+1340,Paseo del Norte & Rail Runner Bicycle Eastbound,2020-12,1318.0
+1341,Paseo del Norte & Rail Runner Bicycle Westbound,2020-12,1383.0
+1342,Paseo del Norte & Rail Runner PED Eastbound,2020-12,368.0
+1343,Paseo del Norte & Rail Runer PED Westbound,2020-12,940.0

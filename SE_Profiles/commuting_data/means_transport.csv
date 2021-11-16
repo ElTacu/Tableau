@@ -1,0 +1,43 @@
+Means of Transportation to Work (2019),variable,value
+Drove alone,"Bernalillo County, New Mexico",0.808
+Carpooled,"Bernalillo County, New Mexico",0.091
+Public transportation (excluding taxicab),"Bernalillo County, New Mexico",0.017
+Walked,"Bernalillo County, New Mexico",0.018
+Bicycle,"Bernalillo County, New Mexico",0.01
+"Taxicab, motorcycle, or other means","Bernalillo County, New Mexico",0.01
+Worked from home,"Bernalillo County, New Mexico",0.047
+Drove alone,"Sandoval County, New Mexico",0.787
+Carpooled,"Sandoval County, New Mexico",0.128
+Public transportation (excluding taxicab),"Sandoval County, New Mexico",0.009
+Walked,"Sandoval County, New Mexico",0.015
+Bicycle,"Sandoval County, New Mexico",0.001
+"Taxicab, motorcycle, or other means","Sandoval County, New Mexico",0.008
+Worked from home,"Sandoval County, New Mexico",0.052
+Drove alone,"Torrance County, New Mexico",0.79
+Carpooled,"Torrance County, New Mexico",0.064
+Public transportation (excluding taxicab),"Torrance County, New Mexico",0
+Walked,"Torrance County, New Mexico",0.019
+Bicycle,"Torrance County, New Mexico",0
+"Taxicab, motorcycle, or other means","Torrance County, New Mexico",0.01
+Worked from home,"Torrance County, New Mexico",0.116
+Drove alone,"Valencia County, New Mexico",0.834
+Carpooled,"Valencia County, New Mexico",0.087
+Public transportation (excluding taxicab),"Valencia County, New Mexico",0.01
+Walked,"Valencia County, New Mexico",0.008
+Bicycle,"Valencia County, New Mexico",0
+"Taxicab, motorcycle, or other means","Valencia County, New Mexico",0.018
+Worked from home,"Valencia County, New Mexico",0.043
+Drove alone,"Albuquerque, NM Metro Area",0.806
+Carpooled,"Albuquerque, NM Metro Area",0.096
+Public transportation (excluding taxicab),"Albuquerque, NM Metro Area",0.015
+Walked,"Albuquerque, NM Metro Area",0.017
+Bicycle,"Albuquerque, NM Metro Area",0.008
+"Taxicab, motorcycle, or other means","Albuquerque, NM Metro Area",0.011
+Worked from home,"Albuquerque, NM Metro Area",0.048
+Drove alone,United States,0.763
+Carpooled,United States,0.09
+Public transportation (excluding taxicab),United States,0.05
+Walked,United States,0.027
+Bicycle,United States,0.005
+"Taxicab, motorcycle, or other means",United States,0.013
+Worked from home,United States,0.052

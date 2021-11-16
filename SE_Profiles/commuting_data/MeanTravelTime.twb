@@ -1,0 +1,769 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20204.21.0315.1000                               -->
+<workbook original-version='18.1' source-build='2020.4.3 (20204.21.0315.1000)' source-platform='win' version='18.1' xml:base='https://public.tableau.com' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AutoCreateAndUpdateDSDPhoneLayouts />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelExtractV2.true...ObjectModelExtractV2 />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <_.fcp.SetMembershipControl.true...SetMembershipControl />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <repository-location id='MeanTravelTime_16275058202260' path='/workbooks' revision='1.3' />
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='commute_time_2019' inline='true' name='federated.1etrrkb0dqeuls1846j4y0urfjh4' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='commute_time_2019' name='textscan.0drqrcy03ygux917bzmxt0pcdqza'>
+            <connection class='textscan' directory='C:/Users/DJimenez/Desktop/visual/james/commuting_data' filename='commute_time_2019.csv' password='' server='' workgroup-auth-mode='as-is' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0drqrcy03ygux917bzmxt0pcdqza' name='commute_time_2019.csv' table='[commute_time_2019#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='Travel Time to Work (2019)' ordinal='0' />
+            <column datatype='real' name='Bernalillo' ordinal='1' />
+            <column datatype='integer' name='Sandoval' ordinal='2' />
+            <column datatype='real' name='Torrance' ordinal='3' />
+            <column datatype='real' name='Valencia' ordinal='4' />
+            <column datatype='real' name='Central New Mexico' ordinal='5' />
+            <column datatype='real' name='New Mexico' ordinal='6' />
+            <column datatype='real' name='United States' ordinal='7' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.0drqrcy03ygux917bzmxt0pcdqza' name='commute_time_2019.csv' table='[commute_time_2019#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='Travel Time to Work (2019)' ordinal='0' />
+            <column datatype='real' name='Bernalillo' ordinal='1' />
+            <column datatype='integer' name='Sandoval' ordinal='2' />
+            <column datatype='real' name='Torrance' ordinal='3' />
+            <column datatype='real' name='Valencia' ordinal='4' />
+            <column datatype='real' name='Central New Mexico' ordinal='5' />
+            <column datatype='real' name='New Mexico' ordinal='6' />
+            <column datatype='real' name='United States' ordinal='7' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[commute_time_2019.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Travel Time to Work (2019)</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Travel Time to Work (2019)]</local-name>
+            <parent-name>[commute_time_2019.csv]</parent-name>
+            <remote-alias>Travel Time to Work (2019)</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[commute_time_2019.csv_1963B5371E564C1188168A9B2D2BB7B5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Bernalillo</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Bernalillo]</local-name>
+            <parent-name>[commute_time_2019.csv]</parent-name>
+            <remote-alias>Bernalillo</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[commute_time_2019.csv_1963B5371E564C1188168A9B2D2BB7B5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Sandoval</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Sandoval]</local-name>
+            <parent-name>[commute_time_2019.csv]</parent-name>
+            <remote-alias>Sandoval</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[commute_time_2019.csv_1963B5371E564C1188168A9B2D2BB7B5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Torrance</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Torrance]</local-name>
+            <parent-name>[commute_time_2019.csv]</parent-name>
+            <remote-alias>Torrance</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[commute_time_2019.csv_1963B5371E564C1188168A9B2D2BB7B5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Valencia</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Valencia]</local-name>
+            <parent-name>[commute_time_2019.csv]</parent-name>
+            <remote-alias>Valencia</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[commute_time_2019.csv_1963B5371E564C1188168A9B2D2BB7B5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Central New Mexico</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Central New Mexico]</local-name>
+            <parent-name>[commute_time_2019.csv]</parent-name>
+            <remote-alias>Central New Mexico</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[commute_time_2019.csv_1963B5371E564C1188168A9B2D2BB7B5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>New Mexico</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[New Mexico]</local-name>
+            <parent-name>[commute_time_2019.csv]</parent-name>
+            <remote-alias>New Mexico</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[commute_time_2019.csv_1963B5371E564C1188168A9B2D2BB7B5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>United States</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[United States]</local-name>
+            <parent-name>[commute_time_2019.csv]</parent-name>
+            <remote-alias>United States</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[commute_time_2019.csv_1963B5371E564C1188168A9B2D2BB7B5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='real' name='[Bernalillo]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Central New Mexico]' role='measure' type='quantitative' />
+      <column datatype='real' name='[New Mexico]' role='measure' type='quantitative' />
+      <column datatype='integer' name='[Sandoval]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Torrance]' role='measure' type='quantitative' />
+      <column datatype='string' name='[Travel Time to Work (2019)]' role='dimension' type='nominal'>
+        <aliases>
+          <alias key='&quot;Mean travel time to work (minutes)&quot;' value='.' />
+        </aliases>
+      </column>
+      <column datatype='real' name='[United States]' role='measure' type='quantitative' />
+      <column datatype='real' name='[Valencia]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='commute_time_2019.csv' datatype='table' name='[__tableau_internal_object_id__].[commute_time_2019.csv_1963B5371E564C1188168A9B2D2BB7B5]' role='measure' type='quantitative' />
+      <column-instance column='[__tableau_internal_object_id__].[commute_time_2019.csv_1963B5371E564C1188168A9B2D2BB7B5]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:commute_time_2019.csv_1963B5371E564C1188168A9B2D2BB7B5:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Bernalillo]' derivation='Sum' name='[sum:Bernalillo:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Central New Mexico]' derivation='Sum' name='[sum:Central New Mexico:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[New Mexico]' derivation='Sum' name='[sum:New Mexico:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Sandoval]' derivation='Sum' name='[sum:Sandoval:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Torrance]' derivation='Sum' name='[sum:Torrance:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[United States]' derivation='Sum' name='[sum:United States:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Valencia]' derivation='Sum' name='[sum:Valencia:qk]' pivot='key' type='quantitative' />
+      <extract _.fcp.ObjectModelExtractV2.true...object-id='' count='-1' enabled='true' units='records'>
+        <connection access_mode='readonly' authentication='auth-none' author-locale='en_US' class='hyper' dbname='C:/Users/DJimenez/Desktop/visual/james/commuting_data/commute_time_2019.hyper' default-settings='yes' schema='Extract' sslmode='' tablename='Extract' update-time='07/28/2021 08:59:10 PM' username='tableau_internal_user'>
+          <_.fcp.ObjectModelEncapsulateLegacy.false...relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <_.fcp.ObjectModelEncapsulateLegacy.true...relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <refresh>
+            <refresh-event add-from-file-path='commute_time_2019' increment-value='%null%' refresh-type='create' rows-inserted='1' timestamp-start='2021-07-28 20:59:10.363' />
+          </refresh>
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>Travel Time to Work (2019)</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Travel Time to Work (2019)]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Travel Time to Work (2019)</remote-alias>
+              <ordinal>0</ordinal>
+              <family>commute_time_2019.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>1</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[commute_time_2019.csv_1963B5371E564C1188168A9B2D2BB7B5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Bernalillo</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[Bernalillo]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Bernalillo</remote-alias>
+              <ordinal>1</ordinal>
+              <family>commute_time_2019.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>1</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[commute_time_2019.csv_1963B5371E564C1188168A9B2D2BB7B5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Sandoval</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Sandoval]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Sandoval</remote-alias>
+              <ordinal>2</ordinal>
+              <family>commute_time_2019.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>1</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[commute_time_2019.csv_1963B5371E564C1188168A9B2D2BB7B5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Torrance</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[Torrance]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Torrance</remote-alias>
+              <ordinal>3</ordinal>
+              <family>commute_time_2019.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>1</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[commute_time_2019.csv_1963B5371E564C1188168A9B2D2BB7B5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Valencia</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[Valencia]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Valencia</remote-alias>
+              <ordinal>4</ordinal>
+              <family>commute_time_2019.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>1</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[commute_time_2019.csv_1963B5371E564C1188168A9B2D2BB7B5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Central New Mexico</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[Central New Mexico]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Central New Mexico</remote-alias>
+              <ordinal>5</ordinal>
+              <family>commute_time_2019.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>1</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[commute_time_2019.csv_1963B5371E564C1188168A9B2D2BB7B5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>New Mexico</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[New Mexico]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>New Mexico</remote-alias>
+              <ordinal>6</ordinal>
+              <family>commute_time_2019.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>1</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[commute_time_2019.csv_1963B5371E564C1188168A9B2D2BB7B5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>United States</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[United States]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>United States</remote-alias>
+              <ordinal>7</ordinal>
+              <family>commute_time_2019.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>1</approx-count>
+              <contains-null>true</contains-null>
+              <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[commute_time_2019.csv_1963B5371E564C1188168A9B2D2BB7B5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[:Measure Names]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.1etrrkb0dqeuls1846j4y0urfjh4].[sum:Bernalillo:qk]&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;[federated.1etrrkb0dqeuls1846j4y0urfjh4].[sum:Sandoval:qk]&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;[federated.1etrrkb0dqeuls1846j4y0urfjh4].[sum:New Mexico:qk]&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;[federated.1etrrkb0dqeuls1846j4y0urfjh4].[sum:United States:qk]&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;[federated.1etrrkb0dqeuls1846j4y0urfjh4].[__tableau_internal_object_id__].[cnt:commute_time_2019.csv_1963B5371E564C1188168A9B2D2BB7B5:qk]&quot;</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>&quot;[federated.1etrrkb0dqeuls1846j4y0urfjh4].[sum:Torrance:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.1etrrkb0dqeuls1846j4y0urfjh4].[sum:Central New Mexico:qk]&quot;</bucket>
+            </map>
+            <map to='#ff9da7'>
+              <bucket>&quot;[federated.1etrrkb0dqeuls1846j4y0urfjh4].[sum:Valencia:qk]&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='commute_time_2019.csv' id='commute_time_2019.csv_1963B5371E564C1188168A9B2D2BB7B5'>
+            <properties context=''>
+              <relation connection='textscan.0drqrcy03ygux917bzmxt0pcdqza' name='commute_time_2019.csv' table='[commute_time_2019#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='string' name='Travel Time to Work (2019)' ordinal='0' />
+                  <column datatype='real' name='Bernalillo' ordinal='1' />
+                  <column datatype='integer' name='Sandoval' ordinal='2' />
+                  <column datatype='real' name='Torrance' ordinal='3' />
+                  <column datatype='real' name='Valencia' ordinal='4' />
+                  <column datatype='real' name='Central New Mexico' ordinal='5' />
+                  <column datatype='real' name='New Mexico' ordinal='6' />
+                  <column datatype='real' name='United States' ordinal='7' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Average Travel Time to Work (2019).</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='commute_time_2019' name='federated.1etrrkb0dqeuls1846j4y0urfjh4' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1etrrkb0dqeuls1846j4y0urfjh4'>
+            <column datatype='real' name='[Bernalillo]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Central New Mexico]' role='measure' type='quantitative' />
+            <column datatype='real' name='[New Mexico]' role='measure' type='quantitative' />
+            <column datatype='integer' name='[Sandoval]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Torrance]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Travel Time to Work (2019)]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;Mean travel time to work (minutes)&quot;' value='.' />
+              </aliases>
+            </column>
+            <column datatype='real' name='[United States]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Valencia]' role='measure' type='quantitative' />
+            <column-instance column='[Travel Time to Work (2019)]' derivation='None' name='[none:Travel Time to Work (2019):nk]' pivot='key' type='nominal' />
+            <column-instance column='[Bernalillo]' derivation='Sum' name='[sum:Bernalillo:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Central New Mexico]' derivation='Sum' name='[sum:Central New Mexico:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[New Mexico]' derivation='Sum' name='[sum:New Mexico:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Sandoval]' derivation='Sum' name='[sum:Sandoval:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Torrance]' derivation='Sum' name='[sum:Torrance:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[United States]' derivation='Sum' name='[sum:United States:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Valencia]' derivation='Sum' name='[sum:Valencia:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1etrrkb0dqeuls1846j4y0urfjh4].[:Measure Names]'>
+            <groupfilter function='union' user:op='manual'>
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1etrrkb0dqeuls1846j4y0urfjh4].[sum:Bernalillo:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1etrrkb0dqeuls1846j4y0urfjh4].[sum:Sandoval:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1etrrkb0dqeuls1846j4y0urfjh4].[sum:Torrance:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1etrrkb0dqeuls1846j4y0urfjh4].[sum:Valencia:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1etrrkb0dqeuls1846j4y0urfjh4].[sum:New Mexico:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1etrrkb0dqeuls1846j4y0urfjh4].[sum:Central New Mexico:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1etrrkb0dqeuls1846j4y0urfjh4].[sum:United States:qk]&quot;' />
+            </groupfilter>
+          </filter>
+          <manual-sort column='[federated.1etrrkb0dqeuls1846j4y0urfjh4].[:Measure Names]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;[federated.1etrrkb0dqeuls1846j4y0urfjh4].[sum:Bernalillo:qk]&quot;</bucket>
+              <bucket>&quot;[federated.1etrrkb0dqeuls1846j4y0urfjh4].[sum:Sandoval:qk]&quot;</bucket>
+              <bucket>&quot;[federated.1etrrkb0dqeuls1846j4y0urfjh4].[sum:Torrance:qk]&quot;</bucket>
+              <bucket>&quot;[federated.1etrrkb0dqeuls1846j4y0urfjh4].[sum:Valencia:qk]&quot;</bucket>
+              <bucket>&quot;[federated.1etrrkb0dqeuls1846j4y0urfjh4].[sum:New Mexico:qk]&quot;</bucket>
+              <bucket>&quot;[federated.1etrrkb0dqeuls1846j4y0urfjh4].[sum:Central New Mexico:qk]&quot;</bucket>
+              <bucket>&quot;[federated.1etrrkb0dqeuls1846j4y0urfjh4].[sum:United States:qk]&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='categorical' column='[federated.1etrrkb0dqeuls1846j4y0urfjh4].[none:Travel Time to Work (2019):nk]'>
+            <groupfilter function='member' level='[none:Travel Time to Work (2019):nk]' member='&quot;Mean travel time to work (minutes)&quot;' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.1etrrkb0dqeuls1846j4y0urfjh4].[:Measure Names]</column>
+            <column>[federated.1etrrkb0dqeuls1846j4y0urfjh4].[none:Travel Time to Work (2019):nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.1etrrkb0dqeuls1846j4y0urfjh4].[Multiple Values]' scope='rows' value='Minutes' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.1etrrkb0dqeuls1846j4y0urfjh4].[:Measure Names]' value='99' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='height' field='[federated.1etrrkb0dqeuls1846j4y0urfjh4].[none:Travel Time to Work (2019):nk]' value='21' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+          <style-rule element='legend-title-text'>
+            <format attr='color' field='[federated.1etrrkb0dqeuls1846j4y0urfjh4].[:Measure Names]' value='Area'>
+              <formatted-text>
+                <run>Area</run>
+              </formatted-text>
+            </format>
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1etrrkb0dqeuls1846j4y0urfjh4].[:Measure Names]' />
+            </encodings>
+            <style>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1etrrkb0dqeuls1846j4y0urfjh4].[Multiple Values]</rows>
+        <cols>([federated.1etrrkb0dqeuls1846j4y0urfjh4].[none:Travel Time to Work (2019):nk] / [federated.1etrrkb0dqeuls1846j4y0urfjh4].[:Measure Names])</cols>
+      </table>
+      <simple-id uuid='{42AFFCE7-933C-4E00-9321-76AB6A2EEAA1}' />
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard name='Dashboard 1'>
+      <style />
+      <size sizing-mode='automatic' />
+      <zones>
+        <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='4' w='100000' x='0' y='0'>
+          <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98230' id='7' param='horz' w='99064' x='468' y='885'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='98230' id='5' w='89702' x='468' y='885'>
+              <zone h='93694' id='3' name='Sheet 1' w='89702' x='468' y='885'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' h='4536' id='15' w='89702' x='468' y='94579'>
+                <formatted-text>
+                  <run fontcolor='#000000' fontname='Benton Sans Book'>Source: U.S. Census Bureau American Community Survey, 1-year data 2019 </run>
+                </formatted-text>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+            </zone>
+            <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' fixed-size='160' h='98230' id='6' is-fixed='true' param='vert' w='9362' x='90170' y='885'>
+              <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' h='18363' id='8' name='Sheet 1' pane-specification-id='0' param='[federated.1etrrkb0dqeuls1846j4y0urfjh4].[:Measure Names]' w='9362' x='90170' y='885'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+            </zone>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='700' minheight='700' sizing-mode='vscroll' />
+          <zones>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='27' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98230' id='26' param='vert' w='99064' x='468' y='885'>
+                <zone fixed-size='280' h='93694' id='3' is-fixed='true' name='Sheet 1' w='89702' x='468' y='885'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' h='18363' id='8' name='Sheet 1' pane-specification-id='0' param='[federated.1etrrkb0dqeuls1846j4y0urfjh4].[:Measure Names]' w='9362' x='90170' y='885'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' h='4536' id='15' w='89702' x='468' y='94579'>
+                  <formatted-text>
+                    <run fontcolor='#000000' fontname='Benton Sans Book'>Source: U.S. Census Bureau American Community Survey, 1-year data 2019 </run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{19A59B61-7B14-40AD-B405-E91E544489C9}' />
+    </dashboard>
+  </dashboards>
+  <windows source-height='30'>
+    <window class='worksheet' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+            <card type='measures' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1etrrkb0dqeuls1846j4y0urfjh4].[:Measure Names]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1etrrkb0dqeuls1846j4y0urfjh4].[:Measure Names]</field>
+            <field>[federated.1etrrkb0dqeuls1846j4y0urfjh4].[none:Travel Time to Work (2019):nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{922FABF9-B0A9-477C-8EA7-02F1C9E289CA}' />
+    </window>
+    <window class='dashboard' maximized='true' name='Dashboard 1'>
+      <viewpoints>
+        <viewpoint name='Sheet 1'>
+          <zoom type='entire-view' />
+          <highlight>
+            <color-one-way>
+              <field>[federated.1etrrkb0dqeuls1846j4y0urfjh4].[:Measure Names]</field>
+            </color-one-way>
+          </highlight>
+        </viewpoint>
+      </viewpoints>
+      <active id='3' />
+      <simple-id uuid='{F034DBB7-AB79-4C70-BA19-A0E094CA3A56}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Dashboard 1' width='192'>
+      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
+    </thumbnail>
+    <thumbnail height='192' name='Sheet 1' width='192'>
+      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
+    </thumbnail>
+  </thumbnails>
+</workbook>

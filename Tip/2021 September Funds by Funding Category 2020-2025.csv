@@ -1,0 +1,461 @@
+TIP_In2020,ID Number,Control Number,Project Title,Lead Agency,Project Type,Year,Funding Category,FedAmount,StateAmount,LocalAmount,TotAmount,Funding Source
+TRUE,135,TA00390,Commuter Rail Maint of Eqiup & Way & Transit Oper,Rio Metro NMRRX,Transit,2021,CARES Act Fund,"600,000.00",0.00,0.00,"600,000.00",Federal Sp Prog 3
+TRUE,100.5,A300705,AMPA Wide Bicycle Facil. Prog. & Activities,City of Albuquerque-DMD,Bike/Ped,2020,CMAQ-Flex,"150,000.00",0.00,"25,561.79","175,561.79",Federal Hwy
+TRUE,100.5999985,A300706,AMPA Wide Bicycle Facil. Prog. & Activities,City of Albuquerque-DMD,Bike/Ped,2021,CMAQ-Flex,"150,000.00",0.00,"25,561.79","175,561.79",Federal Hwy
+TRUE,202,A301820,AMPA Wide Joint TDM-Travel Demand,Rio Metro Transit Dist,TDM,2020,CMAQ-Flex,"1,090,000.00",0.00,"185,749.03","1,275,749.03",Federal Hwy
+TRUE,202.1000061,A301821,AMPA Wide Joint TDM-Travel Demand,Rio Metro Transit Dist,TDM,2021,CMAQ-Flex,"1,123,000.00",0.00,"191,372.62","1,314,372.62",Federal Hwy
+TRUE,219,TA00430,Commuter Rail-NMRRX Operating Assistance FFY 2020,Rio Metro NMRRX,Transit,2020,CMAQ-Flex,"1,000,000.00",0.00,"170,411.95","1,170,411.95",Federal Hwy
+TRUE,219.1000061,TA00431,Commuter Rail-NMRRX Operating Assistance FFY 2021,Rio Metro NMRRX,Transit,2021,CMAQ-Flex,"1,000,000.00",0.00,"170,411.95","1,170,411.95",Federal Hwy
+TRUE,219.1999969,TA00432,Commuter Rail-NMRRX Operating Assistance FFY 2022,Rio Metro NMRRX,Transit,2022,CMAQ-Flex,"1,000,000.00",0.00,"170,411.95","1,170,411.95",Federal Hwy
+TRUE,219.3000031,TA00433,Commuter Rail-NMRRX Operating Assistance FFY 2023,Rio Metro NMRRX,Transit,2023,CMAQ-Flex,"1,000,000.00",0.00,"170,411.95","1,170,411.95",Federal Hwy
+TRUE,345.3999939,TA00351,Central Ave BRT - Phase IB,City of Albuquerque-ABQ Ride,Transit,2020,CMAQ-Flex,"3,643,326.00",0.00,"620,866.29","4,264,192.29",Federal Hwy
+TRUE,345.3999939,TA00351,Central Ave BRT - Phase IB,City of Albuquerque-ABQ Ride,Transit,2021,CMAQ-Flex,"3,610,326.00",0.00,"615,242.70","4,225,568.70",Federal Hwy
+TRUE,872.5,A300505,Bridge Blvd Reconstruction Phase 3,County of Bernalillo,Hwy & Brg Pres,2022,CMAQ-Flex,"299,040.00",0.00,"50,959.99","349,999.99",Federal Hwy
+TRUE,872.5,A300505,Bridge Blvd Reconstruction Phase 3,County of Bernalillo,Hwy & Brg Pres,2023,CMAQ-Flex,"3,004,613.00",0.00,"512,021.97","3,516,634.97",Federal Hwy
+TRUE,42.09999847,A300942,NM 500 Rio Bravo Blvd & 2nd St Intersection Improvements,County of Bernalillo,Hwy & Brg Pres,2023,COVID Supplemental Funds,"3,500,000.00",0.00,0.00,"3,500,000.00",Federal Sp Prog 3
+TRUE,103.8000031,A300759,ITS-Albuquerque Traffic Management Systems-Louisiana Boulevard Improvements,City of Albuquerque-DMD,ITS-TSM,2021,COVID Supplemental Funds,"600,000.00",0.00,0.00,"600,000.00",Federal Sp Prog 3
+TRUE,258.1000061,A302151,4th St Revitalization Phase 2,Village of Los Ranchos de Albuquerque,Bike/Ped,2024,COVID Supplemental Funds,"1,000,000.00",0.00,0.00,"1,000,000.00",Federal Sp Prog 3
+TRUE,332.3999939,A301753,NM 347 (Paseo del Volcan) and Broadmoor Blvd Intersection Improvemnts,City of Rio Rancho,Safety,2023,COVID Supplemental Funds,"150,000.00",0.00,0.00,"150,000.00",Federal Sp Prog 3
+TRUE,382.2999878,A301313,Bernalillo Main St Streetscape Phase 4,Town of Bernalillo,Bike/Ped,2024,COVID Supplemental Funds,"677,397.00",0.00,0.00,"677,397.00",Federal Sp Prog 3
+TRUE,508.2999878,A301052,Westside Blvd Bike/Ped Path,City of Rio Rancho,Bike/Ped,2021,COVID Supplemental Funds,"460,000.00",0.00,0.00,"460,000.00",Federal Sp Prog 3
+TRUE,642.0999756,TA00371,Commuter Rail: Centralized Traffic Control,Rio Metro NMRRX,Transit,2022,COVID Supplemental Funds,"333,926.00",0.00,0.00,"333,926.00",Federal Sp Prog 3
+TRUE,872.4000244,A300504,Bridge Blvd and Tower Rd Reconstruction Phase 2,County of Bernalillo,Hwy & Brg Pres,2022,COVID Supplemental Funds,"1,500,000.00",0.00,0.00,"1,500,000.00",Federal Sp Prog 3
+TRUE,23.20000076,A302301,New project,County of Bernalillo,Capacity Proj,2022,FLAP-Federal Lands Access,0.00,0.00,0.00,0.00,Federal LHP
+TRUE,23.20000076,A302301,New project,County of Bernalillo,Capacity Proj,2024,FLAP-Federal Lands Access,0.00,0.00,0.00,0.00,Federal LHP
+TRUE,82,A301088,"NM 314, NM 45 & NM 317 Intersection Improvements & Realignment",Pueblo of Isleta,Safety,2021,FLHP-Tribal Trans Prog,"878,566.00",0.00,0.00,"878,566.00",Federal LHP
+TRUE,82,A301088,"NM 314, NM 45 & NM 317 Intersection Improvements & Realignment",Pueblo of Isleta,Safety,2022,FLHP-Tribal Trans Prog,"50,000.00",0.00,0.00,"50,000.00",Federal LHP
+TRUE,82,A301088,"NM 314, NM 45 & NM 317 Intersection Improvements & Realignment",Pueblo of Isleta,Safety,2022,FLHP-Tribal Trans Prog,"150,000.00",0.00,0.00,"150,000.00",Federal LHP
+TRUE,82,A301088,"NM 314, NM 45 & NM 317 Intersection Improvements & Realignment",Pueblo of Isleta,Safety,2022,FLHP-Tribal Trans Prog,"1,300,000.00",0.00,0.00,"1,300,000.00",Federal LHP
+TRUE,82,A301088,"NM 314, NM 45 & NM 317 Intersection Improvements & Realignment",Pueblo of Isleta,Safety,2023,FLHP-Tribal Trans Prog,"200,000.00",0.00,0.00,"200,000.00",Federal LHP
+TRUE,82,A301088,"NM 314, NM 45 & NM 317 Intersection Improvements & Realignment",Pueblo of Isleta,Safety,2023,FLHP-Tribal Trans Prog,"311,872.00",0.00,0.00,"311,872.00",Federal LHP
+TRUE,82,A301088,"NM 314, NM 45 & NM 317 Intersection Improvements & Realignment",Pueblo of Isleta,Safety,2024,FLHP-Tribal Trans Prog,"20,000.00",0.00,0.00,"20,000.00",Federal LHP
+TRUE,82,A301088,"NM 314, NM 45 & NM 317 Intersection Improvements & Realignment",Pueblo of Isleta,Safety,2024,FLHP-Tribal Trans Prog,"60,000.00",0.00,0.00,"60,000.00",Federal LHP
+TRUE,147.1000061,A301242,NM 47 Safety Improvements,Pueblo of Isleta,Safety,2020,FLHP-Tribal Trans Prog,"15,000.00",0.00,0.00,"15,000.00",Federal LHP
+TRUE,147.1000061,A301242,NM 47 Safety Improvements,Pueblo of Isleta,Safety,2020,FLHP-Tribal Trans Prog,"15,000.00",0.00,0.00,"15,000.00",Federal LHP
+TRUE,147.1000061,A301242,NM 47 Safety Improvements,Pueblo of Isleta,Safety,2020,FLHP-Tribal Trans Prog,"15,420.00",0.00,0.00,"15,420.00",Federal LHP
+TRUE,147.1000061,A301242,NM 47 Safety Improvements,Pueblo of Isleta,Safety,2020,FLHP-Tribal Trans Prog,"17,657.00",0.00,0.00,"17,657.00",Federal LHP
+TRUE,147.1000061,A301242,NM 47 Safety Improvements,Pueblo of Isleta,Safety,2020,FLHP-Tribal Trans Prog,"166,905.00",0.00,0.00,"166,905.00",Federal LHP
+TRUE,147.1000061,A301242,NM 47 Safety Improvements,Pueblo of Isleta,Safety,2020,FLHP-Tribal Trans Prog,"734,580.00",0.00,0.00,"734,580.00",Federal LHP
+TRUE,147.1000061,A301242,NM 47 Safety Improvements,Pueblo of Isleta,Safety,2021,FLHP-Tribal Trans Prog,"300,000.00",0.00,0.00,"300,000.00",Federal LHP
+TRUE,147.1000061,A301242,NM 47 Safety Improvements,Pueblo of Isleta,Safety,2022,FLHP-Tribal Trans Prog,"200,000.00",0.00,0.00,"200,000.00",Federal LHP
+TRUE,230,A301930,TTP- Pueblo de Cochiti,Pueblo of Cochiti,Hwy & Brg Pres,2020,FLHP-Tribal Trans Prog,"492,470.00",0.00,0.00,"492,470.00",Federal LHP
+TRUE,230,A301930,TTP- Pueblo de Cochiti,Pueblo of Cochiti,Hwy & Brg Pres,2021,FLHP-Tribal Trans Prog,"541,717.00",0.00,0.00,"541,717.00",Federal LHP
+TRUE,231,A301940,TTP-Pueblo of Isleta,Pueblo of Isleta,Hwy & Brg Pres,2020,FLHP-Tribal Trans Prog,"1,298,235.00",0.00,0.00,"1,298,235.00",Federal LHP
+TRUE,231,A301940,TTP-Pueblo of Isleta,Pueblo of Isleta,Hwy & Brg Pres,2021,FLHP-Tribal Trans Prog,"296,497.00",0.00,0.00,"296,497.00",Federal LHP
+TRUE,231,A301940,TTP-Pueblo of Isleta,Pueblo of Isleta,Hwy & Brg Pres,2022,FLHP-Tribal Trans Prog,0.00,0.00,0.00,0.00,Federal LHP
+TRUE,231,A301940,TTP-Pueblo of Isleta,Pueblo of Isleta,Hwy & Brg Pres,2023,FLHP-Tribal Trans Prog,"963,191.00",0.00,0.00,"963,191.00",Federal LHP
+TRUE,231,A301940,TTP-Pueblo of Isleta,Pueblo of Isleta,Hwy & Brg Pres,2024,FLHP-Tribal Trans Prog,"1,395,063.00",0.00,0.00,"1,395,063.00",Federal LHP
+TRUE,233,A301960,TTP-Pueblo of San Felipe,Pueblo of San Felipe,Hwy & Brg Pres,2020,FLHP-Tribal Trans Prog,"719,965.00",0.00,0.00,"719,965.00",Federal LHP
+TRUE,233,A301960,TTP-Pueblo of San Felipe,Pueblo of San Felipe,Hwy & Brg Pres,2021,FLHP-Tribal Trans Prog,"719,965.00",0.00,0.00,"719,965.00",Federal LHP
+TRUE,234,A301970,TTP-Pueblo of Sandia,Pueblo of Sandia,Hwy & Brg Pres,2020,FLHP-Tribal Trans Prog,"269,474.00",0.00,0.00,"269,474.00",Federal LHP
+TRUE,234,A301970,TTP-Pueblo of Sandia,Pueblo of Sandia,Hwy & Brg Pres,2021,FLHP-Tribal Trans Prog,"269,474.00",0.00,0.00,"269,474.00",Federal LHP
+TRUE,235,A301980,TTP-Pueblo of Santa Ana,Pueblo of Santa Ana,Hwy & Brg Pres,2020,FLHP-Tribal Trans Prog,"272,450.00",0.00,0.00,"272,450.00",Federal LHP
+TRUE,235,A301980,TTP-Pueblo of Santa Ana,Pueblo of Santa Ana,Hwy & Brg Pres,2021,FLHP-Tribal Trans Prog,"272,450.00",0.00,0.00,"272,450.00",Federal LHP
+TRUE,236,A301990,TTP-Pueblo of Santo Domingo,Pueblo of Santo Domingo,Hwy & Brg Pres,2020,FLHP-Tribal Trans Prog,"735,496.00",0.00,0.00,"735,496.00",Federal LHP
+TRUE,236,A301990,TTP-Pueblo of Santo Domingo,Pueblo of Santo Domingo,Hwy & Brg Pres,2021,FLHP-Tribal Trans Prog,"735,496.00",0.00,0.00,"735,496.00",Federal LHP
+TRUE,517.0999756,A301291,New Project,Pueblo of Cochiti,Safety,2020,FLHP-Tribal Trans Prog,0.00,0.00,0.00,0.00,Federal LHP
+TRUE,517.0999756,A301291,New Project,Pueblo of Cochiti,Safety,2020,FLHP-TTP used for match,0.00,0.00,0.00,0.00,Federal LHP
+TRUE,136.6000061,TA00316,Rio Metro - Los Lunas Small Urban Transit Services (FY 2019 Alloc),Rio Metro Transit Dist,Transit,2020,FTA 5307 (Sm Urb Oper),"795,116.00",0.00,"795,116.00","1,590,232.00",Federal Transit
+TRUE,136.6999969,TA00317,Rio Metro - Los Lunas Small Urban Transit Services (FY 2020 Alloc),Rio Metro Transit Dist,Transit,2021,FTA 5307 (Sm Urb Oper),"810,881.00",0.00,"810,881.00","1,621,762.00",Federal Transit
+TRUE,136.8000031,TA00318,Rio Metro - Los Lunas Small Urban Transit Services (FY 2021 Alloc),Rio Metro Transit Dist,Transit,2022,FTA 5307 (Sm Urb Oper),"827,098.00",0.00,"827,098.00","1,654,196.00",Federal Transit
+TRUE,136.8999939,TA00319,Rio Metro - Los Lunas Small Urban Transit Services (FY 2022 Alloc),Rio Metro Transit Dist,Transit,2023,FTA 5307 (Sm Urb Oper),"843,640.00",0.00,"843,640.00","1,687,280.00",Federal Transit
+TRUE,139,TA00450,Rio Metro - Los Lunas Small Urban Transit Services (FY 2024 Alloc),Rio Metro Transit Dist,Transit,2024,FTA 5307 (Sm Urb Oper),"860,513.00",0.00,"860,513.00","1,721,026.00",Federal Transit
+TRUE,139.1000061,TA00451,Rio Metro - Los Lunas Small Urban Transit Services (FY 2025 Alloc),Rio Metro Transit Dist,Transit,2025,FTA 5307 (Sm Urb Oper),"877,723.00",0.00,"877,723.00","1,755,446.00",Federal Transit
+TRUE,126.4000015,TA00114,ABQ Ride - Transit Planning,City of Albuquerque-ABQ Ride,Transit,2021,FTA 5307 (Urban),"3,850,000.00",0.00,"962,500.00","4,812,500.00",Federal Transit
+TRUE,126.5,TA00115,ABQ Ride - Transit Planning,City of Albuquerque-ABQ Ride,Transit,2023,FTA 5307 (Urban),"4,000,000.00",0.00,"1,000,000.00","5,000,000.00",Federal Transit
+TRUE,126.5999985,TA00116,ABQ Ride - Transit Planning,City of Albuquerque-ABQ Ride,Transit,2024,FTA 5307 (Urban),"3,850,000.00",0.00,"962,500.00","4,812,500.00",Federal Transit
+TRUE,130.8999939,TA00139,ABQ Ride - Transit Technology Upgrade,City of Albuquerque-ABQ Ride,Transit,2021,FTA 5307 (Urban),"800,000.00",0.00,"200,000.00","1,000,000.00",Federal Transit
+TRUE,130.8999939,TA00139,ABQ Ride - Transit Technology Upgrade,City of Albuquerque-ABQ Ride,Transit,2023,FTA 5307 (Urban),"800,000.00",0.00,"200,000.00","1,000,000.00",Federal Transit
+TRUE,134.8999939,TA00269,Commuter Rail Maint of Eqiup & Way & Transit Oper,Rio Metro NMRRX,Transit,2020,FTA 5307 (Urban),"9,798,323.00",0.00,"2,449,580.75","12,247,903.75",Federal Transit
+TRUE,135,TA00390,Commuter Rail Maint of Eqiup & Way & Transit Oper,Rio Metro NMRRX,Transit,2021,FTA 5307 (Urban),"8,680,643.00",0.00,"3,070,161.00","11,750,804.00",Federal Transit
+TRUE,135.1000061,TA00391,Commuter Rail Maint of Equipment & Way & Transit Oper (FY 2022 Alloc),Rio Metro NMRRX,Transit,2022,FTA 5307 (Urban),"8,858,075.00",0.00,"3,162,268.00","12,020,343.00",Federal Transit
+TRUE,135.1999969,TA00392,Commuter Rail Maint of Equipment & Way & Transit Oper (FY 2023 Alloc),Rio Metro NMRRX,Transit,2023,FTA 5307 (Urban),"9,039,057.00",0.00,"3,159,764.00","12,198,821.00",Federal Transit
+TRUE,135.3000031,TA00393,Commuter Rail Maint of Eqiup & Way & Transit Oper (FY 2024 Alloc),Rio Metro NMRRX,Transit,2024,FTA 5307 (Urban),"9,223,658.00",0.00,"3,205,915.00","12,429,573.00",Federal Transit
+TRUE,135.3999939,TA00394,Commuter Rail Maint of Eqiup & Way & Transit Oper (FY 2025 Alloc),Rio Metro NMRRX,Transit,2025,FTA 5307 (Urban),"9,411,951.00",0.00,"3,252,988.00","12,664,939.00",Federal Transit
+TRUE,137.6999969,TA00327,Rio Metro Community Transportation,Rio Metro Transit Dist,Transit,2021,FTA 5307 (Urban),"191,000.00",0.00,"191,000.00","382,000.00",Federal Transit
+TRUE,137.8000031,TA00328,Rio Metro Community Transportation (FFY 2022),Rio Metro Transit Dist,Transit,2022,FTA 5307 (Urban),"191,000.00",0.00,"191,000.00","382,000.00",Federal Transit
+TRUE,137.8999939,TA00329,Rio Metro Community Transportation (2023),Rio Metro Transit Dist,Transit,2023,FTA 5307 (Urban),"191,000.00",0.00,"191,000.00","382,000.00",Federal Transit
+TRUE,140,TA00460,Rio Metro Community Transportation (FFY 2024),Rio Metro Transit Dist,Transit,2024,FTA 5307 (Urban),"191,000.00",0.00,"191,000.00","382,000.00",Federal Transit
+TRUE,140.1000061,TA00461,Rio Metro Community Transportation (FFY 2025),Rio Metro Transit Dist,Transit,2025,FTA 5307 (Urban),"191,000.00",0.00,"191,000.00","382,000.00",Federal Transit
+TRUE,154,TA00420,ABQ Ride - Vehicles & Equip. Purchase (FFY 2020),City of Albuquerque-ABQ Ride,Transit,2020,FTA 5307 (Urban),"9,072,000.00",0.00,"1,858,121.00","10,930,121.00",Federal Transit
+TRUE,154.1000061,TA00421,ABQ Ride - Vehicles & Equip. Purchase (FFY 2021),City of Albuquerque-ABQ Ride,Transit,2021,FTA 5307 (Urban),"6,124,000.00",0.00,"1,254,313.00","7,378,313.00",Federal Transit
+TRUE,154.1999969,TA00422,ABQ Ride - Vehicles & Equip. Purchase (FFY 2022),City of Albuquerque-ABQ Ride,Transit,2022,FTA 5307 (Urban),"8,006,000.00",0.00,"1,639,783.00","9,645,783.00",Federal Transit
+TRUE,154.3000031,TA00423,ABQ Ride - Vehicles & Equip. Purchase (FFY 2023),City of Albuquerque-ABQ Ride,Transit,2023,FTA 5307 (Urban),"4,706,000.00",0.00,"963,879.00","5,669,879.00",Federal Transit
+TRUE,154.3999939,TA00424,ABQ Ride - Vehicles & Equip. Purchase (FFY 2024),City of Albuquerque-ABQ Ride,Transit,2024,FTA 5307 (Urban),"7,550,000.00",0.00,"1,546,385.00","9,096,385.00",Federal Transit
+TRUE,154.5,TA00425,ABQ Ride - Vehicles & Equip. Purchase (FFY 2025),City of Albuquerque-ABQ Ride,Transit,2025,FTA 5307 (Urban),"5,250,000.00",0.00,"1,075,301.00","6,325,301.00",Federal Transit
+TRUE,155,TA00470,ABQ-Ride - Transit Technology Upgrade,City of Albuquerque-ABQ Ride,Transit,2025,FTA 5307 (Urban),"800,000.00",0.00,"200,000.00","1,000,000.00",Federal Transit
+TRUE,200,TA00380,ABQ Ride - Transit Enhancements,City of Albuquerque-ABQ Ride,Transit,2020,FTA 5307 (Urban),"108,000.00",0.00,"27,000.00","135,000.00",Federal Transit
+TRUE,200.1000061,TA00381,ABQ Ride - Transit Enhancements,City of Albuquerque-ABQ Ride,Transit,2021,FTA 5307 (Urban),"110,000.00",0.00,"27,500.00","137,500.00",Federal Transit
+TRUE,200.1999969,TA00382,ABQ Ride - Transit Enhancements,City of Albuquerque-ABQ Ride,Transit,2022,FTA 5307 (Urban),"97,000.00",0.00,"24,250.00","121,250.00",Federal Transit
+TRUE,200.3000031,TA00383,Transit Enhancements,City of Albuquerque-ABQ Ride,Transit,2023,FTA 5307 (Urban),"97,000.00",0.00,"24,250.00","121,250.00",Federal Transit
+TRUE,200.3999939,TA00384,Transit Enhancements,City of Albuquerque-ABQ Ride,Transit,2024,FTA 5307 (Urban),"100,000.00",0.00,"25,000.00","125,000.00",Federal Transit
+TRUE,200.5,TA00385,Transit Enhancements,City of Albuquerque-ABQ Ride,Transit,2025,FTA 5307 (Urban),"100,000.00",0.00,"25,000.00","125,000.00",Federal Transit
+TRUE,429.2000122,TA00122,ABQ Ride - Transit Security Equipment Upgrade,City of Albuquerque-ABQ Ride,Transit,2020,FTA 5307 (Urban),"108,000.00",0.00,"27,000.00","135,000.00",Federal Transit
+TRUE,429.2999878,TA00123,ABQ Ride - Transit Security Equipment Upgrade,City of Albuquerque-ABQ Ride,Transit,2021,FTA 5307 (Urban),"110,000.00",0.00,"27,500.00","137,500.00",Federal Transit
+TRUE,429.3999939,TA00124,Transit Security Equipment Upgrade,City of Albuquerque-ABQ Ride,Transit,2022,FTA 5307 (Urban),"97,000.00",0.00,"24,250.00","121,250.00",Federal Transit
+TRUE,429.5,TA00125,Transit Security Equipment Upgrade,City of Albuquerque-ABQ Ride,Transit,2023,FTA 5307 (Urban),"97,000.00",0.00,"24,250.00","121,250.00",Federal Transit
+TRUE,429.6000061,TA00126,Transit Security Equipment Upgrade,City of Albuquerque-ABQ Ride,Transit,2024,FTA 5307 (Urban),"100,000.00",0.00,"25,000.00","125,000.00",Federal Transit
+TRUE,431.5,TA00064,ABQ Ride - Bus Stop Facilities Improvements,City of Albuquerque-ABQ Ride,Transit,2020,FTA 5307 (Urban),"500,000.00",0.00,"125,000.00","625,000.00",Federal Transit
+TRUE,431.6000061,TA00065,ABQ Ride - Bus Stop Facilities Improvements,City of Albuquerque-ABQ Ride,Transit,2022,FTA 5307 (Urban),"500,000.00",0.00,"125,000.00","625,000.00",Federal Transit
+TRUE,431.7000122,TA00066,Yale Transit Facility Renovation,City of Albuquerque-ABQ Ride,Transit,2022,FTA 5307 (Urban),"500,000.00",0.00,"125,000.00","625,000.00",Federal Transit
+TRUE,431.7000122,TA00066,Yale Transit Facility Renovation,City of Albuquerque-ABQ Ride,Transit,2022,FTA 5307 (Urban),"1,500,000.00",0.00,"375,000.00","1,875,000.00",Federal Transit
+TRUE,431.7000122,TA00066,Yale Transit Facility Renovation,City of Albuquerque-ABQ Ride,Transit,2024,FTA 5307 (Urban),"1,000,000.00",0.00,"250,000.00","1,250,000.00",Federal Transit
+TRUE,431.7999878,TA00067,ABQ Ride - Bus Stop Facilities Improvements,City of Albuquerque-ABQ Ride,Transit,2024,FTA 5307 (Urban),"250,000.00",0.00,"62,500.00","312,500.00",Federal Transit
+TRUE,432.3999939,TA00143,ABQ Ride - Transit Facility Rehabilitation,City of Albuquerque-ABQ Ride,Transit,2020,FTA 5307 (Urban),"1,000,000.00",0.00,"250,000.00","1,250,000.00",Federal Transit
+TRUE,432.5,TA00144,ABQ Ride - Transit Facility Rehabilitation,City of Albuquerque-ABQ Ride,Transit,2022,FTA 5307 (Urban),"1,000,000.00",0.00,"250,000.00","1,250,000.00",Federal Transit
+TRUE,432.6000061,TA00145,ABQ Ride - Transit Facility Rehabilitation,City of Albuquerque-ABQ Ride,Transit,2024,FTA 5307 (Urban),"1,000,000.00",0.00,"250,000.00","1,250,000.00",Federal Transit
+TRUE,154.1999969,TA00422,ABQ Ride - Vehicles & Equip. Purchase (FFY 2022),City of Albuquerque-ABQ Ride,Transit,2022,FTA 5309 (Bus/Facil),"1,300,000.00",0.00,"266,265.00","1,566,265.00",Federal Transit
+TRUE,154.3000031,TA00423,ABQ Ride - Vehicles & Equip. Purchase (FFY 2023),City of Albuquerque-ABQ Ride,Transit,2023,FTA 5309 (Bus/Facil),"1,300,000.00",0.00,"266,265.00","1,566,265.00",Federal Transit
+TRUE,154.3999939,TA00424,ABQ Ride - Vehicles & Equip. Purchase (FFY 2024),City of Albuquerque-ABQ Ride,Transit,2024,FTA 5309 (Bus/Facil),"1,300,000.00",0.00,"229,412.00","1,529,412.00",Federal Transit
+TRUE,154.5,TA00425,ABQ Ride - Vehicles & Equip. Purchase (FFY 2025),City of Albuquerque-ABQ Ride,Transit,2025,FTA 5309 (Bus/Facil),"1,300,000.00",0.00,"229,412.00","1,529,412.00",Federal Transit
+TRUE,151.1000061,TA00401,Rio Metro Transit 5311 Funding,Rio Metro Transit Dist,Transit,2021,FTA 5311 Capital,"73,255.00",0.00,"18,313.75","91,568.75",Federal Transit
+TRUE,151.1999969,TA00402,Rio Metro Rural Transit Services,Rio Metro Transit Dist,Transit,2022,FTA 5311 Capital,"74,354.00",0.00,"18,588.50","92,942.50",Federal Transit
+TRUE,151.3000031,TA00403,Rio Metro Rural Transit Services,Rio Metro Transit Dist,Transit,2023,FTA 5311 Capital,"75,469.00",0.00,"18,867.25","94,336.25",Federal Transit
+TRUE,151.3999939,TA00404,Rio Metro Rural Transit Services,Rio Metro Transit Dist,Transit,2024,FTA 5311 Capital,"76,601.00",0.00,"19,150.25","95,751.25",Federal Transit
+TRUE,151.5,TA00405,Rio Metro Rural Transit Services,Rio Metro Transit Dist,Transit,2025,FTA 5311 Capital,"77,750.00",0.00,"19,437.50","97,187.50",Federal Transit
+TRUE,151,TA00400,Rio Metro Transit 5311 Funding,Rio Metro Transit Dist,Transit,2020,FTA 5311 Operating,"829,768.50",0.00,"829,768.50","1,659,537.00",Federal Transit
+TRUE,151.1000061,TA00401,Rio Metro Transit 5311 Funding,Rio Metro Transit Dist,Transit,2021,FTA 5311 Operating,"857,244.00",0.00,"857,244.00","1,714,488.00",Federal Transit
+TRUE,151.1999969,TA00402,Rio Metro Rural Transit Services,Rio Metro Transit Dist,Transit,2022,FTA 5311 Operating,"870,103.00",0.00,"870,103.00","1,740,206.00",Federal Transit
+TRUE,151.3000031,TA00403,Rio Metro Rural Transit Services,Rio Metro Transit Dist,Transit,2023,FTA 5311 Operating,"883,154.00",0.00,"883,154.00","1,766,308.00",Federal Transit
+TRUE,151.3999939,TA00404,Rio Metro Rural Transit Services,Rio Metro Transit Dist,Transit,2024,FTA 5311 Operating,"896,402.00",0.00,"896,402.00","1,792,804.00",Federal Transit
+TRUE,151.5,TA00405,Rio Metro Rural Transit Services,Rio Metro Transit Dist,Transit,2025,FTA 5311 Operating,"909,848.00",0.00,"909,848.00","1,819,696.00",Federal Transit
+TRUE,134.8999939,TA00269,Commuter Rail Maint of Eqiup & Way & Transit Oper,Rio Metro NMRRX,Transit,2020,FTA 5337,"8,846,223.00",0.00,"2,211,555.75","11,057,778.75",Federal Transit
+TRUE,135,TA00390,Commuter Rail Maint of Eqiup & Way & Transit Oper,Rio Metro NMRRX,Transit,2021,FTA 5337,"9,274,777.00",0.00,"2,318,694.25","11,593,471.25",Federal Transit
+TRUE,135.1000061,TA00391,Commuter Rail Maint of Equipment & Way & Transit Oper (FY 2022 Alloc),Rio Metro NMRRX,Transit,2022,FTA 5337,"9,413,899.00",0.00,"2,353,474.75","11,767,373.75",Federal Transit
+TRUE,135.1999969,TA00392,Commuter Rail Maint of Equipment & Way & Transit Oper (FY 2023 Alloc),Rio Metro NMRRX,Transit,2023,FTA 5337,"9,555,108.00",0.00,"2,388,777.00","11,943,885.00",Federal Transit
+TRUE,135.3000031,TA00393,Commuter Rail Maint of Eqiup & Way & Transit Oper (FY 2024 Alloc),Rio Metro NMRRX,Transit,2024,FTA 5337,"9,698,434.00",0.00,"2,424,608.50","12,123,042.50",Federal Transit
+TRUE,135.3999939,TA00394,Commuter Rail Maint of Eqiup & Way & Transit Oper (FY 2025 Alloc),Rio Metro NMRRX,Transit,2025,FTA 5337,"9,843,911.00",0.00,"2,460,977.75","12,304,888.75",Federal Transit
+TRUE,154,TA00420,ABQ Ride - Vehicles & Equip. Purchase (FFY 2020),City of Albuquerque-ABQ Ride,Transit,2020,FTA 5339 (MAP-21 Bus/Facil),"1,300,000.00",0.00,"266,265.00","1,566,265.00",Federal Transit
+TRUE,154.1000061,TA00421,ABQ Ride - Vehicles & Equip. Purchase (FFY 2021),City of Albuquerque-ABQ Ride,Transit,2021,FTA 5339 (MAP-21 Bus/Facil),"1,300,000.00",0.00,"266,265.00","1,566,265.00",Federal Transit
+TRUE,136.6000061,TA00316,Rio Metro - Los Lunas Small Urban Transit Services (FY 2019 Alloc),Rio Metro Transit Dist,Transit,2020,FTA 5339 (Sm Urb Bus/Facil),"84,096.00",0.00,"21,024.00","105,120.00",Federal Transit
+TRUE,136.6999969,TA00317,Rio Metro - Los Lunas Small Urban Transit Services (FY 2020 Alloc),Rio Metro Transit Dist,Transit,2021,FTA 5339 (Sm Urb Bus/Facil),"96,001.00",0.00,"24,000.25","120,001.25",Federal Transit
+TRUE,136.8000031,TA00318,Rio Metro - Los Lunas Small Urban Transit Services (FY 2021 Alloc),Rio Metro Transit Dist,Transit,2022,FTA 5339 (Sm Urb Bus/Facil),"97,921.00",0.00,"24,480.25","122,401.25",Federal Transit
+TRUE,136.8999939,TA00319,Rio Metro - Los Lunas Small Urban Transit Services (FY 2022 Alloc),Rio Metro Transit Dist,Transit,2023,FTA 5339 (Sm Urb Bus/Facil),"99,880.00",0.00,"24,970.00","124,850.00",Federal Transit
+TRUE,139,TA00450,Rio Metro - Los Lunas Small Urban Transit Services (FY 2024 Alloc),Rio Metro Transit Dist,Transit,2024,FTA 5339 (Sm Urb Bus/Facil),"101,877.00",0.00,"25,469.25","127,346.25",Federal Transit
+TRUE,139.1000061,TA00451,Rio Metro - Los Lunas Small Urban Transit Services (FY 2025 Alloc),Rio Metro Transit Dist,Transit,2025,FTA 5339 (Sm Urb Bus/Facil),"103,915.00",0.00,"25,978.75","129,893.75",Federal Transit
+TRUE,145,A302290,Valencia County Transit Facility,Rio Metro Transit Dist,Transit,2020,FTA 5339 (Sm Urb Bus/Facil),"5,984,955.00",0.00,"1,496,238.75","7,481,193.75",Federal Transit
+TRUE,70.09999847,A301570,NM 347 Paseo del Volcan ROW Acquisition,NMDOT ROW Bureau,Capacity Proj,2021,HB2 Section 9,0.00,"3,000,000.00",0.00,"3,000,000.00",State
+TRUE,256.1000061,TA00411,NMRX Positive Train Control,Rio Metro NMRRX,Transit,2020,HB2 Section 9,0.00,"2,000,000.00",0.00,"2,000,000.00",State
+TRUE,359.2999878,A302121,I-40 Pavement Preservation (Bernalillo and Santa Fe County Line),NMDOT D-3,Hwy & Brg Pres,2023,HB2 Section 9,0.00,"4,200,000.00",0.00,"4,200,000.00",State
+TRUE,537.2999878,A300961,Los Lunas I-25 Interchange and E-W Corridor,Village of Los Lunas,Capacity Proj,2020,HB2 Section 9,0.00,"5,000,000.00",0.00,"5,000,000.00",State
+TRUE,537.2999878,A300961,Los Lunas I-25 Interchange and E-W Corridor,Village of Los Lunas,Capacity Proj,2021,HB2 Section 9,0.00,"15,200,000.00",0.00,"15,200,000.00",State
+TRUE,537.2999878,A300961,Los Lunas I-25 Interchange and E-W Corridor,Village of Los Lunas,Capacity Proj,2022,HB2 Section 9,0.00,"50,000,000.00",0.00,"50,000,000.00",State
+TRUE,493.3999939,A300381,NM 528 Rio Rancho Blvd Improvements (Upper Section),NMDOT CRDC,Capacity Proj,2020,HPP RPS0,"240,000.00","60,000.00",0.00,"300,000.00",Federal Sp Prog 1
+TRUE,493.3999939,A300381,NM 528 Rio Rancho Blvd Improvements (Upper Section),NMDOT CRDC,Capacity Proj,2020,HPP RPS0,"1,396,404.00","349,101.00",0.00,"1,745,505.00",Federal Sp Prog 1
+TRUE,23.20000076,A302301,New project,County of Bernalillo,Capacity Proj,2022,Local Bond Funds,0.00,0.00,0.00,0.00,Local
+TRUE,23.20000076,A302301,New project,County of Bernalillo,Capacity Proj,2024,Local Bond Funds,0.00,0.00,0.00,0.00,Local
+TRUE,24.5,A301034,Alameda Drain Trail COA-Phase 5,City of Albuquerque-P&R,Bike/Ped,2023,Local Bond Funds,0.00,0.00,"600,000.00","600,000.00",Local
+TRUE,109.0999985,A302231,Innovation Trail Phase 2,City of Albuquerque-MRA,Bike/Ped,2021,Local Bond Funds,0.00,0.00,"1,500,000.00","1,500,000.00",Local
+TRUE,109.1999969,A302232,Innovation Trail Phase 3,City of Albuquerque-MRA,Bike/Ped,2022,Local Bond Funds,0.00,0.00,"1,500,000.00","1,500,000.00",Local
+TRUE,109.3000031,A302233,South Broadway Pedestrian Bridge,City of Albuquerque-MRA,Bike/Ped,2023,Local Bond Funds,0.00,0.00,"1,500,000.00","1,500,000.00",Local
+TRUE,334.1000061,A300541,El Pueblo and Channel Road New intersection and Signal,City of Albuquerque-DMD,Capacity Proj,2021,Local Bond Funds,0.00,0.00,"500,000.00","500,000.00",Local
+TRUE,394.2000122,A301212,University and Lomas Intersection Reconstruction,City of Albuquerque-DMD,Hwy & Brg Pres,2022,Local Bond Funds,0.00,0.00,"2,000,000.00","2,000,000.00",Local
+TRUE,508.3999939,A301053,Westside Blvd Phase 2 Quality of Life Improvements,City of Albuquerque-DMD,Misc,2022,Local Bond Funds,0.00,0.00,"2,500,000.00","2,500,000.00",Local
+TRUE,585.4000244,A300261,Paseo del Norte Widening,City of Albuquerque-DMD,Capacity Proj,2021,Local Bond Funds,0.00,0.00,"1,421,014.00","1,421,014.00",Local
+TRUE,636.0999756,A300659,Zuni Road ADA Improvements,City of Albuquerque-DMD,Bike/Ped,2020,Local Bond Funds,0.00,0.00,"800,000.00","800,000.00",Local
+TRUE,661.0999756,A301591,Wyoming and Menaul Intersection and Signal Improvements,City of Albuquerque-DMD,Safety,2021,Local Bond Funds,0.00,0.00,"2,000,000.00","2,000,000.00",Local
+TRUE,892,A302334,West Central Complete Streets: 90th to 106th,City of Albuquerque-DMD,Misc,2023,Local Bond Funds,0.00,0.00,"750,000.00","750,000.00",Local
+TRUE,950,A301631,Marquette Railroad Crossing,City of Albuquerque-DMD,Misc,2021,Local Bond Funds,0.00,0.00,"3,000,000.00","3,000,000.00",Local
+TRUE,9.5,A301045,Southern Blvd Rehabilitation Improvements,City of Rio Rancho,Hwy & Brg Pres,2020,Local Gov. Trans Proj Fund,0.00,"760,000.00",0.00,"760,000.00",State
+TRUE,134.8999939,TA00269,Commuter Rail Maint of Eqiup & Way & Transit Oper,Rio Metro NMRRX,Transit,2020,Local Gov. Trans Proj Fund,0.00,"510,150.00",0.00,"510,150.00",State
+TRUE,380.2999878,A301321,Unser Blvd Widening (Phase 2B),City of Rio Rancho,Capacity Proj,2020,Local Gov. Trans Proj Fund,0.00,"1,662,500.00",0.00,"1,662,500.00",State
+TRUE,9.5,A301045,Southern Blvd Rehabilitation Improvements,City of Rio Rancho,Hwy & Brg Pres,2020,Local Gov. Trans Proj Fund Match,0.00,0.00,"40,000.00","40,000.00",Local
+TRUE,134.8999939,TA00269,Commuter Rail Maint of Eqiup & Way & Transit Oper,Rio Metro NMRRX,Transit,2020,Local Gov. Trans Proj Fund Match,0.00,0.00,"26,850.00","26,850.00",Local
+TRUE,380.2999878,A301321,Unser Blvd Widening (Phase 2B),City of Rio Rancho,Capacity Proj,2020,Local Gov. Trans Proj Fund Match,0.00,0.00,"87,500.00","87,500.00",Local
+TRUE,258.1000061,A302151,4th St Revitalization Phase 2,Village of Los Ranchos de Albuquerque,Bike/Ped,2020,Local Match for State $,0.00,0.00,"25,404.00","25,404.00",Local
+TRUE,24.20000076,A301031,Alameda DrainTrail Phase 2,County of Bernalillo,Bike/Ped,2020,Local Non-Match,0.00,0.00,"319,482.00","319,482.00",Local
+TRUE,24.29999924,A301032,Alameda Drain/2nd Street Bike/Ped Trail Ph 3,City of Albuquerque-P&R,Bike/Ped,2021,Local Non-Match,0.00,0.00,"2,516,000.00","2,516,000.00",Local
+TRUE,66.40000153,A301062,Central Avenue at Nob Hill Safety Improvements,City of Albuquerque-DMD,Safety,2021,Local Non-Match,0.00,0.00,"1,000,000.00","1,000,000.00",Local
+TRUE,66.5,A301063,Central Avenue Improvements (Louisiana - Wyoming),City of Albuquerque-DMD,Misc,2021,Local Non-Match,0.00,0.00,"1,800,000.00","1,800,000.00",Local
+TRUE,66.59999847,A301064,Central Avenue Improvements (Eubank - Tramway),City of Albuquerque-DMD,Misc,2021,Local Non-Match,0.00,0.00,"1,000,000.00","1,000,000.00",Local
+TRUE,474.2999878,A301501,98th St.& Gibson Blvd. Intersection Improvements,City of Albuquerque-DMD,Safety,2022,Local Non-Match,0.00,0.00,0.00,0.00,Local
+TRUE,537.2999878,A300961,Los Lunas I-25 Interchange and E-W Corridor,Village of Los Lunas,Capacity Proj,2020,Local Non-Match,0.00,0.00,"1,000,000.00","1,000,000.00",Local
+TRUE,585.4000244,A300261,Paseo del Norte Widening,City of Albuquerque-DMD,Capacity Proj,2021,Local Non-Match,0.00,0.00,"12,000,000.00","12,000,000.00",Local
+TRUE,721,A301920,Volcano Heights Transit Blvd. Construction,City of Albuquerque-DMD,Transit,2021,Local Non-Match,0.00,0.00,"500,000.00","500,000.00",Local
+TRUE,872.5,A300505,Bridge Blvd Reconstruction Phase 3,County of Bernalillo,Hwy & Brg Pres,2021,Local Non-Match,0.00,0.00,"237,018.00","237,018.00",Local
+TRUE,888,A302330,Wyoming Boulevard Complete Streets,City of Albuquerque-DMD,Misc,2021,Local Non-Match,0.00,0.00,"2,000,000.00","2,000,000.00",Local
+TRUE,890,A302332,Rio Grande Complete Streets,City of Albuquerque-DMD,Misc,2021,Local Non-Match,0.00,0.00,"1,000,000.00","1,000,000.00",Local
+TRUE,891,A302333,San Pedro Complete Streets,City of Albuquerque-DMD,Misc,2021,Local Non-Match,0.00,0.00,"3,800,000.00","3,800,000.00",Local
+TRUE,896,A302340,Tierra Pintada and Mirehaven Roundabout,City of Albuquerque-DMD,Safety,2021,Local Non-Match,0.00,0.00,"3,500,000.00","3,500,000.00",Local
+TRUE,897,A302350,Cutler Avenue Improvements,City of Albuquerque-DMD,Misc,2021,Local Non-Match,0.00,0.00,"2,300,000.00","2,300,000.00",Local
+TRUE,920.2999878,A301473,Alameda Improvements from Barstow to Ventura,City of Albuquerque-DMD,Capacity Proj,2021,Local Non-Match,0.00,0.00,"1,000,000.00","1,000,000.00",Local
+TRUE,683,A300849,Albuquerque Complete Streets: West,City of Albuquerque-DMD,Misc,2022,Local Other,0.00,0.00,"1,000,000.00","1,000,000.00",Local
+TRUE,737,TA00490,"NMRX Maintenance Facility, Phase 1",Rio Metro NMRRX,Transit,2022,Local Other,0.00,0.00,"2,000,000.00","2,000,000.00",Local
+TRUE,825.2999878,A300894,North NM 314 Bike and Pedestrian Improvements Phase II,Village of Los Lunas,Bike/Ped,2022,Local Other,0.00,0.00,"1,000,000.00","1,000,000.00",Local
+TRUE,260,A302100,District 3 Pavement Preservation - I-40 West of Coors,NMDOT D-3,Hwy & Brg Pres,2022,NHFP,"12,209,528.00","2,080,649.49",0.00,"14,290,177.49",Federal Hwy
+TRUE,6.800000191,A300423,NM 6 Bridge Replacement ( Rio Grande Bridge #7453),NMDOT D-3,Hwy & Brg Pres,2020,NHPP,"6,706,198.00","1,142,816.29",0.00,"7,849,014.29",Federal Hwy
+TRUE,91.19999695,A301891,I-25 / Gibson Blvd. Interchange Reconstruction,NMDOT CRDC,Capacity Proj,2024,NHPP,"18,817,107.00","3,206,659.93",0.00,"22,023,766.93",Federal Hwy
+TRUE,91.19999695,A301891,I-25 / Gibson Blvd. Interchange Reconstruction,NMDOT CRDC,Capacity Proj,2025,NHPP,"18,817,107.00","3,206,659.93",0.00,"22,023,766.93",Federal Hwy
+TRUE,117,A301346,District 3 Bridge Preservation,NMDOT D-3,Hwy & Brg Pres,2021,NHPP,"927,431.00","158,045.33",0.00,"1,085,476.33",Federal Hwy
+TRUE,138.5,A301555,NM 6/BNSF Railroad Bridge Preservation,NMDOT D-3,Hwy & Brg Pres,2020,NHPP,"683,849.00",0.00,"116,536.04","800,385.04",Federal Hwy
+TRUE,214.1000061,A302201,AMPA Wide Motorist Assistance Courtesy Patrols (FFY 2021-2023),NMDOT D-3,ITS-TSM,2022,NHPP,"427,200.00","72,799.99",0.00,"499,999.99",Federal Hwy
+TRUE,214.1000061,A302201,AMPA Wide Motorist Assistance Courtesy Patrols (FFY 2021-2023),NMDOT D-3,ITS-TSM,2023,NHPP,"213,600.00","36,399.99",0.00,"249,999.99",Federal Hwy
+TRUE,214.5,A302205,AMPA Wide Motorist Assistance Courtesy Patrols (FFY 2024),NMDOT D-3,ITS-TSM,2024,NHPP,"427,200.00","72,799.99",0.00,"499,999.99",Federal Hwy
+TRUE,214.6000061,A302206,AMPA Wide Motorist Assistance Courtesy Patrols (FFY 2025),NMDOT D-3,ITS-TSM,2025,NHPP,"427,200.00","72,799.99",0.00,"499,999.99",Federal Hwy
+TRUE,217,A302190,ITS-District 3 Deployment of ITS (FFY 2020),NMDOT D-3,ITS-TSM,2020,NHPP,"2,028,863.00","345,742.50",0.00,"2,374,605.50",Federal Hwy
+TRUE,250.6000061,A301901,I-25 Improved: Comanche to Montgomery,NMDOT CRDC,Hwy & Brg Pres,2021,NHPP,"1,708,800.00","291,199.94",0.00,"1,999,999.94",Federal Hwy
+TRUE,250.6000061,A301901,I-25 Improved: Comanche to Montgomery,NMDOT CRDC,Hwy & Brg Pres,2021,NHPP,"2,292,247.00","390,626.28",0.00,"2,682,873.28",Federal Hwy
+TRUE,250.6000061,A301901,I-25 Improved: Comanche to Montgomery,NMDOT CRDC,Hwy & Brg Pres,2023,NHPP,"811,509.00","138,290.83",0.00,"949,799.83",Federal Hwy
+TRUE,260,A302100,District 3 Pavement Preservation - I-40 West of Coors,NMDOT D-3,Hwy & Brg Pres,2021,NHPP,"778,538.00","132,672.18",0.00,"911,210.18",Federal Hwy
+TRUE,260,A302100,District 3 Pavement Preservation - I-40 West of Coors,NMDOT D-3,Hwy & Brg Pres,2022,NHPP,"12,929,173.00","2,203,285.60",0.00,"15,132,458.60",Federal Hwy
+TRUE,260.2000122,A300425,NM 6 Pavement Preservation West of I-25,NMDOT D-3,Hwy & Brg Pres,2020,NHPP,"568,569.00","96,890.95",0.00,"665,459.95",Federal Hwy
+TRUE,260.2000122,A300425,NM 6 Pavement Preservation West of I-25,NMDOT D-3,Hwy & Brg Pres,2021,NHPP,"14,705,654.00","2,506,019.20",0.00,"17,211,673.20",Federal Hwy
+TRUE,265.2000122,A302162,I-25 FDR Phase 3,NMDOT D-3,Hwy & Brg Pres,2023,NHPP,"8,417,652.00","1,434,468.51",0.00,"9,852,120.51",Federal Hwy
+TRUE,359.2000122,A302120,I-40 Canyon Pavement Rehabilitation,NMDOT D-3,Hwy & Brg Pres,2020,NHPP,"1,036,871.00","176,695.21",0.00,"1,213,566.21",Federal Hwy
+TRUE,359.3999939,A302122,I40 Pavement Preservation (canyon),NMDOT D-3,Hwy & Brg Pres,2022,NHPP,"5,887,934.00","1,003,374.32",0.00,"6,891,308.32",Federal Hwy
+TRUE,359.3999939,A302122,I40 Pavement Preservation (canyon),NMDOT D-3,Hwy & Brg Pres,2023,NHPP,"8,092,745.00","1,379,100.47",0.00,"9,471,845.47",Federal Hwy
+TRUE,493.3999939,A300381,NM 528 Rio Rancho Blvd Improvements (Upper Section),NMDOT CRDC,Capacity Proj,2020,NHPP,"210,233.00","35,826.22",0.00,"246,059.22",Federal Hwy
+TRUE,493.3999939,A300381,NM 528 Rio Rancho Blvd Improvements (Upper Section),NMDOT CRDC,Capacity Proj,2020,NHPP,"234,427.00","39,949.16",0.00,"274,376.16",Federal Hwy
+TRUE,493.3999939,A300381,NM 528 Rio Rancho Blvd Improvements (Upper Section),NMDOT CRDC,Capacity Proj,2020,NHPP,"376,210.00","64,110.68",0.00,"440,320.68",Federal Hwy
+TRUE,493.3999939,A300381,NM 528 Rio Rancho Blvd Improvements (Upper Section),NMDOT CRDC,Capacity Proj,2020,NHPP,"14,125,045.00","2,407,076.48",0.00,"16,532,121.48",Federal Hwy
+TRUE,493.3999939,A300381,NM 528 Rio Rancho Blvd Improvements (Upper Section),NMDOT CRDC,Capacity Proj,2021,NHPP,"5,504,492.00","938,031.22",0.00,"6,442,523.22",Federal Hwy
+TRUE,117,A301346,District 3 Bridge Preservation,NMDOT D-3,Hwy & Brg Pres,2020,NHPP (Non-Chargeable),"1,173,629.00","200,000.41",0.00,"1,373,629.41",Federal Hwy
+TRUE,250.6000061,A301901,I-25 Improved: Comanche to Montgomery,NMDOT CRDC,Hwy & Brg Pres,2023,NHPP (Non-Chargeable),"36,883,300.00",0.00,0.00,"36,883,300.00",Federal Hwy
+TRUE,218,A302220,"NM 109, Jarales Rd. Railroad Overpass",NMDOT D-3,Safety,2021,Private,0.00,0.00,"1,585,574.00","1,585,574.00",Private
+TRUE,218,A302220,"NM 109, Jarales Rd. Railroad Overpass",NMDOT D-3,Safety,2022,Private,0.00,0.00,"12,914,426.00","12,914,426.00",Private
+TRUE,260.2000122,A300425,NM 6 Pavement Preservation West of I-25,NMDOT D-3,Hwy & Brg Pres,2021,Private,0.00,0.00,"542,466.00","542,466.00",Private
+TRUE,454.8999939,A302360,Mesa Del Sol Interchange,NMDOT CRDC,Capacity Proj,2021,Private,0.00,0.00,"2,500,000.00","2,500,000.00",Private
+TRUE,172,A301780,Railroad Crossing Improv - Avenida Bernalillo and NMRX RR (Crossing 013758J),NMDOT Transit Rail,Safety,2021,Rail Xing Haz Elim (Sect 130),"555,339.00","61,704.33",0.00,"617,043.33",Federal Sp Prog 2
+TRUE,172,A301780,Railroad Crossing Improv - Avenida Bernalillo and NMRX RR (Crossing 013758J),NMDOT Transit Rail,Safety,2022,Rail Xing Haz Elim (Sect 130),"125,510.00","13,945.56",0.00,"139,455.56",Federal Sp Prog 2
+TRUE,172.1000061,A301781,Railroad Crossing Improv - Lucero Ave and NMRX RR (Crossing 013760D),NMDOT Transit Rail,Safety,2021,Rail Xing Haz Elim (Sect 130),"548,282.00","60,920.22",0.00,"609,202.22",Federal Sp Prog 2
+TRUE,172.1999969,A301782,Railroad Crossing Improv - Ortega Rd and NMRX RR (Crossing 013773E),NMDOT Transit Rail,Safety,2020,Rail Xing Haz Elim (Sect 130),"148,500.00","16,500.00",0.00,"165,000.00",Federal Sp Prog 2
+TRUE,172.3000031,A301783,Railroad Crossing Improv - 8th Street Albuquerque and NMRX/BNSF RR (Crossing 019679L),NMDOT Transit Rail,Safety,2020,Rail Xing Haz Elim (Sect 130),"157,038.00","17,448.67",0.00,"174,486.67",Federal Sp Prog 2
+TRUE,172.6000061,A301786,Railroad Crossing Improv - 8th Street Albuquerque and NMRX/BNSF RR (Crossing 019679L),NMDOT Transit Rail,Safety,2022,Rail Xing Haz Elim (Sect 130),"135,000.00","15,000.00",0.00,"150,000.00",Federal Sp Prog 2
+TRUE,254.1000061,A302071,Sandia Trail Improvements,US Forest Service,Bike/Ped,2020,Rec. Trails Prog.,"189,247.00",0.00,"32,249.95","221,496.95",Federal Sp Prog 2
+TRUE,921,M300812,North Bernalillo to Budaghers improvement,NMDOT D-3,Hwy & Brg Pres,2021,Road Fund,0.00,"2,000,000.00",0.00,"2,000,000.00",State
+TRUE,921.0999756,M300811,I25 Bernalillo area OGFC improvements,NMDOT D-3,Hwy & Brg Pres,2021,Road Fund,0.00,"897,000.00",0.00,"897,000.00",State
+TRUE,921.2000122,M300810,South of Jefferson to Tramway pavement preservation,NMDOT D-3,Hwy & Brg Pres,2021,Road Fund,0.00,"5,890,000.00",0.00,"5,890,000.00",State
+TRUE,921.2999878,M300809,Gibson to Lomas pavement preservation,NMDOT D-3,Hwy & Brg Pres,2021,Road Fund,0.00,"3,009,000.00",0.00,"3,009,000.00",State
+TRUE,921.4000244,M300808,Rio Puerco to Atrisco Vista Pavement pres,NMDOT D-3,Hwy & Brg Pres,2021,Road Fund,0.00,"2,019,000.00",0.00,"2,019,000.00",State
+TRUE,82,A301088,"NM 314, NM 45 & NM 317 Intersection Improvements & Realignment",Pueblo of Isleta,Safety,2022,Safety (HSIP),"4,789,000.00","532,111.11",0.00,"5,321,111.11",Federal Sp Prog 2
+TRUE,250.5,A300375,I-25 MLK NB Off Ramp Improvements,NMDOT D-3,Safety,2021,Safety (HSIP),"18,000.00","2,000.00",0.00,"20,000.00",Federal Sp Prog 2
+TRUE,250.5,A300375,I-25 MLK NB Off Ramp Improvements,NMDOT D-3,Safety,2021,Safety (HSIP),"2,524,842.00","280,538.00",0.00,"2,805,380.00",Federal Sp Prog 2
+TRUE,262.1000061,A302111,Rail Corridor Pedestrian Safety Improvements Phase II,Town of Bernalillo,Safety,2021,Safety (HSIP),"57,078.00",0.00,"6,342.00","63,420.00",Federal Sp Prog 2
+TRUE,262.1000061,A302111,Rail Corridor Pedestrian Safety Improvements Phase II,Town of Bernalillo,Safety,2021,Safety (HSIP),"328,061.00",0.00,"36,451.22","364,512.22",Federal Sp Prog 2
+TRUE,262.1000061,A302111,Rail Corridor Pedestrian Safety Improvements Phase II,Town of Bernalillo,Safety,2021,Safety (HSIP),"2,279,894.00","253,321.56",0.00,"2,533,215.56",Federal Sp Prog 2
+TRUE,314,A300191,NM 314 & Courthouse Rd Intersection Improvements,NMDOT D-3,Hwy & Brg Pres,2020,Safety (HSIP),"22,500.00","2,500.00",0.00,"25,000.00",Federal Sp Prog 2
+TRUE,314,A300191,NM 314 & Courthouse Rd Intersection Improvements,NMDOT D-3,Hwy & Brg Pres,2020,Safety (HSIP),"29,546.00","3,282.89",0.00,"32,828.89",Federal Sp Prog 2
+TRUE,314,A300191,NM 314 & Courthouse Rd Intersection Improvements,NMDOT D-3,Hwy & Brg Pres,2020,Safety (HSIP),"1,648,954.00","183,217.11",0.00,"1,832,171.11",Federal Sp Prog 2
+TRUE,314,A300191,NM 314 & Courthouse Rd Intersection Improvements,NMDOT D-3,Hwy & Brg Pres,2021,Safety (HSIP),"1,539,000.00","171,000.00",0.00,"1,710,000.00",Federal Sp Prog 2
+TRUE,681,A301700,Delgado Avenue Roadway & Pedestrian Improvements,City of Belen,Safety,2020,Safety (HSIP),"90,000.00","10,000.00",0.00,"100,000.00",Federal Sp Prog 2
+TRUE,681,A301700,Delgado Avenue Roadway & Pedestrian Improvements,City of Belen,Safety,2021,Safety (HSIP),"72,000.00","8,000.00",0.00,"80,000.00",Federal Sp Prog 2
+TRUE,681,A301700,Delgado Avenue Roadway & Pedestrian Improvements,City of Belen,Safety,2021,Safety (HSIP),"578,000.70","64,222.30",0.00,"642,223.00",Federal Sp Prog 2
+TRUE,258.1000061,A302151,4th St Revitalization Phase 2,Village of Los Ranchos de Albuquerque,Bike/Ped,2021,Severance Tax,0.00,0.00,0.00,0.00,State
+TRUE,24.29999924,A301032,Alameda Drain/2nd Street Bike/Ped Trail Ph 3,City of Albuquerque-P&R,Bike/Ped,2021,State Capital Outlay,0.00,"200,000.00",0.00,"200,000.00",State
+TRUE,70.09999847,A301570,NM 347 Paseo del Volcan ROW Acquisition,NMDOT ROW Bureau,Capacity Proj,2021,State Capital Outlay,0.00,"1,943,639.00",0.00,"1,943,639.00",State
+TRUE,82,A301088,"NM 314, NM 45 & NM 317 Intersection Improvements & Realignment",Pueblo of Isleta,Safety,2021,State Capital Outlay,0.00,"146,015.00",0.00,"146,015.00",State
+TRUE,82,A301088,"NM 314, NM 45 & NM 317 Intersection Improvements & Realignment",Pueblo of Isleta,Safety,2022,State Capital Outlay,0.00,"100,000.00",0.00,"100,000.00",State
+TRUE,82,A301088,"NM 314, NM 45 & NM 317 Intersection Improvements & Realignment",Pueblo of Isleta,Safety,2022,State Capital Outlay,0.00,"700,000.00",0.00,"700,000.00",State
+TRUE,147.1000061,A301242,NM 47 Safety Improvements,Pueblo of Isleta,Safety,2021,State Capital Outlay,0.00,"1,270,399.00",0.00,"1,270,399.00",State
+TRUE,147.1000061,A301242,NM 47 Safety Improvements,Pueblo of Isleta,Safety,2022,State Capital Outlay,0.00,"295,693.00",0.00,"295,693.00",State
+TRUE,250.6000061,A301901,I-25 Improved: Comanche to Montgomery,NMDOT CRDC,Hwy & Brg Pres,2023,State Capital Outlay,0.00,"22,487,632.00",0.00,"22,487,632.00",State
+TRUE,251.1999969,A301102,"Balloon Fiesta Parkway I-25 Access Study, IACR,and Construction",City of Albuquerque-DMD,TDM,2021,State Capital Outlay,0.00,"2,000,000.00",0.00,"2,000,000.00",State
+TRUE,257.2000122,A302181,New Project,County of Bernalillo,Capacity Proj,2022,State Capital Outlay,0.00,0.00,0.00,0.00,State
+TRUE,368.5,A300271,McMahon Widening,City of Albuquerque-DMD,Capacity Proj,2021,State Capital Outlay,0.00,"900,000.00",0.00,"900,000.00",State
+TRUE,465.2999878,A300304,Unser Blvd Gap Widening Phase 2,City of Albuquerque-DMD,Capacity Proj,2020,State Capital Outlay,0.00,"247,097.00",0.00,"247,097.00",State
+TRUE,511.3999939,A300622,Isleta Blvd. Reconstruction,County of Bernalillo,Hwy & Brg Pres,2022,State Capital Outlay,0.00,0.00,0.00,0.00,State
+TRUE,585.4000244,A300261,Paseo del Norte Widening,City of Albuquerque-DMD,Capacity Proj,2021,State Capital Outlay,0.00,"2,050,000.00",0.00,"2,050,000.00",State
+TRUE,585.4000244,A300261,Paseo del Norte Widening,City of Albuquerque-DMD,Capacity Proj,2021,State Capital Outlay,0.00,"4,418,000.00",0.00,"4,418,000.00",State
+TRUE,82,A301088,"NM 314, NM 45 & NM 317 Intersection Improvements & Realignment",Pueblo of Isleta,Safety,2021,State Funds,0.00,"10,000.00",0.00,"10,000.00",State
+TRUE,91.09999847,A301890,Interstate 25 / Gibson Blvd. Interchange Reconstruction (design and ROW),NMDOT CRDC,Hwy & Brg Pres,2022,State Funds,0.00,"8,000,000.00",0.00,"8,000,000.00",State
+TRUE,250.6000061,A301901,I-25 Improved: Comanche to Montgomery,NMDOT CRDC,Hwy & Brg Pres,2022,State Funds,0.00,"28,278,943.00",0.00,"28,278,943.00",State
+TRUE,258.1000061,A302151,4th St Revitalization Phase 2,Village of Los Ranchos de Albuquerque,Bike/Ped,2020,State Funds,0.00,"482,687.00",0.00,"482,687.00",State
+TRUE,652.5,M300750,I-40 and I-25 Interchange Mill and Inlay,NMDOT D-3,Hwy & Brg Pres,2020,State Funds,0.00,"7,388,333.00",0.00,"7,388,333.00",State
+TRUE,727,TA00480,Rio Metro RTD Discounted Fare Pilot Project,Rio Metro Transit Dist,Transit,2020,State Funds,0.00,"181,008.35",0.00,"181,008.35",State
+TRUE,7.300000191,A300483,NM 333 Pedestrian Improvements Phase II,Village of Tijeras,Bike/Ped,2021,STL-E,"85,440.00",0.00,"14,560.00","100,000.00",Federal Hwy
+TRUE,24.20000076,A301031,Alameda DrainTrail Phase 2,County of Bernalillo,Bike/Ped,2020,STL-E,"116,724.00",0.00,"19,891.16","136,615.16",Federal Hwy
+TRUE,24.20000076,A301031,Alameda DrainTrail Phase 2,County of Bernalillo,Bike/Ped,2021,STL-E,"116,724.00",0.00,"19,891.16","136,615.16",Federal Hwy
+TRUE,250.6000061,A301901,I-25 Improved: Comanche to Montgomery,NMDOT CRDC,Hwy & Brg Pres,2021,STL-E,"2,540,443.00","432,921.85",0.00,"2,973,364.85",Federal Hwy
+TRUE,386.6000061,A301235,US 550 bridge rehab,NMDOT D-3,Hwy & Brg Pres,2021,STL-E,"1,765,320.00","300,831.63",0.00,"2,066,151.63",Federal Hwy
+TRUE,437,A300160,Sunport Blvd Extension,County of Bernalillo,Capacity Proj,2020,STL-E,"2,962,216.00",0.00,"504,797.01","3,467,013.01",Federal Hwy
+TRUE,493.3999939,A300381,NM 528 Rio Rancho Blvd Improvements (Upper Section),NMDOT CRDC,Capacity Proj,2020,STL-E,"380,979.00","64,923.37",0.00,"445,902.37",Federal Hwy
+TRUE,613.0999756,A300201,Idalia Rd Project,City of Rio Rancho,Misc,2021,STL-E,"581,882.00",0.00,"99,159.65","681,041.65",Federal Hwy
+TRUE,683,A300849,Albuquerque Complete Streets: West,City of Albuquerque-DMD,Misc,2022,STL-E,"1,441,916.00",0.00,"245,719.72","1,687,635.72",Federal Hwy
+TRUE,865.0999756,A300161,Woodward Road Improvements Project,County of Bernalillo,Hwy & Brg Pres,2021,STL-E,"1,441,944.00",0.00,"245,724.49","1,687,668.49",Federal Hwy
+TRUE,3.5,A300605,Orthophotography,NMDOT D-3,Misc,2020,STP-Flex,"42,720.00","7,280.00",0.00,"50,000.00",Federal Hwy
+TRUE,3.599999905,A300606,Orthophotography,NMDOT D-3,Misc,2022,STP-Flex,"42,720.00","7,280.00",0.00,"50,000.00",Federal Hwy
+TRUE,3.700000048,A300607,Orthophotography,NMDOT D-3,Misc,2024,STP-Flex,"42,720.00",0.00,"7,280.00","50,000.00",Federal Hwy
+TRUE,6.900000095,A301122,I-25 & NM6 Median Erosion Mitigation,Village of Los Lunas,Misc,2021,STP-Flex,"158,772.00",0.00,"27,056.65","185,828.65",Federal Hwy
+TRUE,91.19999695,A301891,I-25 / Gibson Blvd. Interchange Reconstruction,NMDOT CRDC,Capacity Proj,2025,STP-Flex,"234,471.00","39,956.66",0.00,"274,427.66",Federal Hwy
+TRUE,99.09999847,A301441,NM 14 Slope Erosion Mitigation,NMDOT D-3,Misc,2021,STP-Flex,"120,470.00","20,529.53",0.00,"140,999.53",Federal Hwy
+TRUE,99.09999847,A301441,NM 14 Slope Erosion Mitigation,NMDOT D-3,Misc,2022,STP-Flex,"3,899,852.00","664,581.39",0.00,"4,564,433.39",Federal Hwy
+TRUE,99.19999695,A301442,NM14/NM 536/Frost Rd intersection Improvements,NMDOT D-3,Safety,2023,STP-Flex,"2,194,580.00","373,982.66",0.00,"2,568,562.66",Federal Hwy
+TRUE,117,A301346,District 3 Bridge Preservation,NMDOT D-3,Hwy & Brg Pres,2020,STP-Flex,"861,679.00","146,840.40",0.00,"1,008,519.40",Federal Hwy
+TRUE,165.1000061,A301161,District 3 Bridge Replacements-NM 165,NMDOT D-3,Hwy & Brg Pres,2025,STP-Flex,"1,281,600.00","218,399.96",0.00,"1,499,999.96",Federal Hwy
+TRUE,215.1999969,A302212,District 3 On-Call Planning & Design Support (FFY 2025),NMDOT D-3,Misc,2025,STP-Flex,"427,200.00","72,799.99",0.00,"499,999.99",Federal Hwy
+TRUE,253.1000061,A300378,I-25 (South) Pavement Preservation,NMDOT D-3,Hwy & Brg Pres,2025,STP-Flex,"2,136,000.00","363,999.93",0.00,"2,499,999.93",Federal Hwy
+TRUE,260,A302100,District 3 Pavement Preservation - I-40 West of Coors,NMDOT D-3,Hwy & Brg Pres,2021,STP-Flex,"593,138.00","101,077.80",0.00,"694,215.80",Federal Hwy
+TRUE,260.2000122,A300425,NM 6 Pavement Preservation West of I-25,NMDOT D-3,Hwy & Brg Pres,2021,STP-Flex,"1,116,294.00","190,229.84",0.00,"1,306,523.84",Federal Hwy
+TRUE,265.2000122,A302162,I-25 FDR Phase 3,NMDOT D-3,Hwy & Brg Pres,2023,STP-Flex,"106,800.00",0.00,"18,200.00","125,000.00",Federal Hwy
+TRUE,314,A300191,NM 314 & Courthouse Rd Intersection Improvements,NMDOT D-3,Hwy & Brg Pres,2020,STP-Flex,"598,080.00","101,919.98",0.00,"699,999.98",Federal Hwy
+TRUE,314,A300191,NM 314 & Courthouse Rd Intersection Improvements,NMDOT D-3,Hwy & Brg Pres,2021,STP-Flex,"114,502.00","19,512.51",0.00,"134,014.51",Federal Hwy
+TRUE,314,A300191,NM 314 & Courthouse Rd Intersection Improvements,NMDOT D-3,Hwy & Brg Pres,2021,STP-Flex,"569,018.00","96,967.47",0.00,"665,985.47",Federal Hwy
+TRUE,359.3999939,A302122,I40 Pavement Preservation (canyon),NMDOT D-3,Hwy & Brg Pres,2022,STP-Flex,"136,699.00","23,295.14",0.00,"159,994.14",Federal Hwy
+TRUE,493.3999939,A300381,NM 528 Rio Rancho Blvd Improvements (Upper Section),NMDOT CRDC,Capacity Proj,2020,STP-Flex,"715,962.00","122,008.48",0.00,"837,970.48",Federal Hwy
+TRUE,650.9000244,A300809,District 3 On-Call Planning & Design Support,NMDOT D-3,Misc,2020,STP-Flex,"1,657,536.00","342,464.00",0.00,"2,000,000.00",Federal Hwy
+TRUE,671,A301620,NM 337 Bridge Replacement in Chilili,NMDOT CRDC,Hwy & Brg Pres,2023,STP-Flex,"2,228,653.00","379,789.11",0.00,"2,608,442.11",Federal Hwy
+TRUE,865.0999756,A300161,Woodward Road Improvements Project,County of Bernalillo,Hwy & Brg Pres,2021,STP-Flex,"311,992.00",0.00,"53,167.17","365,159.17",Federal Hwy
+TRUE,887,A300403,NM 313 Timber Bridge replacement,NMDOT CRDC,Hwy & Brg Pres,2024,STP-Flex,"4,036,551.00","687,876.53",0.00,"4,724,427.53",Federal Hwy
+TRUE,935,A301350,Southeast Los Lentes Road Improvements,Village of Los Lunas,Capacity Proj,2021,STP-Flex,"427,200.00",0.00,"72,799.99","499,999.99",Federal Hwy
+TRUE,941,A301400,Meadowlake Road Improvements,County of Valencia,Hwy & Brg Pres,2020,STP-Flex,"85,440.00",0.00,"14,560.00","100,000.00",Federal Hwy
+TRUE,941,A301400,Meadowlake Road Improvements,County of Valencia,Hwy & Brg Pres,2020,STP-Flex,"768,960.00",0.00,"131,039.97","899,999.97",Federal Hwy
+TRUE,941,A301400,Meadowlake Road Improvements,County of Valencia,Hwy & Brg Pres,2021,STP-Flex,"1,318,990.00",0.00,"224,771.66","1,543,761.66",Federal Hwy
+TRUE,6.800000191,A300423,NM 6 Bridge Replacement ( Rio Grande Bridge #7453),NMDOT D-3,Hwy & Brg Pres,2020,STP-Flex (Non-Chargeable),"85,440.00","14,560.00",0.00,"100,000.00",Federal Hwy
+TRUE,8,A301000,NM 500 Rio Bravo EB Bridge Replacement (Bridge #6204),NMDOT D-3,Hwy & Brg Pres,2020,STP-Flex (Non-Chargeable),"993,008.00","169,220.43",0.00,"1,162,228.43",Federal Hwy
+TRUE,8,A301000,NM 500 Rio Bravo EB Bridge Replacement (Bridge #6204),NMDOT D-3,Hwy & Brg Pres,2021,STP-Flex (Non-Chargeable),"615,366.00","104,865.72",0.00,"720,231.72",Federal Hwy
+TRUE,8,A301000,NM 500 Rio Bravo EB Bridge Replacement (Bridge #6204),NMDOT D-3,Hwy & Brg Pres,2022,STP-Flex (Non-Chargeable),"1,093,434.00","186,334.22",0.00,"1,279,768.22",Federal Hwy
+TRUE,99.19999695,A301442,NM14/NM 536/Frost Rd intersection Improvements,NMDOT D-3,Safety,2021,STP-Flex (Non-Chargeable),"512,640.00","87,359.98",0.00,"599,999.98",Federal Hwy
+TRUE,99.19999695,A301442,NM14/NM 536/Frost Rd intersection Improvements,NMDOT D-3,Safety,2022,STP-Flex (Non-Chargeable),"114,905.00","19,581.19",0.00,"134,486.19",Federal Hwy
+TRUE,960,A302370,I25 S curve area study,NMDOT D-3,Hwy & Brg Pres,2022,STP-Flex (Non-Chargeable),"341,760.00","58,239.99",0.00,"399,999.99",Federal Hwy
+TRUE,965,A302380,PE Phase - I40 bridges over Tijeras,NMDOT D-3,Hwy & Brg Pres,2022,STP-Flex (Non-Chargeable),"427,200.00","72,799.99",0.00,"499,999.99",Federal Hwy
+TRUE,6.900000095,A301122,I-25 & NM6 Median Erosion Mitigation,Village of Los Lunas,Misc,2020,STP-Rural,"35,440.00",0.00,"6,039.40","41,479.40",Federal Hwy
+TRUE,6.900000095,A301122,I-25 & NM6 Median Erosion Mitigation,Village of Los Lunas,Misc,2021,STP-Rural,"85,440.00",0.00,"14,560.00","100,000.00",Federal Hwy
+TRUE,6.900000095,A301122,I-25 & NM6 Median Erosion Mitigation,Village of Los Lunas,Misc,2021,STP-Rural,"557,768.00",0.00,"95,050.33","652,818.33",Federal Hwy
+TRUE,99.09999847,A301441,NM 14 Slope Erosion Mitigation,NMDOT D-3,Misc,2022,STP-Rural,"517,435.00","88,177.11",0.00,"605,612.11",Federal Hwy
+TRUE,99.19999695,A301442,NM14/NM 536/Frost Rd intersection Improvements,NMDOT D-3,Safety,2023,STP-Rural,"643,208.00","109,610.33",0.00,"752,818.33",Federal Hwy
+TRUE,671,A301620,NM 337 Bridge Replacement in Chilili,NMDOT CRDC,Hwy & Brg Pres,2022,STP-Rural,"17,173.00","2,926.48",0.00,"20,099.48",Federal Hwy
+TRUE,671,A301620,NM 337 Bridge Replacement in Chilili,NMDOT CRDC,Hwy & Brg Pres,2022,STP-Rural,"108,598.00","18,506.40",0.00,"127,104.40",Federal Hwy
+TRUE,6.900000095,A301122,I-25 & NM6 Median Erosion Mitigation,Village of Los Lunas,Misc,2020,STP-Sm Urb,"35,440.00",0.00,"6,039.40","41,479.40",Federal Hwy
+TRUE,6.900000095,A301122,I-25 & NM6 Median Erosion Mitigation,Village of Los Lunas,Misc,2021,STP-Sm Urb,"59,100.00",0.00,"10,071.35","69,171.35",Federal Hwy
+TRUE,145,A302290,Valencia County Transit Facility,Rio Metro Transit Dist,Transit,2024,STP-Sm Urb,"1,000,000.00",0.00,"170,411.95","1,170,411.95",Federal Hwy
+TRUE,180,A302280,El Cerro Mission Blvd Rehabilitation,County of Valencia,Hwy & Brg Pres,2024,STP-Sm Urb,"128,160.00",0.00,"21,840.00","150,000.00",Federal Hwy
+TRUE,180,A302280,El Cerro Mission Blvd Rehabilitation,County of Valencia,Hwy & Brg Pres,2025,STP-Sm Urb,"1,367,040.00",0.00,"232,959.95","1,599,999.95",Federal Hwy
+TRUE,212,A301880,West Aragon Rd. Improvements,City of Belen,Hwy & Brg Pres,2022,STP-Sm Urb,"85,440.00",0.00,"14,560.00","100,000.00",Federal Hwy
+TRUE,212,A301880,West Aragon Rd. Improvements,City of Belen,Hwy & Brg Pres,2022,STP-Sm Urb,"427,200.00",0.00,"72,799.99","499,999.99",Federal Hwy
+TRUE,212,A301880,West Aragon Rd. Improvements,City of Belen,Hwy & Brg Pres,2022,STP-Sm Urb,"1,061,165.00",0.00,"180,835.20","1,242,000.20",Federal Hwy
+TRUE,216,A301123,I-25 and NM 6 On & Off Ramps Rehab and Reconstruction,NMDOT D-3,Hwy & Brg Pres,2024,STP-Sm Urb,0.00,0.00,0.00,0.00,Federal Hwy
+TRUE,265.2000122,A302162,I-25 FDR Phase 3,NMDOT D-3,Hwy & Brg Pres,2022,STP-Sm Urb,"69,654.00","11,869.87",0.00,"81,523.87",Federal Hwy
+TRUE,265.2000122,A302162,I-25 FDR Phase 3,NMDOT D-3,Hwy & Brg Pres,2023,STP-Sm Urb,"1,643,459.00","280,065.06",0.00,"1,923,524.06",Federal Hwy
+TRUE,314.1000061,A300192,NM 314 Access Management Improvements,NMDOT D-3,Hwy & Brg Pres,2024,STP-Sm Urb,"500,000.00","85,205.98",0.00,"585,205.98",Federal Hwy
+TRUE,314.1000061,A300192,NM 314 Access Management Improvements,NMDOT D-3,Hwy & Brg Pres,2025,STP-Sm Urb,"500,000.00","85,205.98",0.00,"585,205.98",Federal Hwy
+TRUE,537.2999878,A300961,Los Lunas I-25 Interchange and E-W Corridor,Village of Los Lunas,Capacity Proj,2020,STP-Sm Urb,"1,334,878.00",0.00,"227,479.17","1,562,357.17",Federal Hwy
+TRUE,537.2999878,A300961,Los Lunas I-25 Interchange and E-W Corridor,Village of Los Lunas,Capacity Proj,2021,STP-Sm Urb,"227,684.00",0.00,"38,800.07","266,484.07",Federal Hwy
+TRUE,724.0999756,A302270,Camino del Llano Rehabilitation Phase I,City of Belen,Hwy & Brg Pres,2024,STP-Sm Urb,"85,440.00",0.00,"14,560.00","100,000.00",Federal Hwy
+TRUE,724.0999756,A302270,Camino del Llano Rehabilitation Phase I,City of Belen,Hwy & Brg Pres,2025,STP-Sm Urb,"768,960.00",0.00,"131,039.97","899,999.97",Federal Hwy
+TRUE,828.0999756,A301351,South Los Lentes and Morris Rd Improvements Phase II,Village of Los Lunas,Hwy & Brg Pres,2024,STP-Sm Urb,"85,440.00",0.00,"14,560.00","100,000.00",Federal Hwy
+TRUE,828.0999756,A301351,South Los Lentes and Morris Rd Improvements Phase II,Village of Los Lunas,Hwy & Brg Pres,2025,STP-Sm Urb,"384,480.00",0.00,"65,519.99","449,999.99",Federal Hwy
+TRUE,828.2000122,A301352,North Los Lentes Rehabilitation Improvements,Village of Los Lunas,Hwy & Brg Pres,2024,STP-Sm Urb,"85,440.00",0.00,"14,560.00","100,000.00",Federal Hwy
+TRUE,828.2000122,A301352,North Los Lentes Rehabilitation Improvements,Village of Los Lunas,Hwy & Brg Pres,2025,STP-Sm Urb,0.00,0.00,0.00,0.00,Federal Hwy
+TRUE,935,A301350,Southeast Los Lentes Road Improvements,Village of Los Lunas,Capacity Proj,2020,STP-Sm Urb,"85,440.00",0.00,"14,560.00","100,000.00",Federal Hwy
+TRUE,935,A301350,Southeast Los Lentes Road Improvements,Village of Los Lunas,Capacity Proj,2021,STP-Sm Urb,"55,536.00",0.00,"9,464.00","65,000.00",Federal Hwy
+TRUE,935,A301350,Southeast Los Lentes Road Improvements,Village of Los Lunas,Capacity Proj,2021,STP-Sm Urb,"351,431.81",0.00,"59,888.18","411,319.99",Federal Hwy
+TRUE,941,A301400,Meadowlake Road Improvements,County of Valencia,Hwy & Brg Pres,2020,STP-Sm Urb,"187,702.00",0.00,"31,986.66","219,688.66",Federal Hwy
+TRUE,941,A301400,Meadowlake Road Improvements,County of Valencia,Hwy & Brg Pres,2021,STP-Sm Urb,"949,708.00",0.00,"161,841.59","1,111,549.59",Federal Hwy
+TRUE,260.2000122,A300425,NM 6 Pavement Preservation West of I-25,NMDOT D-3,Hwy & Brg Pres,2021,STP-Sm Urb (Non-Chargeable),"807,018.00","137,525.51",0.00,"944,543.51",Federal Hwy
+TRUE,265.1000061,A302161,I-25 FDR Phase 2,NMDOT D-3,Hwy & Brg Pres,2020,STP-Sm Urb (Non-Chargeable),"5,828,144.00",0.00,"993,185.39","6,821,329.39",Federal Hwy
+TRUE,537.2999878,A300961,Los Lunas I-25 Interchange and E-W Corridor,Village of Los Lunas,Capacity Proj,2022,STP-Sm Urb (Non-Chargeable),0.00,0.00,0.00,0.00,Federal Hwy
+TRUE,7.300000191,A300483,NM 333 Pedestrian Improvements Phase II,Village of Tijeras,Bike/Ped,2022,STP-U,"427,200.00",0.00,"72,799.99","499,999.99",Federal Hwy
+TRUE,9.199999809,A301042,Southern Blvd Reconstruction Phase II,City of Rio Rancho,Capacity Proj,2020,STP-U,"1,796,748.00",0.00,"306,187.33","2,102,935.33",Federal Hwy
+TRUE,9.199999809,A301042,Southern Blvd Reconstruction Phase II,City of Rio Rancho,Capacity Proj,2022,STP-U,"2,487,852.00",0.00,"423,959.71","2,911,811.71",Federal Hwy
+TRUE,23.10000038,A302300,2nd St.Rehab/Sidewalk and Lighting Improvements,City of Albuquerque-DMD,Hwy & Brg Pres,2022,STP-U,"600,000.00",0.00,"102,247.17","702,247.17",Federal Hwy
+TRUE,24.20000076,A301031,Alameda DrainTrail Phase 2,County of Bernalillo,Bike/Ped,2020,STP-U,"89,683.00",0.00,"15,283.06","104,966.06",Federal Hwy
+TRUE,24.20000076,A301031,Alameda DrainTrail Phase 2,County of Bernalillo,Bike/Ped,2021,STP-U,"527,084.00",0.00,"89,821.41","616,905.41",Federal Hwy
+TRUE,24.29999924,A301032,Alameda Drain/2nd Street Bike/Ped Trail Ph 3,City of Albuquerque-P&R,Bike/Ped,2021,STP-U,"379,354.00",0.00,"64,646.46","444,000.46",Federal Hwy
+TRUE,24.39999962,A301033,Alameda DrainTrail Phase 4,County of Bernalillo,Bike/Ped,2022,STP-U,"24,937.00",0.00,"4,249.56","29,186.56",Federal Hwy
+TRUE,24.39999962,A301033,Alameda DrainTrail Phase 4,County of Bernalillo,Bike/Ped,2023,STP-U,"24,937.00",0.00,"4,249.56","29,186.56",Federal Hwy
+TRUE,24.39999962,A301033,Alameda DrainTrail Phase 4,County of Bernalillo,Bike/Ped,2024,STP-U,"24,937.00",0.00,"4,249.56","29,186.56",Federal Hwy
+TRUE,24.39999962,A301033,Alameda DrainTrail Phase 4,County of Bernalillo,Bike/Ped,2025,STP-U,"24,937.00",0.00,"4,249.56","29,186.56",Federal Hwy
+TRUE,42.09999847,A300942,NM 500 Rio Bravo Blvd & 2nd St Intersection Improvements,County of Bernalillo,Hwy & Brg Pres,2022,STP-U,"2,000,000.00",0.00,"340,823.90","2,340,823.90",Federal Hwy
+TRUE,42.29999924,A300945,NM 500 Rio Bravo Gap Widening Improvements,County of Bernalillo,Capacity Proj,2021,STP-U,"640,800.00",0.00,"109,199.98","749,999.98",Federal Hwy
+TRUE,42.29999924,A300945,NM 500 Rio Bravo Gap Widening Improvements,County of Bernalillo,Capacity Proj,2023,STP-U,"4,272,000.00",0.00,"727,999.86","4,999,999.86",Federal Hwy
+TRUE,91.19999695,A301891,I-25 / Gibson Blvd. Interchange Reconstruction,NMDOT CRDC,Capacity Proj,2024,STP-U,"610,932.00","104,110.11",0.00,"715,042.11",Federal Hwy
+TRUE,91.19999695,A301891,I-25 / Gibson Blvd. Interchange Reconstruction,NMDOT CRDC,Capacity Proj,2025,STP-U,"4,874,727.00","830,711.74",0.00,"5,705,438.74",Federal Hwy
+TRUE,103.5999985,A300757,ITS-Albuquerque Equipment Upgrades,City of Albuquerque-DMD,ITS-TSM,2024,STP-U,"1,500,000.00",0.00,"255,617.93","1,755,617.93",Federal Hwy
+TRUE,103.6999969,A300758,ITS - AlbuquerqueTraffic Management Systems (FFY 2020 & 2021),City of Albuquerque-DMD,ITS-TSM,2020,STP-U,"500,000.00",0.00,"85,205.98","585,205.98",Federal Hwy
+TRUE,103.6999969,A300758,ITS - AlbuquerqueTraffic Management Systems (FFY 2020 & 2021),City of Albuquerque-DMD,ITS-TSM,2020,STP-U,"500,000.00",0.00,"85,205.98","585,205.98",Federal Hwy
+TRUE,103.8000031,A300759,ITS-Albuquerque Traffic Management Systems-Louisiana Boulevard Improvements,City of Albuquerque-DMD,ITS-TSM,2021,STP-U,"1,000,000.00",0.00,"170,411.95","1,170,411.95",Federal Hwy
+TRUE,120.5,TA00086,Coors Corridor Park & Ride Phase 2,City of Albuquerque-ABQ Ride,Transit,2022,STP-U,"500,000.00",0.00,"85,205.98","585,205.98",Federal Hwy
+TRUE,141.1999969,A302032,AMPA Wide Bicycle Facil. Prog. & Activities,City of Albuquerque-DMD,Bike/Ped,2022,STP-U,"200,000.00",0.00,"34,082.39","234,082.39",Federal Hwy
+TRUE,141.1999969,A302032,AMPA Wide Bicycle Facil. Prog. & Activities,City of Albuquerque-DMD,Bike/Ped,2023,STP-U,"200,000.00",0.00,"34,082.39","234,082.39",Federal Hwy
+TRUE,141.1999969,A302032,AMPA Wide Bicycle Facil. Prog. & Activities,City of Albuquerque-DMD,Bike/Ped,2024,STP-U,"400,000.00",0.00,"68,164.78","468,164.78",Federal Hwy
+TRUE,190.1999969,A301862,AMPA Wide Bike Share Program,Rio Metro Transit Dist,Bike/Ped,2024,STP-U,"116,971.00",0.00,"19,933.26","136,904.26",Federal Hwy
+TRUE,201,A301840,CMP Transportation Analysis Program,MRMPO,ITS-TSM,2020,STP-U,"192,198.00",0.00,"32,752.84","224,950.84",Federal Hwy
+TRUE,201.1000061,A301841,CMP Transportation Analysis Program,MRMPO,ITS-TSM,2021,STP-U,"192,240.00",0.00,"32,759.99","224,999.99",Federal Hwy
+TRUE,201.1999969,A301842,CMP Transportation Analysis Program,MRMPO,ITS-TSM,2022,STP-U,"149,520.00",0.00,"25,480.00","175,000.00",Federal Hwy
+TRUE,201.3000031,A301843,CMP Transportation Analysis Program,MRMPO,ITS-TSM,2023,STP-U,"170,880.00",0.00,"29,119.99","199,999.99",Federal Hwy
+TRUE,201.3999939,A301844,CMP Transportation Analysis Program,MRMPO,ITS-TSM,2024,STP-U,"149,520.00",0.00,"25,480.00","175,000.00",Federal Hwy
+TRUE,201.5,A301845,CMP Transportation Analysis Program,MRMPO,ITS-TSM,2025,STP-U,"170,880.00",0.00,"29,119.99","199,999.99",Federal Hwy
+TRUE,209,A300943,NM 500 Rio Bravo and 2nd Street SW Adaptive Signal Control Technology Project,County of Bernalillo,ITS-TSM,2021,STP-U,"1,025,280.00",0.00,"174,719.97","1,199,999.97",Federal Hwy
+TRUE,249,A300756,ITS-ASTM Improvements on Montgomery/Montano,City of Albuquerque-DMD,ITS-TSM,2025,STP-U,"1,500,000.00",0.00,"255,617.93","1,755,617.93",Federal Hwy
+TRUE,250.6000061,A301901,I-25 Improved: Comanche to Montgomery,NMDOT CRDC,Hwy & Brg Pres,2021,STP-U,"1,148,110.00","195,651.67",0.00,"1,343,761.67",Federal Hwy
+TRUE,250.6000061,A301901,I-25 Improved: Comanche to Montgomery,NMDOT CRDC,Hwy & Brg Pres,2021,STP-U,"1,471,898.00","250,829.01",0.00,"1,722,727.01",Federal Hwy
+TRUE,250.6000061,A301901,I-25 Improved: Comanche to Montgomery,NMDOT CRDC,Hwy & Brg Pres,2023,STP-U,"301,511.00","51,381.08",0.00,"352,892.08",Federal Hwy
+TRUE,260,A302100,District 3 Pavement Preservation - I-40 West of Coors,NMDOT D-3,Hwy & Brg Pres,2021,STP-U,"170,880.00","29,119.99",0.00,"199,999.99",Federal Hwy
+TRUE,332.3999939,A301753,NM 347 (Paseo del Volcan) and Broadmoor Blvd Intersection Improvemnts,City of Rio Rancho,Safety,2022,STP-U,"100,000.00",0.00,"17,041.20","117,041.20",Federal Hwy
+TRUE,332.3999939,A301753,NM 347 (Paseo del Volcan) and Broadmoor Blvd Intersection Improvemnts,City of Rio Rancho,Safety,2023,STP-U,"178,630.00",0.00,"30,440.69","209,070.69",Federal Hwy
+TRUE,345.3999939,TA00351,Central Ave BRT - Phase IB,City of Albuquerque-ABQ Ride,Transit,2021,STP-U,"378,656.00",0.00,"64,527.51","443,183.51",Federal Hwy
+TRUE,347.1000061,A300431,Northern Blvd Expansion Phase B,City of Rio Rancho,Capacity Proj,2021,STP-U,"1,127,808.00",0.00,"192,191.96","1,319,999.96",Federal Hwy
+TRUE,347.1000061,A300431,Northern Blvd Expansion Phase B,City of Rio Rancho,Capacity Proj,2021,STP-U,"1,127,808.00",0.00,"192,191.96","1,319,999.96",Federal Hwy
+TRUE,382.2999878,A301313,Bernalillo Main St Streetscape Phase 4,Town of Bernalillo,Bike/Ped,2021,STP-U,"273,408.00",0.00,"46,591.99","319,999.99",Federal Hwy
+TRUE,382.2999878,A301313,Bernalillo Main St Streetscape Phase 4,Town of Bernalillo,Bike/Ped,2022,STP-U,"42,720.00",0.00,"7,280.00","50,000.00",Federal Hwy
+TRUE,382.2999878,A301313,Bernalillo Main St Streetscape Phase 4,Town of Bernalillo,Bike/Ped,2022,STP-U,"64,080.00",0.00,"10,920.00","75,000.00",Federal Hwy
+TRUE,382.2999878,A301313,Bernalillo Main St Streetscape Phase 4,Town of Bernalillo,Bike/Ped,2023,STP-U,"322,603.00",0.00,"54,975.41","377,578.41",Federal Hwy
+TRUE,382.2999878,A301313,Bernalillo Main St Streetscape Phase 4,Town of Bernalillo,Bike/Ped,2024,STP-U,"1,367,040.00",0.00,"232,959.95","1,599,999.95",Federal Hwy
+TRUE,437,A300160,Sunport Blvd Extension,County of Bernalillo,Capacity Proj,2020,STP-U,"4,570,648.00",0.00,"778,893.05","5,349,541.05",Federal Hwy
+TRUE,465.2999878,A300304,Unser Blvd Gap Widening Phase 2,City of Albuquerque-DMD,Capacity Proj,2020,STP-U,"1,450,000.00",0.00,"247,097.33","1,697,097.33",Federal Hwy
+TRUE,465.2999878,A300304,Unser Blvd Gap Widening Phase 2,City of Albuquerque-DMD,Capacity Proj,2024,STP-U,"8,900,000.00",0.00,"1,516,666.37","10,416,666.37",Federal Hwy
+TRUE,465.2999878,A300304,Unser Blvd Gap Widening Phase 2,City of Albuquerque-DMD,Capacity Proj,2025,STP-U,"2,500,000.00",0.00,"426,029.88","2,926,029.88",Federal Hwy
+TRUE,474.2999878,A301501,98th St.& Gibson Blvd. Intersection Improvements,City of Albuquerque-DMD,Safety,2023,STP-U,"2,000,000.00",0.00,"340,823.90","2,340,823.90",Federal Hwy
+TRUE,493.3999939,A300381,NM 528 Rio Rancho Blvd Improvements (Upper Section),NMDOT CRDC,Capacity Proj,2020,STP-U,"473,421.00","80,676.60",0.00,"554,097.60",Federal Hwy
+TRUE,508.1000061,A301050,Westside Blvd Widening,City of Albuquerque-DMD,Capacity Proj,2020,STP-U,"1,500,000.00",0.00,"255,617.93","1,755,617.93",Federal Hwy
+TRUE,508.1000061,A301050,Westside Blvd Widening,City of Albuquerque-DMD,Capacity Proj,2020,STP-U,"5,385,204.00",0.00,"917,703.12","6,302,907.12",Federal Hwy
+TRUE,508.1000061,A301050,Westside Blvd Widening,City of Albuquerque-DMD,Capacity Proj,2021,STP-U,"2,757,627.00",0.00,"469,932.60","3,227,559.60",Federal Hwy
+TRUE,508.2999878,A301052,Westside Blvd Bike/Ped Path,City of Rio Rancho,Bike/Ped,2021,STP-U,"13,130.00",0.00,"2,237.51","15,367.51",Federal Hwy
+TRUE,508.2999878,A301052,Westside Blvd Bike/Ped Path,City of Rio Rancho,Bike/Ped,2021,STP-U,"85,440.00",0.00,"14,560.00","100,000.00",Federal Hwy
+TRUE,511.3999939,A300622,Isleta Blvd. Reconstruction,County of Bernalillo,Hwy & Brg Pres,2024,STP-U,"427,200.00",0.00,"72,799.99","499,999.99",Federal Hwy
+TRUE,511.3999939,A300622,Isleta Blvd. Reconstruction,County of Bernalillo,Hwy & Brg Pres,2025,STP-U,"2,990,400.00",0.00,"509,599.90","3,499,999.90",Federal Hwy
+TRUE,540,A302240,Loma Colorado Blvd extension,City of Rio Rancho,Misc,2022,STP-U,"1,099,935.00",0.00,"187,442.07","1,287,377.07",Federal Hwy
+TRUE,605.0999756,A302250,Indian School and Q Street Intersection Improvements,City of Albuquerque-DMD,Safety,2023,STP-U,"2,000,000.00",0.00,"340,823.90","2,340,823.90",Federal Hwy
+TRUE,613.0999756,A300201,Idalia Rd Project,City of Rio Rancho,Misc,2021,STP-U,"1,000,000.00",0.00,"170,411.95","1,170,411.95",Federal Hwy
+TRUE,613.4000244,A300202,Idalia Rd Culvert Crossing,City of Rio Rancho,Hwy & Brg Pres,2021,STP-U,"126,693.00",0.00,"21,590.00","148,283.00",Federal Hwy
+TRUE,613.4000244,A300202,Idalia Rd Culvert Crossing,City of Rio Rancho,Hwy & Brg Pres,2022,STP-U,"100,000.00",0.00,"17,041.20","117,041.20",Federal Hwy
+TRUE,613.4000244,A300202,Idalia Rd Culvert Crossing,City of Rio Rancho,Hwy & Brg Pres,2023,STP-U,"1,179,088.00",0.00,"200,930.69","1,380,018.69",Federal Hwy
+TRUE,642.0999756,TA00371,Commuter Rail: Centralized Traffic Control,Rio Metro NMRRX,Transit,2021,STP-U,"5,540,443.00",0.00,"944,157.70","6,484,600.70",Federal Hwy
+TRUE,642.0999756,TA00371,Commuter Rail: Centralized Traffic Control,Rio Metro NMRRX,Transit,2022,STP-U,"2,750,061.00",0.00,"468,643.26","3,218,704.26",Federal Hwy
+TRUE,645.2999878,TA00372,Commuter Rail: Main 2 Extension,Rio Metro NMRRX,Transit,2023,STP-U,"562,706.00",0.00,"95,891.83","658,597.83",Federal Hwy
+TRUE,645.2999878,TA00372,Commuter Rail: Main 2 Extension,Rio Metro NMRRX,Transit,2024,STP-U,"4,061,383.00",0.00,"692,108.20","4,753,491.20",Federal Hwy
+TRUE,682.0999756,A300847,Albuquerque Complete Streets: East Central from Louisiana to Eubank,City of Albuquerque-DMD,Misc,2021,STP-U,"1,000,000.00",0.00,"170,411.95","1,170,411.95",Federal Hwy
+TRUE,683,A300849,Albuquerque Complete Streets: West,City of Albuquerque-DMD,Misc,2022,STP-U,"1,558,084.00",0.00,"265,516.14","1,823,600.14",Federal Hwy
+TRUE,683,A300849,Albuquerque Complete Streets: West,City of Albuquerque-DMD,Misc,2023,STP-U,"3,000,000.00",0.00,"511,235.85","3,511,235.85",Federal Hwy
+TRUE,692.2999878,TA00342,UNM/CNM/Sunport BRT Implementation Phase 1,City of Albuquerque-ABQ Ride,Transit,2024,STP-U,"650,000.00",0.00,"110,767.77","760,767.77",Federal Hwy
+TRUE,692.2999878,TA00342,UNM/CNM/Sunport BRT Implementation Phase 1,City of Albuquerque-ABQ Ride,Transit,2025,STP-U,"3,350,000.00",0.00,"570,880.04","3,920,880.04",Federal Hwy
+TRUE,700.0999756,A301741,Sunset Rd Reconstruction Ph.2,County of Bernalillo,Hwy & Brg Pres,2024,STP-U,"186,150.00",0.00,"31,722.18","217,872.18",Federal Hwy
+TRUE,700.0999756,A301741,Sunset Rd Reconstruction Ph.2,County of Bernalillo,Hwy & Brg Pres,2025,STP-U,"1,273,849.00",0.00,"217,079.09","1,490,928.09",Federal Hwy
+TRUE,802.0999756,A300142,GAP Closure for On-Street Bicycle Facilities,City of Albuquerque-DMD,Bike/Ped,2021,STP-U,"675,000.00",0.00,"115,028.07","790,028.07",Federal Hwy
+TRUE,802.2000122,A300146,Alexander Boulevard gap closure for on street bike facilities,City of Albuquerque-DMD,Bike/Ped,2021,STP-U,"300,000.00",0.00,"51,123.59","351,123.59",Federal Hwy
+TRUE,865.0999756,A300161,Woodward Road Improvements Project,County of Bernalillo,Hwy & Brg Pres,2020,STP-U,"1,554,712.00",0.00,"264,941.51","1,819,653.51",Federal Hwy
+TRUE,865.0999756,A300161,Woodward Road Improvements Project,County of Bernalillo,Hwy & Brg Pres,2021,STP-U,"717,833.00",0.00,"122,327.32","840,160.32",Federal Hwy
+TRUE,870.0999756,A300143,North Diversion Channel Undercrossing,City of Albuquerque-DMD,Bike/Ped,2021,STP-U,"595,646.00",0.00,"101,505.20","697,151.20",Federal Hwy
+TRUE,870.2000122,A300145,North Diversion Channel Trail Rehabilitation,City of Albuquerque-P&R,Bike/Ped,2023,STP-U,"1,708,800.00",0.00,"291,199.94","1,999,999.94",Federal Hwy
+TRUE,870.2000122,A300145,North Diversion Channel Trail Rehabilitation,City of Albuquerque-P&R,Bike/Ped,2025,STP-U,"1,708,800.00",0.00,"291,199.94","1,999,999.94",Federal Hwy
+TRUE,872.4000244,A300504,Bridge Blvd and Tower Rd Reconstruction Phase 2,County of Bernalillo,Hwy & Brg Pres,2021,STP-U,"130,796.00",0.00,"22,289.20","153,085.20",Federal Hwy
+TRUE,872.4000244,A300504,Bridge Blvd and Tower Rd Reconstruction Phase 2,County of Bernalillo,Hwy & Brg Pres,2022,STP-U,"6,289,204.00",0.00,"1,071,755.53","7,360,959.53",Federal Hwy
+TRUE,437,A300160,Sunport Blvd Extension,County of Bernalillo,Capacity Proj,2020,STP-U (Non-Chargeable),"11,263,936.00",0.00,"1,919,509.32","13,183,445.32",Federal Hwy
+TRUE,94.40000153,A301544,Santo Domingo Multi-Use Trail Segment 2,Pueblo of Santo Domingo,Bike/Ped,2020,TAP-Flex,"117,233.00",0.00,"19,977.90","137,210.90",Federal Hwy
+TRUE,94.40000153,A301544,Santo Domingo Multi-Use Trail Segment 2,Pueblo of Santo Domingo,Bike/Ped,2020,TAP-Flex,"377,766.00",0.00,"64,375.84","442,141.84",Federal Hwy
+TRUE,109,A302230,Sun Ranch and Jubilee Multi-Use Trail,Village of Los Lunas,Bike/Ped,2020,TAP-Flex,"187,968.00",0.00,"32,031.99","219,999.99",Federal Hwy
+TRUE,825.2999878,A300894,North NM 314 Bike and Pedestrian Improvements Phase II,Village of Los Lunas,Bike/Ped,2020,TAP-Flex,"170,880.00",0.00,"29,119.99","199,999.99",Federal Hwy
+TRUE,825.2999878,A300894,North NM 314 Bike and Pedestrian Improvements Phase II,Village of Los Lunas,Bike/Ped,2022,TAP-Flex,"85,440.00",0.00,"14,560.00","100,000.00",Federal Hwy
+TRUE,825.2999878,A300894,North NM 314 Bike and Pedestrian Improvements Phase II,Village of Los Lunas,Bike/Ped,2022,TAP-Flex,"1,743,680.00",0.00,"297,143.91","2,040,823.91",Federal Hwy
+TRUE,24.20000076,A301031,Alameda DrainTrail Phase 2,County of Bernalillo,Bike/Ped,2020,TAP-Lg Urb,"331,139.00",0.00,"56,430.04","387,569.04",Federal Hwy
+TRUE,24.20000076,A301031,Alameda DrainTrail Phase 2,County of Bernalillo,Bike/Ped,2021,TAP-Lg Urb,"327,446.00",0.00,"55,800.71","383,246.71",Federal Hwy
+TRUE,24.39999962,A301033,Alameda DrainTrail Phase 4,County of Bernalillo,Bike/Ped,2022,TAP-Lg Urb,"28,055.00",0.00,"4,780.91","32,835.91",Federal Hwy
+TRUE,24.39999962,A301033,Alameda DrainTrail Phase 4,County of Bernalillo,Bike/Ped,2023,TAP-Lg Urb,"80,135.00",0.00,"13,655.96","93,790.96",Federal Hwy
+TRUE,24.39999962,A301033,Alameda DrainTrail Phase 4,County of Bernalillo,Bike/Ped,2024,TAP-Lg Urb,"326,983.00",0.00,"55,721.81","382,704.81",Federal Hwy
+TRUE,24.39999962,A301033,Alameda DrainTrail Phase 4,County of Bernalillo,Bike/Ped,2025,TAP-Lg Urb,"927,555.00",0.00,"158,066.46","1,085,621.46",Federal Hwy
+TRUE,101.6999969,A300717,AMPA wide Bike/Ped Safety Education Program,City of Albuquerque-P&R,Bike/Ped,2020,TAP-Lg Urb,"110,000.00",0.00,"18,745.31","128,745.31",Federal Hwy
+TRUE,101.6999969,A300717,AMPA wide Bike/Ped Safety Education Program,City of Albuquerque-P&R,Bike/Ped,2021,TAP-Lg Urb,"110,000.00",0.00,"18,745.31","128,745.31",Federal Hwy
+TRUE,101.8000031,A300718,AMPA Wide Youth Bicycle/Pedestrian Safety Education Program,City of Albuquerque-P&R,Bike/Ped,2022,TAP-Lg Urb,"87,320.00",0.00,"14,880.37","102,200.37",Federal Hwy
+TRUE,101.8000031,A300718,AMPA Wide Youth Bicycle/Pedestrian Safety Education Program,City of Albuquerque-P&R,Bike/Ped,2023,TAP-Lg Urb,"119,777.00",0.00,"20,411.43","140,188.43",Federal Hwy
+TRUE,101.8000031,A300718,AMPA Wide Youth Bicycle/Pedestrian Safety Education Program,City of Albuquerque-P&R,Bike/Ped,2024,TAP-Lg Urb,"54,863.00",0.00,"9,349.31","64,212.31",Federal Hwy
+TRUE,101.8000031,A300718,AMPA Wide Youth Bicycle/Pedestrian Safety Education Program,City of Albuquerque-P&R,Bike/Ped,2025,TAP-Lg Urb,"87,320.00",0.00,"14,880.37","102,200.37",Federal Hwy
+TRUE,190.1000061,A301861,AMPA Wide Bike Share Program,Rio Metro Transit Dist,Bike/Ped,2020,TAP-Lg Urb,"563,200.00",0.00,"95,976.01","659,176.01",Federal Hwy
+TRUE,190.1999969,A301862,AMPA Wide Bike Share Program,Rio Metro Transit Dist,Bike/Ped,2022,TAP-Lg Urb,"750,000.00",0.00,"127,808.96","877,808.96",Federal Hwy
+TRUE,190.1999969,A301862,AMPA Wide Bike Share Program,Rio Metro Transit Dist,Bike/Ped,2024,TAP-Lg Urb,"633,029.00",0.00,"107,875.71","740,904.71",Federal Hwy
+TRUE,248,A302260,Albuquerque Public Schools Vision Zero for Youth Initiative,Albuq. Public Schools,Safety,2022,TAP-Lg Urb,"149,500.00",0.00,"25,476.59","174,976.59",Federal Hwy
+TRUE,248,A302260,Albuquerque Public Schools Vision Zero for Youth Initiative,Albuq. Public Schools,Safety,2023,TAP-Lg Urb,"149,500.00",0.00,"25,476.59","174,976.59",Federal Hwy
+TRUE,508.2999878,A301052,Westside Blvd Bike/Ped Path,City of Rio Rancho,Bike/Ped,2021,TAP-Lg Urb,"566,893.00",0.00,"96,605.34","663,498.34",Federal Hwy
+TRUE,94.40000153,A301544,Santo Domingo Multi-Use Trail Segment 2,Pueblo of Santo Domingo,Bike/Ped,2020,TAP-Rural,"677,327.00",0.00,"115,424.62","792,751.62",Federal Hwy
+TRUE,109,A302230,Sun Ranch and Jubilee Multi-Use Trail,Village of Los Lunas,Bike/Ped,2021,TAP-Sm Urb,"85,440.00",0.00,"14,560.00","100,000.00",Federal Hwy
+TRUE,109,A302230,Sun Ranch and Jubilee Multi-Use Trail,Village of Los Lunas,Bike/Ped,2021,TAP-Sm Urb,"589,536.00",0.00,"100,463.98","689,999.98",Federal Hwy
+TRUE,147.1000061,A301242,NM 47 Safety Improvements,Pueblo of Isleta,Safety,2020,Tribal Funds,0.00,0.00,"1,950,000.00","1,950,000.00",Local
